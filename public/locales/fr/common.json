@@ -1,0 +1,419 @@
+{
+  "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
+  "currentLanguage": "Français",
+  "currentLanguageFlag": "flag2.svg",
+  "currentLocale": "fr",
+  "languages": [
+    { "language": "Portugais", "flag": "flag3.svg", "DO_NOT_CHANGE": "pt" },
+    { "language": "Espagnol", "flag": "flag4.svg", "DO_NOT_CHANGE": "es" },
+    { "language": "Anglais", "flag": "flag1.svg", "DO_NOT_CHANGE": "en" }
+  ],
+
+  "contactInfo": [
+    {
+      "text": "contact@excellence-conciergerie.com",
+      "icon": "vector2.svg",
+      "link": "mailto:contact@excellence-conciergerie.com"
+    },
+    {
+      "text": "+33 6 24 41 94 81",
+      "icon": "vector1.svg",
+      "link": "https://wa.me/33624419481"
+    },
+    {
+      "text": "+33 6 65 00 28 29",
+      "icon": "vector3.svg",
+      "link": "tel:+33665002829"
+    }
+  ],
+
+  "socials": [
+    {
+      "text": "Linkedin",
+      "icon": "vector11.svg",
+      "type": "url",
+      "link": "https://www.linkedin.com/company/excellence-conciergerie/"
+    },
+    {
+      "text": "Instagram",
+      "icon": "vector9.svg",
+      "type": "url",
+      "link": "https://www.instagram.com/excellenceconciergerie/"
+    }
+  ],
+
+  "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : whyUs, about, services, contact",
+  "navLinks": [
+    { "text": "Pourquoi Nous ?", "DO_NOT_CHANGE": "whyUs" },
+    { "text": "À propos", "DO_NOT_CHANGE": "about" },
+    { "text": "Services", "DO_NOT_CHANGE": "services" },
+    { "text": "Contact", "DO_NOT_CHANGE": "contact" }
+  ],
+
+  "heroSubtitle": "Votre partenaire de propreté et de confort",
+  "heroTitle": "Bienvenue chez Excellence Cleaners",
+  "heroButton": "Découvrez nos services",
+  "heroFirstParagraph": "Chez Excellence Cleaners, nous nous spécialisons dans l'art de la propreté impeccable. En tant que leader dans le domaine des services de blanchisserie et d'entretien pour les hébergements de vacances, nous nous engageons à surpasser vos attentes en matière de soin du linge et de service client.",
+  "heroSecondParagraph": "Notre passion pour l'excellence se reflète dans chaque détail, de la literie fraîchement lavée aux textiles impeccablement entretenus. Faites confiance à notre expertise pour transformer votre espace en un sanctuaire de confort et de propreté.",
+
+  "howItWorksSubtitle": "Simplifiez votre quotidien",
+  "howItWorksTitle": "Comment ça fonctionne",
+  "howItWorks": [
+    {
+      "icon": "vector17.svg",
+      "title": "Collecte pratique",
+      "description": "Planifiez une collecte à votre convenance et laissez-nous prendre soin de votre linge"
+    },
+    {
+      "icon": "vector18.svg",
+      "title": "Traitement expert",
+      "description": "Select the location and time you’d like our professionals to clean"
+    },
+    {
+      "icon": "vector10.svg",
+      "title": "Livraison rapide",
+      "description": "Recevez votre linge impeccablement lavé et plié à votre porte, prêt à impressionner vos invités."
+    }
+  ],
+
+  "introductionSubtitle": "Découvrez nos points forts",
+  "introductionTitle": "Services Excellence Cleaners",
+  "introductionDescription": "Nous sommes fiers d'offrir une gamme complète de services de blanchisserie et d'entretien conçus pour dépasser vos attentes. Que vous gériez un hôtel de luxe ou des locations de vacances, notre équipe expérimentée garantit des résultats impeccables à chaque commande. Explorez nos principaux avantages",
+  "introductionAdvantages": [
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    },
+    {
+      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+    }
+  ],
+
+  "whyUsSubtitle": "Cleaning service",
+  "whyUsTitle": "Pourquoi Choisir Excellence cleaners?",
+  "whyUsDescription": "Chez Excellence Cleaners, nous nous distinguons par notre engagement envers l'excellence et notre passion pour fournir des services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins",
+  "whyUsReasons": [
+    {
+      "title": "Professionnalisme et Expertise",
+      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+    },
+    {
+      "title": "Professionnalisme et Expertise",
+      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+    },
+    {
+      "title": "Professionnalisme et Expertise",
+      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+    },
+    {
+      "title": "Professionnalisme et Expertise",
+      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+    },
+    {
+      "title": "Professionnalisme et Expertise",
+      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+    }
+  ],
+
+  "messageSubtitle": "Catherine Teixeira",
+  "messageTitle": "Message de la Directrice",
+  "messageDescription": "Bienvenue chez Excellence Conciergerie. En tant que Directrice Générale, je suis ravie de vous accueillir. Pour les propriétaires, nous prenons soin de votre bien avec passion et confidentialité. Pour les voyageurs, nous promettons une expérience exceptionnelle et discrète. Excellence Conciergerie incarne le raffinement, la discrétion et l'attention personnelle. Bienvenue à l'excellence.",
+
+  "teamSubtitle": "Notre engagement envers notre équipe et notre communauté",
+  "teamTitle": "Une équipe dédiée à votre satisfaction",
+  "teamDescription": "Chez Excellence Cleaners, nous considérons nos employés comme le cœur de notre entreprise. Nous valorisons chaque membre de notre équipe et nous nous engageons à créer un environnement de travail où ils peuvent s'épanouir et exceller. Parallèlement, nous croyons fermement en notre responsabilité envers la communauté locale qui nous soutient. Découvrez ce qui distingue notre équipe",
+  "teamSecondTitle": "Notre Engagement Humain",
+  "teamMinorTitleFirst": "Formation approfondie et expertise métier",
+  "teamMinorDescriptionFirst": "Nos employés bénéficient d'une formation rigoureuse et continue pour garantir un service de la plus haute qualité.",
+  "teamMinorTitleSecond": "Engagement communautaire et responsabilité sociale",
+  "teamMinorDescriptionSecond": "Nous contribuons activement au bien-être de notre communauté à travers des initiatives durables et des pratiques responsables.",
+
+  "aboutSubtitle": "Qui sommes-nous",
+  "aboutTitle": "Excellence Cleaners - Votre partenaire de confiance",
+  "aboutDescription": "Chez Excellence Cleaners, nous nous engageons à transformer chaque séjour en une expérience inoubliable grâce à nos services de blanchisserie de qualité supérieure. Depuis notre création, nous avons su nous distinguer par notre dévouement à l'excellence, notre engagement envers nos employés et notre contribution positive à la communauté locale.",
+  "aboutButton": "Découvrez notre histoire",
+
+  "servicesSubtitle": "Nos Services",
+  "servicesTitle": "Offres de Excellence Cleaners",
+  "services": [
+    {
+      "image": "img4.jpg",
+      "shortTitle": "Gestion Propriété",
+      "title": "Gestion Complète de la Propriété de Luxe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque tellus eu est commodo ultricies. Integer varius risus non mauris lacinia, in dictum tortor vehicula. Etiam fringilla sapien nec neque accumsan, sit amet luctus felis tincidunt."
+    },
+    {
+      "image": "img5.jpg",
+      "shortTitle": "Entretien Propriété",
+      "title": "Services d'Entretien Personnalisés",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae fringilla odio, in convallis nisl. Fusce tincidunt feugiat eros, quis convallis ex ullamcorper et. Proin dapibus dui magna, vel efficitur ligula tincidunt vitae."
+    },
+    {
+      "image": "img6.jpg",
+      "shortTitle": "Gestion Immobilière",
+      "title": "Gestion Complète de Propriété Résidentielle",
+      "description": "Suspendisse potenti. Maecenas sed ipsum vitae libero maximus suscipit. Sed rutrum nulla ac neque laoreet ultricies. Integer pulvinar eros nec neque congue aliquam. Aliquam non dolor at purus hendrerit tincidunt a sit amet odio."
+    },
+    {
+      "image": "img7.jpg",
+      "shortTitle": "Maintenance Luxe",
+      "title": "Service de Maintenance et de Gestion de Luxe",
+      "description": "Vestibulum sodales, ex vel tempor feugiat, magna velit consequat metus, in luctus dui diam sed est. Quisque vitae ligula sed purus mattis convallis. Cras hendrerit efficitur ex, id vestibulum libero. Fusce aliquet est ac diam elementum, sit amet ullamcorper orci posuere."
+    },
+    {
+      "image": "img8.jpg",
+      "shortTitle": "Gestion Patrimoniale",
+      "title": "Gestion Globale de Patrimoine de Luxe",
+      "description": "Donec euismod eleifend felis, id tempor leo. Curabitur nec condimentum lorem, eu sollicitudin risus. Integer et felis ut leo venenatis sollicitudin. Nulla facilisi. Nam nec purus quis lacus vestibulum tristique non vel justo."
+    },
+    {
+      "image": "img9.jpg",
+      "shortTitle": "Services Luxe",
+      "title": "Services de Conciergerie pour Propriétés de Prestige",
+      "description": "Quisque euismod, ex sit amet eleifend laoreet, orci arcu rutrum tellus, at consectetur nisl sapien vitae arcu. Sed varius placerat purus, ac vestibulum urna. Duis fringilla turpis nec ultricies laoreet. Etiam scelerisque metus nec velit ultrices, a egestas urna efficitur."
+    }
+  ],
+  "servicesButtonOne": "Découvrir nos services",
+  "servicesButtonTwo": "Nous Contacter",
+  "servicesButtonThree": "Demander un Devis",
+
+  "faqSubtitle": "Questions Fréquemment Posées",
+  "faqTitle": "Nous Sommes Là Pour Vous Aider",
+  "faq": [
+    {
+      "title": "Quels services offre Excellence Conciergerie ?",
+      "description": "Excellence Conciergerie offre une gamme complète de services de gestion immobilière de luxe, comprenant l'entretien, la sécurité, la gestion des réservations et des services personnalisés pour les propriétaires et les voyageurs."
+    },
+    {
+      "title": "Comment fonctionne la surveillance 24/7 par Excellence Conciergerie ?",
+      "description": "Notre surveillance 24/7 repose sur des technologies avancées et une équipe dédiée pour assurer une réponse rapide à tout incident, garantissant la sécurité complète de votre propriété."
+    },
+    {
+      "title": "Quels sont les avantages des partenariats exclusifs d'Excellence Conciergerie ?",
+      "description": "Excellence Conciergerie entretient des partenariats exclusifs avec des entreprises de construction, des architectes, des designers d'intérieur et d'autres professionnels. Cela garantit des interventions de haute qualité pour améliorer et maintenir la valeur esthétique de votre propriété."
+    },
+    {
+      "title": "Pourquoi choisir Excellence Conciergerie pour gérer ma propriété de luxe ?",
+      "description": "Excellence Conciergerie se distingue par son engagement envers l'excellence, la transparence dans chaque service fourni et sa capacité à fournir des solutions sur mesure qui répondent précisément à vos besoins. Nous nous engageons à ce que votre propriété reste immaculée et bien entretenue en tout temps."
+    },
+    {
+      "title": "Quelles sont les conditions d'annulation des services d'Excellence Conciergerie ?",
+      "description": "Vous pouvez annuler nos services à tout moment en nous contactant directement. Nous nous efforçons de rendre le processus d'annulation aussi simple et transparent que possible pour nos clients."
+    },
+    {
+      "title": "Comment puis-je faire une demande spéciale à Excellence Conciergerie ?",
+      "description": "Pour toute demande spéciale, que ce soit des besoins spécifiques pour votre propriété ou des services personnalisés pour un événement, veuillez nous contacter directement. Nous sommes là pour répondre à vos besoins spécifiques et vous proposer une solution sur mesure."
+    }
+  ],
+
+  "afterBeforeSubtitle": "Avant et Après",
+  "afterBeforeTitle": "Transformations Étonnantes",
+  "afterBeforeBefore": "Avant",
+  "afterBeforeAfter": "Après",
+  "afterBefore": [
+    { "imageBefore": "img1.jpg", "imageAfter": "img2.jpg" },
+    { "imageBefore": "img3.jpg", "imageAfter": "img4.jpg" },
+    { "imageBefore": "img5.jpg", "imageAfter": "img6.jpg" },
+    { "imageBefore": "img7.jpg", "imageAfter": "img8.jpg" },
+    { "imageBefore": "img9.jpg", "imageAfter": "img10.jpg" },
+    { "imageBefore": "img11.jpg", "imageAfter": "img13.jpg" },
+    { "imageBefore": "img1.jpg", "imageAfter": "img11.jpg" },
+    { "imageBefore": "img4.jpg", "imageAfter": "img6.jpg" }
+  ],
+
+  "contactSubtitle": "Prenez Contact",
+  "contactTitle": "Contactez-nous",
+  "contactDescription": "Êtes-vous prêt à élever votre hospitalité et à vous engager pour l'excellence ? Veuillez remplir le formulaire ci-dessous, et notre équipe vous contactera sous peu pour discuter de la manière dont nous pouvons vous aider à offrir des séjours inoubliables à vos clients.",
+
+  "fullNameLabel": "Nom Complet",
+  "fullNamePlaceholder": "Votre nom complet",
+  "emailLabel": "Email",
+  "emailPlaceholder": "Votre Email",
+  "phoneLabel": "Phone",
+  "phonePlaceholder": "Your phone",
+  "addressLabel": "Address",
+  "addressPlaceholder": "Location address",
+  "companyNameLabel": "Company",
+  "companyNamePlaceholder": "Name of Your Company",
+  "messageLabel": "Message",
+  "messagePlaceholder": "Your phone",
+
+  "propertyLocationLabel": "Emplacement de la Propriété",
+  "propertyLocationPlaceholder": "Emplacement",
+  "propertyRoomAmountLabel": "Nombre de Chambres",
+  "propertyRoomAmountPlaceholder": "Nombre",
+  "propertyMessageLabel": "Message / Commentaires ou Demandes Spéciales",
+  "propertyMessagePlaceholder": "Votre Message",
+
+  "submit": "Soumettre",
+  "formSubmittedSuccessfully": "Formulaire Soumis Avec Succès !",
+  "thankYouForYourSubmission": "Merci pour votre soumission. Nous vous répondrons sous peu.",
+  "backToStart": "Retour au Début",
+
+  "legalLinks": [
+    {
+      "text": "Conditions Générales",
+      "DO_NOT_CHANGE": "terms",
+      "array": [
+        {
+          "title": "1. Introduction",
+          "description": "Bienvenue sur notre site web. Si vous continuez à naviguer et à utiliser ce site web, vous acceptez de respecter et d'être lié par les conditions générales d'utilisation suivantes, qui régissent notre relation avec vous par rapport à ce site web, ainsi que notre politique de confidentialité."
+        },
+        {
+          "title": "2. Licence d'utilisation du site web",
+          "description": "Sauf indication contraire, nous ou nos concédants détenons les droits de propriété intellectuelle sur le site web et le matériel présent sur le site web. Sous réserve de la licence ci-dessous, tous ces droits de propriété intellectuelle sont réservés."
+        },
+        {
+          "title": "3. Utilisation acceptable",
+          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+        },
+        {
+          "title": "4. Limitations de responsabilité",
+          "description": "Nous ne serons pas responsables envers vous (que ce soit en vertu du droit des contrats, du droit délictuel ou autre) en relation avec le contenu, l'utilisation ou autrement en relation avec ce site web : pour toute perte indirecte, spéciale ou consécutrice ; ou pour toute perte d'activité, de revenus, de bénéfices ou d'économies anticipées, perte de contrats ou de relations commerciales, perte de réputation ou de bonne volonté, ou perte ou corruption d'informations ou de données."
+        },
+        {
+          "title": "5. Utilisation acceptable",
+          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+        },
+        {
+          "title": "6. Utilisation acceptable",
+          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+        },
+        {
+          "title": "7. Utilisation acceptable",
+          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+        },
+        {
+          "title": "8. Utilisation acceptable",
+          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+        }
+      ]
+    },
+    {
+      "text": "Politique de Confidentialité",
+      "DO_NOT_CHANGE": "privacy",
+      "array": [
+        {
+          "title": "1. Informations que nous recueillons",
+          "description": "Nous pouvons collecter les informations suivantes : nom, coordonnées incluant l'adresse e-mail, informations démographiques telles que le code postal, préférences et intérêts, autres informations pertinentes pour les enquêtes clients et/ou offres."
+        },
+        {
+          "title": "2. Utilisation des informations que nous recueillons",
+          "description": "Nous avons besoin de ces informations pour comprendre vos besoins et vous fournir un meilleur service, et notamment pour les raisons suivantes : tenue de registres internes, amélioration de nos produits et services, envoi d'e-mails promotionnels sur de nouveaux produits, offres spéciales ou autres informations que nous pensons susceptibles de vous intéresser en utilisant l'adresse e-mail que vous avez fournie."
+        },
+        {
+          "title": "3. Sécurité",
+          "description": "Nous nous engageons à assurer la sécurité de vos informations. Afin d'empêcher tout accès ou divulgation non autorisé(e), nous avons mis en place des procédures physiques, électroniques et managériales appropriées pour sauvegarder et sécuriser les informations que nous collectons en ligne."
+        },
+        {
+          "title": "4. Utilisation des cookies",
+          "description": "Un cookie est un petit fichier qui demande la permission d'être placé sur le disque dur de votre ordinateur. Une fois que vous êtes d'accord, le fichier est ajouté et le cookie aide à analyser le trafic web ou vous permet de savoir quand vous visitez un site particulier. Les cookies permettent aux applications web de vous répondre en tant qu'individu. L'application web peut adapter ses opérations à vos besoins, goûts et dégoûts en collectant et se souvenant des informations relatives à vos préférences."
+        }
+      ]
+    }
+  ],
+
+  "attributionsTitle": "Attributions",
+  "attributions": [
+    {
+      "title": "unsplash images",
+      "text": "Images from Unsplash",
+      "link": "https://unsplash.com/"
+    },
+    {
+      "title": "svgrepo icons",
+      "text": "Arrow Icons and a few others from SVGRepo",
+      "link": "https://www.svgrepo.com/"
+    },
+    {
+      "title": "toptal patterns",
+      "text": "Packs subtle Patterns from Toptal",
+      "link": "https://www.toptal.com/designers/subtlepatterns/"
+    },
+    {
+      "title": "image freepik",
+      "text": "About Image from Freepik",
+      "link": "https://www.freepik.com/free-photo/people-taking-care-office-cleaning_25219988.htm#page=5&query=cleaning%20team&position=14&from_view=keyword&track=ais_user&uuid=f0186df1-988f-4c5c-9c41-bc86a1f860d4"
+    },
+    {
+      "title": "reward icons",
+      "text": "Reward icons created by Freepik - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/reward"
+    },
+    {
+      "title": "graph icons",
+      "text": "Graph icons created by Gregor Cresnar - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/graph"
+    },
+    {
+      "title": "heart icons",
+      "text": "Heart icons created by Freepik - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/heart"
+    },
+    {
+      "title": "camera icons",
+      "text": "Camera icons created by Freepik - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/camera"
+    },
+    {
+      "title": "bulb icons",
+      "text": "Bulb icons created by Creative Stall Premium - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/bulb"
+    },
+    {
+      "title": "watch icons",
+      "text": "Watch icons created by IconMarketPK - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/watch"
+    },
+    {
+      "title": "calendar icons",
+      "text": "Calendar icons created by Anggara - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/calendar"
+    },
+    {
+      "title": "crown icons",
+      "text": "Crown icons created by Freepik - Flaticon",
+      "link": "https://www.flaticon.com/free-icons/crown"
+    },
+    {
+      "title": "fonts google",
+      "text": "Fonts from google fonts",
+      "link": "https://fonts.google.com/"
+    }
+  ],
+
+  "closeModalButton": "Fermer",
+  "privacyPolicyWarningText": "En soumettant ce formulaire, vous acceptez notre ",
+  "privacyPolicyWarningLink": "politique de confidentialité",
+
+  "requiredField": "Ce champ est obligatoire",
+  "invalidEmail": "L'adresse e-mail est invalide",
+  "submissionError": "Une erreur inattendue s'est produite lors de la soumission. Veuillez réessayer.",
+
+  "guideLinesAccessibilityText": "Avertissement : Le terme accessibility_text[number] fait référence aux fonctionnalités d'accessibilité du site web conçues pour les utilisateurs de lecteurs d'écran ou les personnes ayant des troubles visuels. Il est recommandé de ne pas modifier les champs suivants :",
+  "accessibility_text1": "Aller au contenu principal",
+  "accessibility_text3": "Appuyez pour mettre en pause la vidéo d'arrière-plan",
+  "accessibility_text4": "Appuyez pour lire la vidéo d'arrière-plan",
+  "accessibility_text5": "Vidéo d'arrière-plan automatique, appuyez pour mettre en pause. Passez si vous utilisez un lecteur d'écran.",
+  "accessibility_text6": "Menu de navigation",
+  "accessibility_text7": "Nos Services",
+  "accessibility_text8": "Bouton de slider, veuillez sauter si vous utilisez un lecteur d'écran",
+
+  "footerDescription": "Excellence Conciergerie est une agence de gestion immobilière de luxe basée sur la Côte d'Azur. Notre équipe dédiée offre des services personnalisés pour répondre aux besoins uniques de chaque propriétaire.",
+  "footerContactTitle": "Contact",
+  "footerSiteLinksTitle": "Liens Utiles"
+}

@@ -1,0 +1,342 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Lato Fonts */
+@font-face {
+  font-family: "Lato";
+  src: url("/assets/fonts/Lato-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("/assets/fonts/Lato-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("/assets/fonts/Lato-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("/assets/fonts/lato-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+.skip-to-content {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  background-color: #000;
+  color: #fff;
+  padding: 8px;
+  text-decoration: none;
+  z-index: 1000;
+}
+
+.skip-to-content:focus {
+  top: 0;
+}
+
+:focus-visible {
+  outline: 4px solid #007bff; /* Change the color as needed */
+  transition: outline 0.2s ease-in-out; /* Adjust the duration and timing function as needed */
+  z-index: 1500;
+}
+
+* {
+  white-space: pre-line;
+  font-family: "Lato", sans-serif !important;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+body {
+  font-size: 1rem;
+}
+
+p {
+  line-height: 1.6 !important;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.slide-in-bottom {
+  animation: slide-in-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+@keyframes slide-in-bottom {
+  0% {
+    transform: translateY(200px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.slide-in-bottom-leave {
+  animation: slide-in-bottom-leave 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    both;
+}
+@keyframes slide-in-bottom-leave {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(200px);
+    opacity: 0;
+  }
+}
+
+.slide-right-animation {
+  animation: slide-in-right 1s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@keyframes slide-in-right {
+  0% {
+    transform: translateX(1000px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.dropdown-open-animation {
+  animation: open 1.5s ease-out forwards;
+  max-height: 0;
+  overflow: hidden;
+}
+
+@keyframes open {
+  from {
+    max-height: 0;
+  }
+  to {
+    max-height: 1000px;
+  }
+}
+
+.dropdown-close-animation {
+  animation: close 0.5s ease-out forwards;
+  max-height: 1000px;
+  overflow: hidden;
+}
+
+@keyframes close {
+  from {
+    max-height: 1000px;
+  }
+  to {
+    max-height: 0;
+  }
+}
+
+.transition-max-height {
+  transition: max-height 0.725s ease-in;
+}
+
+.transition-max-height-closed {
+  transition: max-height 0.925s ease-out;
+}
+
+.btn {
+  background: #1d738b;
+}
+
+.btn-secondary {
+  background: #305d69;
+}
+
+.btn:hover {
+  background-color: #14536c;
+}
+
+.btn-secondary:hover {
+  background-color: #274d58;
+}
+
+.btn:active,
+.btn-secondary:active {
+  transform: translate(0em, 0.2em);
+}
+
+.transition-scale {
+  transition: transform 0.3s ease;
+}
+
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 100%, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.progress-bar {
+  transform-origin: 0%;
+}
+
+.shadow-custom {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+.curve::before {
+  transform: translateX(-50%);
+}
+
+.text-shadow-custom {
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+}

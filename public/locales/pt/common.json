@@ -1,0 +1,330 @@
+{
+  "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
+  "currentLanguage": "Português",
+  "currentLanguageFlag": "flag3.svg",
+  "currentLocale": "pt",
+  "languages": [
+    { "language": "Inglês", "flag": "flag1.svg", "DO_NOT_CHANGE": "en" },
+    { "language": "Espanhol", "flag": "flag4.svg", "DO_NOT_CHANGE": "es" },
+    { "language": "Francês", "flag": "flag2.svg", "DO_NOT_CHANGE": "fr" }
+  ],
+
+  "guideLinesLinks": "Warning: The only accepted values for the DO_NOT_CHANGE fields in navLinks are the current website IDs, which are as follows: about, whyUs, message, subscriptions, services, faq, contact",
+  "navLinks": [
+    { "text": "Compromisso", "DO_NOT_CHANGE": "about" },
+    { "text": "Gestão de Locação", "DO_NOT_CHANGE": "services" },
+    { "text": "Assinaturas Personalizadas", "DO_NOT_CHANGE": "subscriptions" },
+    { "text": "Contato", "DO_NOT_CHANGE": "contact" }
+  ],
+
+  "heroSubtitle": "Excellence Conciergerie",
+  "heroTitle": "Experiências Inesquecíveis e Serviços\nde Luxo Discreto na Riviera Francesa",
+
+  "introductionSubtitle": "Detalhes do Nosso Compromisso",
+  "introductionTitle": "Nosso Compromisso com Você",
+  "introductionDescription": [
+    {
+      "text": "Na Excellence Conciergerie, superamos os padrões de luxo criando memórias inesquecíveis e oferecendo serviços extraordinários, sempre com absoluta discrição."
+    },
+    {
+      "text": "Para proprietários de imóveis, protegemos seu investimento com gestão transparente e eficiente."
+    },
+    {
+      "text": "Para viajantes, oferecemos uma experiência excepcional e discreta comparável aos melhores hotéis 5 estrelas, garantindo excelência, serviço e atenção aos detalhes."
+    }
+  ],
+
+  "whyUsSubtitle": "Gestão de Propriedades de Luxo",
+  "whyUsTitle": "Por Que Escolher a Excellence Conciergerie?",
+  "whyUsDescription": "Descubra por que os clientes confiam na Excellence Conciergerie para serviços excepcionais de gestão de propriedades de luxo. Combinamos expertise, personalização e eficiência para gerenciar propriedades com profissionalismo incomparável e atenção meticulosa aos detalhes.",
+  "whyUsReasons": [
+    {
+      "icon": "vector12.svg",
+      "title": "Profissionalismo e Expertise",
+      "description": "Nossa equipe experiente garante uma gestão abrangente de propriedades, maximizando a visibilidade em plataformas de prestígio. Profissionais experientes criam descrições cativantes das propriedades para destacar características únicas."
+    },
+    {
+      "icon": "vector13.svg",
+      "title": "Serviço Personalizado",
+      "description": "Adaptamos soluções para atender às suas necessidades únicas, garantindo uma experiência perfeita e personalizada durante todo o processo de gestão. Nossa equipe prioriza seus objetivos para aumentar o valor da propriedade e a satisfação dos hóspedes."
+    },
+    {
+      "icon": "vector14.svg",
+      "title": "Otimização da Rentabilidade",
+      "description": "A Excellence Conciergerie emprega abordagens estratégicas para maximizar o rendimento do aluguel e os retornos do investimento para os proprietários de imóveis. Através de análises de mercado e técnicas eficazes de gestão, garantimos a rentabilidade."
+    },
+    {
+      "icon": "vector15.svg",
+      "title": "Gestão Completa",
+      "description": "Fornecemos serviços completos de gestão de propriedades, oferecendo tranquilidade aos proprietários. Desde a coordenação da manutenção até as relações com os hóspedes, nossa equipe dedicada garante que sua propriedade funcione de maneira suave e eficiente."
+    },
+    {
+      "icon": "vector22.svg",
+      "title": "Soluções Inovadoras",
+      "description": "Permanecemos à frente com soluções inovadoras e insights sobre o mercado imobiliário de luxo. Seja implementando tecnologia para operações eficientes ou adaptando-se às tendências do mercado, melhoramos o desempenho da propriedade e a satisfação dos hóspedes."
+    }
+  ],
+
+  "messageSubtitle": "Catherine Teixeira",
+  "messageTitle": "Mensagem da Diretora",
+  "messageDescription": "Bem-vindo à Excellence Conciergerie. Como diretora executiva, estou encantada em recebê-lo. Para proprietários de imóveis, cuidamos da sua propriedade com paixão e confidencialidade. Para viajantes, prometemos uma experiência excepcional e discreta. A Excellence Conciergerie representa refinamento, discrição e atenção pessoal. Bem-vindo à excelência.",
+
+  "servicesSubtitle": "Gestão sem Estresse, Resultados Excepcionais",
+  "servicesTitle": "Gestão de Aluguel de Luxo",
+  "services": [
+    {
+      "image": "img4.webp",
+      "title": "Gestão Completa de Propriedades",
+      "description": "A Excellence Conciergerie cuida de todos os aspectos da gestão da sua propriedade de luxo, garantindo manutenção interna e externa. Nossos relatórios semanais detalhados fornecem atualizações transparentes sobre cada serviço, mantendo você informado.",
+      "pros": [
+        { "text": "Manutenção abrangente da sua propriedade." },
+        { "text": "Serviço personalizado e dedicado." },
+        { "text": "Monitoramento 24/7 para total segurança." },
+        {
+          "text": "Soluções sob medida para atender às suas necessidades únicas."
+        }
+      ]
+    },
+    {
+      "image": "img5.webp",
+      "title": "Parcerias Exclusivas com Líderes do Setor",
+      "description": "Mantemos parcerias exclusivas com empresas líderes em construção, arquitetos, designers de interiores, paisagistas e outros. Isso garante intervenções de alta qualidade e aumenta o valor e o apelo da sua propriedade.",
+      "pros": [
+        { "text": "Acesso a profissionais de alto nível no setor." },
+        {
+          "text": "Serviços personalizados para valorizar esteticamente a propriedade."
+        },
+        { "text": "Expertise em gestão de propriedades de luxo." },
+        { "text": "Abordagem colaborativa para resultados excepcionais." }
+      ]
+    },
+    {
+      "image": "img6.webp",
+      "title": "Manutenção Luxuosa de Áreas Externas",
+      "description": "Nossas equipes dedicadas preservam a beleza dos seus espaços ao ar livre, desde a manutenção meticulosa do jardim até o cuidado especializado da piscina. Garantimos que o exterior da sua propriedade permaneça um oásis sereno.",
+      "pros": [
+        {
+          "text": "Cuidado especializado para melhorar e embelezar áreas externas."
+        },
+        {
+          "text": "Serviços sob medida para preservar e melhorar a estética da propriedade."
+        },
+        { "text": "Manutenção regular para manter a condição impecável." },
+        {
+          "text": "Soluções especializadas para manutenção luxuosa da propriedade."
+        }
+      ]
+    },
+    {
+      "image": "img7.webp",
+      "title": "Serviços Personalizados Exclusivos",
+      "description": "Oferecemos serviços exclusivos e personalizados, projetados para superar suas expectativas na gestão de propriedades. Desde cuidados especializados até comunicação transparente, garantimos excelência em cada detalhe.",
+      "pros": [
+        {
+          "text": "Soluções personalizadas para todas as necessidades da sua propriedade."
+        },
+        { "text": "Compromisso com excelência e satisfação do cliente." },
+        { "text": "Relatórios de serviço transparentes e detalhados." },
+        {
+          "text": "Abordagem personalizada para atender às preferências exclusivas dos clientes."
+        }
+      ]
+    }
+  ],
+
+  "packsSubtitle": "O plano perfeito para cada estilo de vida.",
+  "packsTitle": "Assinaturas Personalizadas - Satisfação Garantida",
+  "packs": [
+    {
+      "icon": "vector17.svg",
+      "pattern": "pattern1.webp",
+      "title": "Excellence Basic",
+      "subTitle": "De segunda a sexta-feira, das 8h30 às 17h30",
+      "pros": [
+        { "text": "Manutenção abrangente da sua propriedade." },
+        { "text": "Serviço personalizado e dedicado." },
+        { "text": "Monitoramento 24/7 para total segurança." },
+        {
+          "text": "Soluções sob medida para atender às suas necessidades únicas."
+        }
+      ]
+    },
+    {
+      "icon": "vector18.svg",
+      "pattern": "pattern2.webp",
+      "title": "Excellence Premium",
+      "subTitle": "7 dias por semana, com agendamento flexível",
+      "pros": [
+        { "text": "Todos os benefícios do Excellence Basic." },
+        { "text": "Acesso prioritário aos nossos parceiros exclusivos." },
+        { "text": "Serviços de concierge de luxo incluídos." },
+        { "text": "Gestão abrangente de eventos e viagens." }
+      ]
+    },
+    {
+      "icon": "vector19.svg",
+      "pattern": "pattern3.webp",
+      "title": "Excellence Prestige",
+      "subTitle": "Serviço 24/7, com gestão VIP personalizada",
+      "pros": [
+        { "text": "Todos os benefícios do Excellence Premium." },
+        { "text": "Consulta de design de interiores incluída." },
+        { "text": "Acesso exclusivo aos nossos serviços de alto nível." },
+        { "text": "Gestão integrada de propriedades e investimentos." }
+      ]
+    }
+  ],
+  "packsButton": "Descubra Nossas Ofertas e Assine",
+
+  "faqSubtitle": "Perguntas Frequentes",
+  "faqTitle": "Estamos Aqui para Ajudar",
+  "faq": [
+    {
+      "title": "Quais serviços a Excellence Conciergerie oferece?",
+      "description": "A Excellence Conciergerie oferece uma ampla gama de serviços de gestão de propriedades de luxo, incluindo manutenção, segurança, gestão de reservas e serviços personalizados tanto para proprietários de imóveis quanto para viajantes."
+    },
+    {
+      "title": "Como funciona o monitoramento 24/7 da Excellence Conciergerie?",
+      "description": "Nosso monitoramento 24/7 se baseia em tecnologias avançadas e uma equipe dedicada para garantir uma resposta rápida a quaisquer incidentes, assegurando a completa segurança da sua propriedade."
+    },
+    {
+      "title": "Quais são os benefícios das parcerias exclusivas da Excellence Conciergerie?",
+      "description": "A Excellence Conciergerie mantém parcerias exclusivas com empresas de construção, arquitetos, designers de interiores e outros profissionais. Isso garante intervenções de alta qualidade para valorizar e manter a estética da sua propriedade."
+    },
+    {
+      "title": "Por que escolher a Excellence Conciergerie para gerenciar minha propriedade de luxo?",
+      "description": "A Excellence Conciergerie se destaca pelo compromisso com a excelência, transparência em todos os serviços prestados e capacidade de oferecer soluções personalizadas que atendem precisamente às suas necessidades. Estamos dedicados a garantir que sua propriedade permaneça impecável e bem cuidada o tempo todo."
+    },
+    {
+      "title": "Quais são os termos de cancelamento dos serviços da Excellence Conciergerie?",
+      "description": "Você pode cancelar nossos serviços a qualquer momento entrando em contato diretamente conosco. Nos esforçamos para tornar o processo de cancelamento o mais simples e transparente possível para nossos clientes."
+    },
+    {
+      "title": "Como posso fazer um pedido especial para a Excellence Conciergerie?",
+      "description": "Para qualquer pedido especial, seja necessidades específicas para sua propriedade ou serviços personalizados para um evento, entre em contato diretamente conosco. Estamos aqui para atender às suas necessidades específicas e oferecer uma solução personalizada."
+    }
+  ],
+
+  "contactSubtitle": "Vamos Entrar em Contato",
+  "contactTitle": "Entre em Contato Conosco",
+  "contactDescription": "Está pronto para elevar sua hospitalidade e se comprometer com a excelência? Por favor, preencha o formulário abaixo e nossa equipe entrará em contato em breve para discutir como podemos ajudá-lo a proporcionar estadias inesquecíveis aos seus clientes.",
+
+  "blankOption": "Selecione uma opção",
+  "fullNameLabel": "Nome Completo",
+  "fullNamePlaceholder": "Seu nome completo",
+  "emailLabel": "Email",
+  "emailPlaceholder": "Seu Email",
+  "formTypeLabel": "Escolha um Tipo de Formulário",
+
+  "guideLinesFormTypeOptions": "Warning Text: Don't alter the DO_NOT_CHANGE fields. Don't add a new extra formTypeOptions object. Don't remove a existing object. If you need more forms options, contact me so I can insert it for you.",
+  "formTypeOptions": [
+    { "DO_NOT_CHANGE": "owners", "label": "Proprietários" },
+    { "DO_NOT_CHANGE": "subscriptions", "label": "Assinaturas" },
+    { "DO_NOT_CHANGE": "others", "label": "Outros" }
+  ],
+
+  "formTypeHelperText": "Se você tiver perguntas gerais, preencha este formulário. Se você é proprietário de imóveis, escolha 'Proprietários' no menu suspenso. Se você deseja adquirir uma assinatura, selecione 'Assinaturas'.",
+  "propertyLocationLabel": "Localização do Imóvel",
+  "propertyLocationPlaceholder": "Localização",
+  "propertyRoomAmountLabel": "Número de Quartos",
+  "propertyRoomAmountPlaceholder": "Número",
+  "servicesLabel": "Serviços Desejados",
+  "servicesOptions": [
+    { "value": "concierge", "label": "Concierge Privado" },
+    { "value": "maintenance", "label": "Manutenção da Propriedade" },
+    { "value": "others", "label": "Outros Serviços" }
+  ],
+  "propertyTypeLabel": "Tipo de Propriedade",
+  "propertyTypeOptions": [
+    { "value": "house", "label": "Casa Individual" },
+    { "value": "apartment", "label": "Apartamento" },
+    { "value": "villa", "label": "Villa de Luxo" },
+    { "value": "other", "label": "Outro" }
+  ],
+  "propertyMessageLabel": "Mensagem / Comentários ou Pedidos Especiais",
+  "propertyMessagePlaceholder": "Sua Mensagem",
+  "subscriptionsChoicesLabel": "Escolha Assinaturas",
+  "subscriptionsChoicesOptions": [
+    { "value": "basic", "label": "Assinatura Excellence Básica" },
+    { "value": "standard", "label": "Assinatura Excellence Padrão" },
+    { "value": "premium", "label": "Assinatura Excellence Premium" }
+  ],
+  "subscriptionPhoneLabel": "Telefone",
+  "subscriptionPhonePlaceholder": "Número de Telefone",
+  "otherInfoLabel": "Outras Informações",
+  "otherInfoPlaceholder": "Informações Adicionais",
+  "nextStep": "Próximo Passo",
+  "previousStep": "Passo Anterior",
+  "submit": "Enviar",
+  "formSubmittedSuccessfully": "Formulário Enviado com Sucesso!",
+  "thankYouForYourSubmission": "Obrigado pela sua inscrição. Entraremos em contato em breve.",
+  "backToStart": "Voltar ao Início",
+
+  "legalLinks": [
+    {
+      "text": "Condições Gerais",
+      "DO_NOT_CHANGE": "terms",
+      "array": [
+        {
+          "title": "1. Introdução",
+          "description": "Bem-vindo ao nosso site. Ao continuar a navegar e usar este site, você concorda em cumprir e se vincular aos seguintes termos e condições de uso, que, juntamente com nossa política de privacidade, regem nosso relacionamento com você em relação a este site."
+        },
+        {
+          "title": "2. Licença para usar o site",
+          "description": "Salvo disposição em contrário, nós ou nossos licenciadores possuímos os direitos de propriedade intelectual no site e no material do site. Sujeito à licença abaixo, todos esses direitos de propriedade intelectual são reservados."
+        },
+        {
+          "title": "3. Uso aceitável",
+          "description": "Você não deve usar este site de forma que cause, ou possa causar, danos ao site, prejudique a disponibilidade ou acessibilidade do site, ou que seja ilegal, fraudulenta ou prejudicial, ou em conexão com qualquer finalidade ou atividade ilegal, fraudulenta ou prejudicial."
+        },
+        {
+          "title": "4. Limitações de responsabilidade",
+          "description": "Não seremos responsáveis perante você (seja sob a lei do contrato, a lei dos delitos ou de outra forma) em relação ao conteúdo, uso ou conexão com este site: por qualquer perda indireta, especial ou consequencial; ou por quaisquer perdas comerciais, perda de receita, renda, lucros ou economias previstas, perda de contratos ou relacionamentos comerciais, perda de reputação ou boa vontade, ou perda ou corrupção de informações ou dados."
+        }
+      ]
+    },
+    {
+      "text": "Política de Privacidade",
+      "DO_NOT_CHANGE": "privacy",
+      "array": [
+        {
+          "title": "1. Informações que coletamos",
+          "description": "Podemos coletar as seguintes informações: nome, informações de contato incluindo endereço de e-mail, informações demográficas como CEP, preferências e interesses, outras informações relevantes para pesquisas de clientes e/ou ofertas."
+        },
+        {
+          "title": "2. Uso das informações coletadas",
+          "description": "Utilizamos suas informações para entender suas necessidades, melhorar nossos produtos e serviços, enviar comunicações promocionais relevantes e manter registros internos. Respeitamos sua privacidade e não compartilhamos suas informações com terceiros sem seu consentimento."
+        },
+        {
+          "title": "3. Segurança",
+          "description": "Implementamos medidas de segurança físicas, eletrônicas e gerenciais para proteger suas informações contra acesso não autorizado e uso indevido."
+        },
+        {
+          "title": "4. Uso de cookies",
+          "description": "Cookies são utilizados para personalizar sua experiência online. Eles nos ajudam a analisar o tráfego do site e melhorar nossos serviços conforme suas preferências."
+        }
+      ]
+    }
+  ],
+  "attributionsTitle": "Attributions",
+  "closeModalButton": "Fermer",
+  "privacyPolicyWarningText": "En soumettant ce formulaire, vous acceptez notre ",
+  "privacyPolicyWarningLink": "politique de confidentialité",
+
+  "requiredField": "Ce champ est obligatoire",
+  "invalidEmail": "L'adresse e-mail est invalide",
+  "submissionError": "Une erreur inattendue s'est produite lors de la soumission. Veuillez réessayer.",
+
+  "guideLinesAccessibilityText": "Aviso: O termo accessibility_text[number] refere-se a recursos de acessibilidade do site destinados a usuários de leitores de tela ou indivíduos com deficiência visual. É recomendável não modificar os seguintes campos:",
+  "accessibility_text1": "Ir para o conteúdo principal",
+  "accessibility_text3": "Pressione para pausar o vídeo de fundo",
+  "accessibility_text4": "Pressione para reproduzir o vídeo de fundo",
+  "accessibility_text5": "Vídeo de fundo automático, pressione para pausar. Ignore se estiver usando um leitor de tela.",
+  "accessibility_text6": "Menu de cabeçalho",
+  "accessibility_text7": "Nossos Serviços",
+  "accessibility_text8": "Botão de slide, por favor, pule se estiver usando um leitor de tela",
+
+  "footerDescription": "obiliária de luxo baseada na Riviera Francesa. Nossa equipe dedicada oferece serviços personalizados para atender às necessidades únicas de cada proprietário de imóveis.",
+  "footerContactTitle": "Contato",
+  "footerSiteLinksTitle": "Links Úteis"
+}
