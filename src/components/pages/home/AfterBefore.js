@@ -49,7 +49,8 @@ export default function AfterBefore() {
                       className="block object-cover md:w-full"
                       intrinsic="true"
                       alt={`before comparison ${index + 1}#`}
-                      fill
+                      width={268}
+                      height={179}
                       quality={100}
                     />
 
@@ -67,7 +68,8 @@ export default function AfterBefore() {
                       className="block object-cover md:w-full"
                       intrinsic="true"
                       alt={`before comparison ${index + 1}#`}
-                      fill
+                      width={268}
+                      height={179}
                       quality={100}
                     />
 

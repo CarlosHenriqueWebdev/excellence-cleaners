@@ -75,8 +75,8 @@ function ServicesModal({ onClose, isModalOpen }) {
                       className={`block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full md:h-full ${index % 2 !== 0 ? "md:order-[1]" : ""}`}
                       intrinsic="true"
                       alt={`illustration from item "${item.shortTitle}" ${index + 1}#`}
-                      width={450}
-                      height={300}
+                      width={495}
+                      height={330}
                       quality={100}
                     />
 
