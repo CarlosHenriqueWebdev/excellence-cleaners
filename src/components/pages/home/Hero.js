@@ -1,11 +1,9 @@
-import {  useState } from "react";
+import { useState } from "react";
 import { useTranslation } from "next-i18next";
 import DetailText from "@/components/shared/DetailText";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
 import ServicesModal from "@/components/pages/home/Services/ServicesModal";
-import {
-  motion,
-} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function Hero() {
   const { t } = useTranslation();
@@ -19,7 +17,7 @@ export default function Hero() {
     setIsModalOpen(true);
 
     setTimeout(() => {
-      const targetElement = document.getElementById("ServicesModalHeading");
+      const targetElement = document.getElementById("service1");
       if (targetElement) {
         targetElement.tabIndex = -1;
         targetElement.focus();
@@ -66,6 +64,7 @@ export default function Hero() {
               variants={itemVariants}
               className="btn px-[32px] py-[12px] rounded-[6px] uppercase font-bold text-[14px] text-white w-fit cursor-pointer"
               onClick={() => handleModalOpen()}
+              aria-haspopup="dialog"
             >
               {t("heroButton")}{" "}
             </motion.button>

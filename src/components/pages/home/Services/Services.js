@@ -4,19 +4,13 @@ import { Link as ScrollLink } from "react-scroll";
 import { useState } from "react";
 import ServicesModal from "@/components/pages/home/Services/ServicesModal";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
-import {
-  motion,
-} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function Services() {
   const { t } = useTranslation();
 
-  const {
-    ref,
-    controls,
-    containerVariants,
-    itemVariants,
-  } = useScrollAnimation();
+  const { ref, controls, containerVariants, itemVariants } =
+    useScrollAnimation();
 
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -80,7 +74,8 @@ export default function Services() {
 
                 <button
                   className="btn-secondary px-[16px] py-[12px] rounded-[6px] uppercase font-bold text-[14px] w-fit cursor-pointer  shadow-custom text-white"
-                  onClick={() => handleModalOpen(item.shortTitle)}
+                  onClick={() => handleModalOpen(`service${index + 1}`)}
+                  aria-haspopup="dialog"
                 >
                   {t("servicesButtonOne")}{" "}
                 </button>

@@ -29,6 +29,8 @@ function ServicesModal({ onClose, isModalOpen }) {
           exit={{ opacity: 0 }}
           transition={{ duration: 0.3 }}
           className="fixed inset-0 z-50 bg-black bg-opacity-50 flex px-[12px] sm:px-[16px] lg:px-[32px] w-full"
+          role="dialog"
+          aria-modal="true"
         >
           <motion.div
             initial={{ scale: 0.8 }}
@@ -49,6 +51,7 @@ function ServicesModal({ onClose, isModalOpen }) {
                     scale: 0.9,
                     transition: { duration: 0.2, ease: "easeInOut" },
                   }}
+                  aria-label={t("accessibility_text3")}
                 >
                   <Image
                     aria-hidden={true}
@@ -84,7 +87,7 @@ function ServicesModal({ onClose, isModalOpen }) {
                       <div className="flex flex-col gap-[32px]">
                         <div className="flex flex-col gap-[16px]">
                           <h2
-                            id={item.shortTitle}
+                            id={`service${index + 1}`}
                             className={`item uppercase text-[1.5rem] font-bold`}
                           >
                             {index + 1}. {item.title}
@@ -100,8 +103,9 @@ function ServicesModal({ onClose, isModalOpen }) {
                           onClick={() => handleButtonClick("contact")}
                           offset={-200}
                           smooth={true}
+                          aria-label={t("accessibility_text2")}
                         >
-                          {t("aboutButton")}{" "}
+                          {t("servicesButtonThree")}{" "}
                         </ScrollLink>
                       </div>
                     </div>
@@ -112,6 +116,7 @@ function ServicesModal({ onClose, isModalOpen }) {
             <button
               onClick={onClose}
               className="btn-secondary px-[32px] py-[32px] uppercase font-bold text-[18px] w-full cursor-pointer shadow-custom text-white"
+              aria-label={t("accessibility_text3")}
             >
               {t("closeModalButton")}
             </button>{" "}
