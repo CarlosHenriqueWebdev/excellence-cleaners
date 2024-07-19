@@ -1,6 +1,6 @@
 export default function HeaderSkeleton() {
   return (
-    <div className="w-full relative z-[10] bg-deep-night">
+    <div className="w-full relative z-[10] bg-white border-b-[2px] border-color03 border-solid">
       <div className="w-full px-[24px] py-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex items-center justify-between">
         <div className="flex">
           <div className="h-[32px] w-[166px] bg-skeletonLoader rounded"></div>
@@ -10,7 +10,7 @@ export default function HeaderSkeleton() {
         </div>
         <div className="hidden lg:flex gap-[24px] items-center">
           <div className="flex gap-[24px]">
-            {Array(5)
+            {Array(4)
               .fill(0)
               ?.map((_, index) => (
                 <div

@@ -6,7 +6,7 @@ import Image from "next/image";
 export default function Faq() {
   const { t } = useTranslation();
 
-  const reasons = t("whyUsReasons", { returnObjects: true });
+  const faq = t("faq", { returnObjects: true });
   const [openIndexes, setOpenIndexes] = useState([0]);
 
   const toggleFaq = (index) => {
@@ -22,28 +22,28 @@ export default function Faq() {
       <div className="flex flex-col gap-[16px] md:py-[16px] md:sticky md:top-0 h-fit">
         <div className="flex flex-col gap-[16px]">
           <div className="item">
-            <DetailText text={t("whyUsSubtitle")} />
+            <DetailText text={t("faqSubtitle")} />
           </div>
           <h2 id="whyUs" className="item uppercase text-[1.5rem] font-bold">
-            {t("whyUsTitle")}
+            {t("faqTitle")}
           </h2>
         </div>
 
         <div className="item flex flex-col gap-[16px]">
-          <p>{t("whyUsDescription")}</p>
-          <p>{t("whyUsDescription")}</p>
+          <p>{t("faqDescriptionOne")}</p>
+          <p>{t("faqDescriptionTwo")}</p>
         </div>
       </div>
 
       <ul
         className={`flex flex-col shadow-custom overflow-hidden rounded-[16px] border-solid border-[1px] border-color03 bg-color05`}
       >
-        {reasons?.map((item, index) => (
+        {faq?.map((item, index) => (
           <li key={index}>
             <button
               onClick={() => toggleFaq(index)}
               aria-expanded={openIndexes.includes(index)}
-              className={`${index === reasons.length - 1 ? "border-b-[0px]" : ""} group cursor-pointer font-semibold p-[24px] flex flex-col border-solid border-b-[1px] border-color03`}
+              className={`${index === faq.length - 1 ? "border-b-[0px]" : ""} group cursor-pointer font-semibold p-[24px] flex flex-col border-solid border-b-[1px] border-color03`}
             >
               <div className="flex justify-between items-center cursor-pointer">
                 <h3 className="group-hover:text-color02 text-start">

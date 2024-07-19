@@ -9,11 +9,15 @@ import Headroom from "react-headroom";
 import HeaderSkeleton from "@/components/skeleton-loaders/HeaderSkeleton";
 import FooterSkeleton from "@/components/skeleton-loaders/FooterSkeleton";
 import HeroSkeleton from "@/components/skeleton-loaders/HeroSkeleton";
+import HowItWorksSkeleton from "@/components/skeleton-loaders/HowItWorksSkeleton";
+import IntroductionSkeleton from "@/components/skeleton-loaders/IntroductionSkeleton";
 import WhyUsSkeleton from "@/components/skeleton-loaders/WhyUsSkeleton";
+import TeamSkeleton from "@/components/skeleton-loaders/TeamSkeleton";
 import AboutSkeleton from "@/components/skeleton-loaders/AboutSkeleton";
 import ServicesSkeleton from "@/components/skeleton-loaders/ServicesSkeleton";
 import PacksSkeleton from "@/components/skeleton-loaders/PacksSkeleton";
 import FaqSkeleton from "@/components/skeleton-loaders/FaqSkeleton";
+import AfterBeforeSkeleton from "@/components/skeleton-loaders/AfterBeforeSkeleton";
 import ContactUpperSkeleton from "@/components/skeleton-loaders/ContactUpperSkeleton";
 import ContactLowerSkeleton from "@/components/skeleton-loaders/ContactLowerSkeleton";
 
@@ -31,22 +35,22 @@ const Hero = dynamic(() => import("@/components/pages/home/Hero"), {
   ssr: false,
 });
 const HowItWorks = dynamic(() => import("@/components/pages/home/HowItWorks"), {
-  loading: () => null,
+  loading: () => <HowItWorksSkeleton />,
   ssr: false,
 });
 const Introduction = dynamic(
   () => import("@/components/pages/home/Introduction"),
   {
-    loading: () => null,
+    loading: () => <IntroductionSkeleton />,
     ssr: false,
-  }
+  },
 );
 const WhyUs = dynamic(() => import("@/components/pages/home/WhyUs"), {
   loading: () => <WhyUsSkeleton />,
   ssr: false,
 });
 const Team = dynamic(() => import("@/components/pages/home/Team"), {
-  loading: () => null,
+  loading: () => <TeamSkeleton />,
   ssr: false,
 });
 const About = dynamic(() => import("@/components/pages/home/About"), {
@@ -58,7 +62,7 @@ const Services = dynamic(
   {
     loading: () => <ServicesSkeleton />,
     ssr: false,
-  }
+  },
 );
 const Packs = dynamic(() => import("@/components/pages/home/Packs"), {
   loading: () => <PacksSkeleton />,
@@ -71,23 +75,23 @@ const Faq = dynamic(() => import("@/components/pages/home/Faq"), {
 const AfterBefore = dynamic(
   () => import("@/components/pages/home/AfterBefore"),
   {
-    loading: () => null,
+    loading: () => <AfterBeforeSkeleton />,
     ssr: false,
-  }
+  },
 );
 const ContactUpper = dynamic(
   () => import("@/components/pages/home/ContactUpper"),
   {
     loading: () => <ContactUpperSkeleton />,
     ssr: false,
-  }
+  },
 );
 const ContactLower = dynamic(
   () => import("@/components/pages/home/ContactLower/ContactLower"),
   {
     loading: () => <ContactLowerSkeleton />,
     ssr: false,
-  }
+  },
 );
 
 export const getStaticProps = async ({ locale }) => {

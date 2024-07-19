@@ -29,7 +29,7 @@ export default function HowItWorks() {
             key={index}
             className="bg-color05 rounded-[16px] border-[1px] border-solid border-color03 w-full overflow-hidden flex flex-col gap-[24px] p-[24px] md:text-center md:justify-center md:items-center shadow-custom"
           >
-            <div className="rounded-[8px] bg-color01-15 flex justify-center items-center w-[48px] h-[48px]">
+            <div className="rounded-[8px] bg-color01 bg-opacity-[0.15] flex justify-center items-center w-[48px] h-[48px]">
               <Image
                 aria-hidden={true}
                 src={`/assets/images/${item.icon}`}
