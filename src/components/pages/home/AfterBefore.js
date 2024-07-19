@@ -48,7 +48,7 @@ export default function AfterBefore() {
                       src={`/assets/images/${item.imageBefore}`}
                       className="block object-cover md:w-full"
                       intrinsic="true"
-                      alt="french city houses"
+                      alt={`before comparison ${index + 1}#`}
                       width={450}
                       height={300}
                       quality={100}
@@ -67,7 +67,7 @@ export default function AfterBefore() {
                       src={`/assets/images/${item.imageAfter}`}
                       className="block object-cover md:w-full"
                       intrinsic="true"
-                      alt="french city houses"
+                      alt={`before comparison ${index + 1}#`}
                       width={450}
                       height={300}
                       quality={100}

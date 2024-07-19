@@ -48,7 +48,7 @@ export default function WhyUs() {
           src="/assets/images/img3.webp"
           className="block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full"
           intrinsic="true"
-          alt="french city houses"
+          alt="person spraying a cleaning bottle liquid inside a car"
           width={450}
           height={300}
           quality={100}

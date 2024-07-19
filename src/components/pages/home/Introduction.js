@@ -2,18 +2,12 @@ import DetailText from "@/components/shared/DetailText";
 import Image from "next/image";
 import { useTranslation } from "next-i18next";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
-import {
-  motion,
-} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function Introduction() {
   const { t } = useTranslation();
 
-  const {
-    ref,
-    controls,
-    imageVariants,
-  } = useScrollAnimation();
+  const { ref, controls, imageVariants } = useScrollAnimation();
 
   return (
     <div className="md:h-[full] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] md:grid md:grid-cols-[450fr_638fr] w-full">
@@ -22,7 +16,7 @@ export default function Introduction() {
         src="/assets/images/img2.webp"
         className="block lg:hidden object-cover rounded-[16px] shadow-custom w-[200px] md:w-full"
         intrinsic="true"
-        alt="french city houses"
+        alt="kitchen with a red kettle on the stove"
         width={450}
         height={300}
         quality={100}

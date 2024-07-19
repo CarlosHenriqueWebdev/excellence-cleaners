@@ -8,11 +8,7 @@ import { motion } from "framer-motion";
 export default function About() {
   const { t } = useTranslation();
 
-  const {
-    ref,
-    controls,
-    itemVariants,
-  } = useScrollAnimation();
+  const { ref, controls, itemVariants } = useScrollAnimation();
 
   const handleButtonClick = () => {
     const targetElement = document.getElementById("contact");
@@ -39,7 +35,7 @@ export default function About() {
           src="/assets/images/img14.webp"
           className="block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full md:h-full"
           intrinsic="true"
-          alt="french city houses"
+          alt="2 janitors cleaning a single room"
           width={450}
           height={300}
           quality={100}
