@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://excellence-conciergerie.com
+Host: https://excellence-cleaners.com
 
 # Sitemaps
-Sitemap: https://excellence-conciergerie.com/sitemap.xml
+Sitemap: https://excellence-cleaners.com/sitemap.xml
