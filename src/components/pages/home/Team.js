@@ -1,21 +1,14 @@
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
-import Sparkle from "react-sparkle";
-import Image from "next/image";
-import { useRef } from "react";
-import { useInView } from "framer-motion";
 
 export default function Team() {
   const { t } = useTranslation();
 
-  const containerRef = useRef(null);
-  const isInView = useInView(containerRef, { once: true });
-
   return (
     <div
-      className={`bg-[url('/assets/images/img10.webp')] bg-cover bg-fixed curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail2.webp')] before:top-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full border-b-[5px] border-solid border-color01`}
+      className={`bg-[url('/assets/images/img10.webp')] bg-cover bg-fixed curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail2.webp')] before:top-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full border-b-[5px] border-solid border-color01 py-[100px]`}
     >
-      <div className="bg-white-90 py-[100px]">
+      <div className="bg-white bg-opacity-[0.85] py-[60px] border-color03 border-solid border-y-[2px] shadow-custom">
         <div
           className={`px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[24px]`}
         >

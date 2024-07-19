@@ -1,22 +1,9 @@
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
-import { Link as ScrollLink } from "react-scroll";
 import Image from "next/image";
-import { useRef } from "react";
 
 export default function HowItWorks() {
   const { t } = useTranslation();
-
-  const handleButtonClick = (targetId) => {
-    const targetElement = document.getElementById(targetId);
-
-    if (targetElement) {
-      setTimeout(() => {
-        targetElement.tabIndex = -1;
-        targetElement.focus();
-      }, 100);
-    }
-  };
 
   return (
     <div className="px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] w-full">

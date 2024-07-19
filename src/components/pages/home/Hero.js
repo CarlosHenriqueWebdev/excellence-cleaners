@@ -1,22 +1,16 @@
-import { useEffect, useRef, useState } from "react";
+import {  useState } from "react";
 import { useTranslation } from "next-i18next";
 import DetailText from "@/components/shared/DetailText";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
-import Image from "next/image";
-import { Link as ScrollLink } from "react-scroll";
 import ServicesModal from "@/components/pages/home/Services/ServicesModal";
 import {
   motion,
-  useAnimation,
-  useInView,
-  useViewportScroll,
-  useTransform,
 } from "framer-motion";
 
 export default function Hero() {
   const { t } = useTranslation();
 
-  const { ref, controls, containerVariants, itemVariants, yPos } =
+  const { ref, controls, containerVariants, itemVariants } =
     useScrollAnimation();
 
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -47,7 +41,7 @@ export default function Hero() {
           variants={containerVariants}
           className="flex flex-col md:grid md:grid-cols-[1fr_1fr]  gap-[24px] lg:gap-[80px]"
         >
-          <div className="flex flex-col gap-[32px] py-[100px] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] xl:mx-[0] xl:place-self-end xl:max-w-[520px] xl:px-[0]">
+          <div className="flex flex-col gap-[32px] py-[100px] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:mx-[0] xl:place-self-end xl:max-w-[520px] xl:px-[0]">
             <div className="flex flex-col gap-[24px]">
               <motion.div
                 variants={itemVariants}

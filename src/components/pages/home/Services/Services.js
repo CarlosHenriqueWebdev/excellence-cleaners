@@ -1,16 +1,11 @@
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import { Link as ScrollLink } from "react-scroll";
-import Image from "next/image";
-import { useState, useRef } from "react";
+import { useState } from "react";
 import ServicesModal from "@/components/pages/home/Services/ServicesModal";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
 import {
   motion,
-  useAnimation,
-  useInView,
-  useViewportScroll,
-  useTransform,
 } from "framer-motion";
 
 export default function Services() {
@@ -21,9 +16,6 @@ export default function Services() {
     controls,
     containerVariants,
     itemVariants,
-    yPos,
-    cardVariants,
-    imageVariants,
   } = useScrollAnimation();
 
   const [isModalOpen, setIsModalOpen] = useState(false);

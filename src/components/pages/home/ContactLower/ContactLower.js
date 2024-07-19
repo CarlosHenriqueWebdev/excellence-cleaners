@@ -5,7 +5,6 @@ import { Formik, Form, Field, ErrorMessage } from "formik";
 import PrivacyModalManager from "@/components/pages/home/ContactLower/components/PrivacyModalManager";
 import {
   formFields,
-  additionalForms,
   initialValues,
 } from "@/components/pages/home/ContactLower/components/formFieldsConfig";
 import { getValidationSchema } from "@/components/pages/home/ContactLower/components/validationSchemas";
@@ -26,7 +25,7 @@ export default function ContactLower() {
         process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
         process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
         formData,
-        process.env.NEXT_PUBLIC_EMAILJS_USER_ID,
+        process.env.NEXT_PUBLIC_EMAILJS_USER_ID
       )
       .then(
         (response) => {
@@ -38,7 +37,7 @@ export default function ContactLower() {
           console.log("FAILED...", error);
           setSubmissionError(t("submissionError"));
           setSubmitting(false);
-        },
+        }
       )
       .catch((error) => {
         console.log("ERROR...", error);
@@ -68,7 +67,7 @@ export default function ContactLower() {
             name={field.name}
             id={field.name}
             placeholder={t(field.placeholder)}
-            className="w-full px-[16px] py-[12px] placeholder-black-50 rounded-[6px] focus-visible:outline-color01 border-color03 border-solid border-[1px] bg-[#F2F2F2]"
+            className="w-full px-[16px] py-[12px] placeholder-text-opacity-[0.5] rounded-[6px] focus-visible:outline-color01 border-color03 border-solid border-[1px] bg-[#F2F2F2]"
             aria-live="assertive"
             aria-required={field.required}
           />
@@ -78,7 +77,7 @@ export default function ContactLower() {
             name={field.name}
             id={field.name}
             placeholder={t(field.placeholder)}
-            className="w-full px-[16px] py-[12px] placeholder-black-50 rounded-[6px] focus-visible:outline-color01 border-color03 border-solid border-[1px] h-[150px] resize-none bg-[#F2F2F2]"
+            className="w-full px-[16px] py-[12px] placeholder-text-opacity-[0.5] rounded-[6px] focus-visible:outline-color01 border-color03 border-solid border-[1px] h-[150px] resize-none bg-[#F2F2F2]"
             aria-live="assertive"
             aria-required={field.required}
           />

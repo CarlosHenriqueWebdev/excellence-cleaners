@@ -2,16 +2,9 @@ import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import Link from "next/link";
 import Image from "next/image";
-import { useRef } from "react";
-import { useInView } from "framer-motion";
 
 export default function ContactUpper() {
   const { t } = useTranslation();
-
-  const introRef = useRef(null);
-  const listRef = useRef(null);
-  const isIntroInView = useInView(introRef, { once: true });
-  const isListInView = useInView(listRef, { once: true });
 
   return (
     <div className="px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[24px] w-full">

@@ -5,20 +5,90 @@ import { NextSeo } from "next-seo";
 import { motion, useScroll, useSpring } from "framer-motion";
 import Headroom from "react-headroom";
 
-import Header from "@/components/common/Header";
-import Footer from "@/components/common//Footer";
-import Hero from "@/components/pages/home/Hero";
-import HowItWorks from "@/components/pages/home/HowItWorks";
-import Introduction from "@/components/pages/home/Introduction";
-import WhyUs from "@/components/pages/home/WhyUs";
-import Team from "@/components/pages/home/Team";
-import About from "@/components/pages/home/About";
-import Services from "@/components/pages/home/Services/Services";
-import Packs from "@/components/pages/home/Packs";
-import Faq from "@/components/pages/home/Faq";
-import AfterBefore from "@/components/pages/home/AfterBefore";
-import ContactUpper from "@/components/pages/home/ContactUpper";
-import ContactLower from "@/components/pages/home/ContactLower/ContactLower";
+// Import skeleton loaders
+import HeaderSkeleton from "@/components/skeleton-loaders/HeaderSkeleton";
+import FooterSkeleton from "@/components/skeleton-loaders/FooterSkeleton";
+import HeroSkeleton from "@/components/skeleton-loaders/HeroSkeleton";
+import WhyUsSkeleton from "@/components/skeleton-loaders/WhyUsSkeleton";
+import AboutSkeleton from "@/components/skeleton-loaders/AboutSkeleton";
+import ServicesSkeleton from "@/components/skeleton-loaders/ServicesSkeleton";
+import PacksSkeleton from "@/components/skeleton-loaders/PacksSkeleton";
+import FaqSkeleton from "@/components/skeleton-loaders/FaqSkeleton";
+import ContactUpperSkeleton from "@/components/skeleton-loaders/ContactUpperSkeleton";
+import ContactLowerSkeleton from "@/components/skeleton-loaders/ContactLowerSkeleton";
+
+// Dynamic imports with dynamic loading
+const Header = dynamic(() => import("@/components/common/Header"), {
+  loading: () => <HeaderSkeleton />,
+  ssr: false,
+});
+const Footer = dynamic(() => import("@/components/common/Footer"), {
+  loading: () => <FooterSkeleton />,
+  ssr: false,
+});
+const Hero = dynamic(() => import("@/components/pages/home/Hero"), {
+  loading: () => <HeroSkeleton />,
+  ssr: false,
+});
+const HowItWorks = dynamic(() => import("@/components/pages/home/HowItWorks"), {
+  loading: () => null,
+  ssr: false,
+});
+const Introduction = dynamic(
+  () => import("@/components/pages/home/Introduction"),
+  {
+    loading: () => null,
+    ssr: false,
+  }
+);
+const WhyUs = dynamic(() => import("@/components/pages/home/WhyUs"), {
+  loading: () => <WhyUsSkeleton />,
+  ssr: false,
+});
+const Team = dynamic(() => import("@/components/pages/home/Team"), {
+  loading: () => null,
+  ssr: false,
+});
+const About = dynamic(() => import("@/components/pages/home/About"), {
+  loading: () => <AboutSkeleton />,
+  ssr: false,
+});
+const Services = dynamic(
+  () => import("@/components/pages/home/Services/Services"),
+  {
+    loading: () => <ServicesSkeleton />,
+    ssr: false,
+  }
+);
+const Packs = dynamic(() => import("@/components/pages/home/Packs"), {
+  loading: () => <PacksSkeleton />,
+  ssr: false,
+});
+const Faq = dynamic(() => import("@/components/pages/home/Faq"), {
+  loading: () => <FaqSkeleton />,
+  ssr: false,
+});
+const AfterBefore = dynamic(
+  () => import("@/components/pages/home/AfterBefore"),
+  {
+    loading: () => null,
+    ssr: false,
+  }
+);
+const ContactUpper = dynamic(
+  () => import("@/components/pages/home/ContactUpper"),
+  {
+    loading: () => <ContactUpperSkeleton />,
+    ssr: false,
+  }
+);
+const ContactLower = dynamic(
+  () => import("@/components/pages/home/ContactLower/ContactLower"),
+  {
+    loading: () => <ContactLowerSkeleton />,
+    ssr: false,
+  }
+);
 
 export const getStaticProps = async ({ locale }) => {
   return {
@@ -37,19 +107,18 @@ export default function Home(props) {
   });
 
   const initialLocale = props._nextI18Next.initialLocale;
-
   const titles = {
-    en: "Excellence Conciergerie: Unforgettable Luxury on the French Riviera",
-    fr: "Excellence Conciergerie: Découvrez le summum du luxe sur la Côte d'Azur",
-    pt: "Excellence Conciergerie: Experimente o ápice do luxo na Riviera Francesa",
-    es: "Excellence Conciergerie: Experimente el pináculo del lujo en la Riviera francesa",
+    en: "Excellence Cleaners: Impeccable Cleaning Services for a Spotless Home",
+    fr: "Excellence Cleaners: Services de nettoyage impeccables pour une maison impeccable",
+    pt: "Excellence Cleaners: Serviços de limpeza impecáveis para uma casa impecável",
+    es: "Excellence Cleaners: Servicios de limpieza impecables para un hogar impecable",
   };
 
   const descriptions = {
-    en: "Experience the epitome of luxury on the French Riviera with Excellence Conciergerie. We provide unforgettable experiences, exceptional property management, and discreet, 5-star service for both property owners and travelers.",
-    fr: "Découvrez le summum du luxe sur la Côte d'Azur avec Excellence Conciergerie. Nous proposons des expériences inoubliables, une gestion immobilière exceptionnelle et un service discret 5 étoiles aux propriétaires et aux voyageurs.",
-    pt: "Experimente o ápice do luxo na Riviera Francesa com a Excellence Conciergerie. Oferecemos experiências inesquecíveis, gestão de propriedades excepcional e serviço discreto 5 estrelas para proprietários e viajantes.",
-    es: "Experimente el pináculo del lujo en la Riviera francesa con Excellence Conciergerie. Brindamos experiencias inolvidables, administración de propiedades excepcionales y un servicio discreto de 5 estrellas para propietarios e invitados.",
+    en: "Experience top-notch cleaning services with Excellence Cleaners. We provide exceptional cleaning solutions, ensuring your home is spotless and gleaming.",
+    fr: "Découvrez des services de nettoyage de premier ordre avec Excellence Cleaners. Nous proposons des solutions de nettoyage exceptionnelles, garantissant une maison impeccable et étincelante.",
+    pt: "Experimente serviços de limpeza de primeira linha com a Excellence Cleaners. Oferecemos soluções de limpeza excepcionais, garantindo que sua casa esteja impecável e brilhando.",
+    es: "Experimente servicios de limpieza de primera clase con Excellence Cleaners. Brindamos soluciones de limpieza excepcionales, asegurando que su hogar esté impecable y reluciente.",
   };
 
   return (
@@ -57,38 +126,38 @@ export default function Home(props) {
       <NextSeo
         title={titles[initialLocale]}
         description={descriptions[initialLocale]}
-        canonical="https://www.excellence-conciergerie.com/"
+        canonical="https://www.excellence-cleaners.com/"
         openGraph={{
-          url: "https://www.excellence-conciergerie.com/",
+          url: "https://www.excellence-cleaners.com/",
           title: titles[initialLocale],
           description: descriptions[initialLocale],
           images: [
             {
-              url: "https://excellence-conciergerie.com/assets/images/img1.webp",
+              url: "https://excellence-cleaners.com/assets/images/img3.webp",
               width: 800,
               height: 600,
-              alt: "Excellence Conciergerie",
+              alt: "Excellence cleaners",
               type: "image/webp",
             },
           ],
-          site_name: "Excellence Conciergerie",
+          site_name: "Excellence cleaners",
         }}
         languageAlternates={[
           {
             hrefLang: "fr",
-            href: "https://www.excellence-conciergerie.com/fr/",
+            href: "https://www.excellence-cleaners.com/fr/",
           },
           {
             hrefLang: "en",
-            href: "https://www.excellence-conciergerie.com/en/",
+            href: "https://www.excellence-cleaners.com/en/",
           },
           {
             hrefLang: "pt",
-            href: "https://www.excellence-conciergerie.com/pt/",
+            href: "https://www.excellence-cleaners.com/pt/",
           },
           {
             hrefLang: "es",
-            href: "https://www.excellence-conciergerie.com/es/",
+            href: "https://www.excellence-cleaners.com/es/",
           },
         ]}
       />

@@ -1,16 +1,10 @@
-import { useState, useRef } from "react";
+import { useState } from "react";
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
-import { useInView } from "framer-motion";
 
 export default function Faq() {
   const { t } = useTranslation();
-
-  const containerRef = useRef(null);
-  const listRef = useRef(null);
-  const isInView = useInView(containerRef, { once: true });
-  const isListInView = useInView(listRef, { once: true });
 
   const reasons = t("whyUsReasons", { returnObjects: true });
   const [openIndexes, setOpenIndexes] = useState([0]);

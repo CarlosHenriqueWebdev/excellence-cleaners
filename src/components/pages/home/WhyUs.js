@@ -1,14 +1,10 @@
-import { useState, useRef } from "react";
+import { useState } from "react";
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
 import {
   motion,
-  useAnimation,
-  useInView,
-  useViewportScroll,
-  useTransform,
 } from "framer-motion";
 
 export default function WhyUs() {
@@ -17,11 +13,7 @@ export default function WhyUs() {
   const {
     ref,
     controls,
-    containerVariants,
     itemVariants,
-    yPos,
-    cardVariants,
-    imageVariants,
   } = useScrollAnimation();
 
   const reasons = t("whyUsReasons", { returnObjects: true });

@@ -1,16 +1,9 @@
 import DetailText from "@/components/shared/DetailText";
 import Image from "next/image";
 import { useTranslation } from "next-i18next";
-import { useRef } from "react";
 import { Link as ScrollLink } from "react-scroll";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
-import {
-  motion,
-  useAnimation,
-  useInView,
-  useViewportScroll,
-  useTransform,
-} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function About() {
   const { t } = useTranslation();
@@ -18,11 +11,7 @@ export default function About() {
   const {
     ref,
     controls,
-    containerVariants,
     itemVariants,
-    yPos,
-    cardVariants,
-    imageVariants,
   } = useScrollAnimation();
 
   const handleButtonClick = () => {

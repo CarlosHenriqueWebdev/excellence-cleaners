@@ -1,14 +1,9 @@
 import DetailText from "@/components/shared/DetailText";
 import Image from "next/image";
 import { useTranslation } from "next-i18next";
-import { useRef, useState } from "react";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
 import {
   motion,
-  useAnimation,
-  useInView,
-  useViewportScroll,
-  useTransform,
 } from "framer-motion";
 
 export default function Introduction() {
@@ -17,10 +12,6 @@ export default function Introduction() {
   const {
     ref,
     controls,
-    containerVariants,
-    itemVariants,
-    yPos,
-    cardVariants,
     imageVariants,
   } = useScrollAnimation();
 

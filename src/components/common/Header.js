@@ -40,7 +40,7 @@ export default function Header() {
   };
 
   return (
-    <header className="relative bg-white text-[14px] border-solid border-b-[2px] border-color03 relative z-[1] font-bold">
+    <header className="bg-white text-[14px] border-solid border-b-[2px] border-color03 relative z-[1] font-bold">
       <nav
         className="px-[24px] py-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex items-center justify-between"
         aria-label="Global"
@@ -209,7 +209,7 @@ export default function Header() {
                 <Disclosure as="div" className="flex flex-col gap-[16px]">
                   {({ open }) => (
                     <>
-                      <DisclosureButton className="border-solid border-color01 border-[3px] items-center justify-between w-full text-start block rounded-[4px] px-[16px] py-[12px] bg-gray-100 hover:brightness-90 hover:text-color02 font-semibold flex">
+                      <DisclosureButton className="border-solid border-color01 border-[3px] items-center justify-between w-full text-start rounded-[4px] px-[16px] py-[12px] bg-gray-100 hover:brightness-90 hover:text-color02 font-semibold flex">
                         <div className="flex items-center gap-[6px]">
                           <Image
                             aria-hidden={true}
@@ -242,7 +242,7 @@ export default function Header() {
                         })?.map((item, index) => (
                           <a
                             key={item.name}
-                            className="border-solid border-color01 border-[3px] items-center gap-[6px] w-full text-start block rounded-[4px] px-[16px] py-[12px] bg-gray-100 hover:brightness-90 hover:text-color02 font-semibold cursor-pointer flex"
+                            className="border-solid border-color01 border-[3px] items-center gap-[6px] w-full text-start rounded-[4px] px-[16px] py-[12px] bg-gray-100 hover:brightness-90 hover:text-color02 font-semibold cursor-pointer flex"
                             onClick={() => changeLanguage(item.DO_NOT_CHANGE)}
                           >
                             <Image

@@ -37,7 +37,10 @@ export default function FooterSkeleton() {
       <div className="border-solid border-y-[2px] border-skeletonBorder">
         <div className="w-full mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] px-[24px] lg:px-[80px] py-[32px] text-silver-mist flex gap-[4px] flex-wrap">
           {Array.from({ length: 4 })?.map((_, index) => (
-            <div key={index} className="text-white-75 flex gap-[6px]">
+            <div
+              key={index}
+              className="text-bg-opacity-[0.75] bg-white  flex gap-[6px]"
+            >
               <div className="h-[12px] w-[60px] bg-skeletonLoader"></div>
               {index !== 3 && (
                 <div className="h-[12px] w-[10px] bg-skeletonLoader"></div>
