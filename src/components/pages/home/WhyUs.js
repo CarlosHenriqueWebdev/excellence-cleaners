@@ -3,18 +3,12 @@ import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
 import useScrollAnimation from "@/components/hooks/useScrollAnimation";
-import {
-  motion,
-} from "framer-motion";
+import { motion } from "framer-motion";
 
 export default function WhyUs() {
   const { t } = useTranslation();
 
-  const {
-    ref,
-    controls,
-    itemVariants,
-  } = useScrollAnimation();
+  const { ref, controls, itemVariants } = useScrollAnimation();
 
   const reasons = t("whyUsReasons", { returnObjects: true });
   const [openIndexes, setOpenIndexes] = useState([0]);
@@ -67,7 +61,7 @@ export default function WhyUs() {
             <div className="item">
               <DetailText text={t("whyUsSubtitle")} />
             </div>
-            <h2 id="whyUs" className="item uppercase text-[1.5rem] font-bold">
+            <h2 id="why-us" className="item uppercase text-[1.5rem] font-bold">
               {t("whyUsTitle")}
             </h2>
           </div>

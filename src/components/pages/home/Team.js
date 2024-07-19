@@ -16,7 +16,7 @@ export default function Team() {
             <div className="flex flex-col gap-[16px]">
               <div className="flex flex-col gap-[16px]">
                 <DetailText text={t("teamSubtitle")} />
-                <h2 id="message" className="uppercase text-[1.5rem] font-bold">
+                <h2 id="team" className="uppercase text-[1.5rem] font-bold">
                   {t("teamTitle")}
                 </h2>
               </div>

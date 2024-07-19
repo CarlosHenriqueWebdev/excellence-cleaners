@@ -14,7 +14,7 @@ export default function HowItWorks() {
           <DetailText text={t("howItWorksSubtitle")} />
         </div>
         <h2
-          id="subscriptions"
+          id="how-it-works"
           className="item uppercase text-[1.5rem] font-bold"
         >
           {t("howItWorksTitle")}

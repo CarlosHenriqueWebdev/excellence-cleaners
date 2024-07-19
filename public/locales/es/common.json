@@ -29,22 +29,16 @@
 
   "socials": [
     {
-      "text": "Linkedin",
-      "icon": "vector11.svg",
-      "type": "url",
-      "link": "https://www.linkedin.com/company/excellence-conciergerie/"
-    },
-    {
       "text": "Instagram",
       "icon": "vector9.svg",
       "type": "url",
-      "link": "https://www.instagram.com/excellenceconciergerie/"
+      "link": "https://www.instagram.com/excellencecleaners/"
     }
   ],
 
-  "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : whyUs, about, services, contact",
+  "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : how-it-works, introduction, why-us, team, about, servies, faq, after-before, contact",
   "navLinks": [
-    { "text": "Pourquoi Nous ?", "DO_NOT_CHANGE": "whyUs" },
+    { "text": "Pourquoi Nous ?", "DO_NOT_CHANGE": "why-us" },
     { "text": "À propos", "DO_NOT_CHANGE": "about" },
     { "text": "Services", "DO_NOT_CHANGE": "services" },
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }

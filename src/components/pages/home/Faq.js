@@ -24,7 +24,7 @@ export default function Faq() {
           <div className="item">
             <DetailText text={t("faqSubtitle")} />
           </div>
-          <h2 id="whyUs" className="item uppercase text-[1.5rem] font-bold">
+          <h2 id="faq" className="item uppercase text-[1.5rem] font-bold">
             {t("faqTitle")}
           </h2>
         </div>

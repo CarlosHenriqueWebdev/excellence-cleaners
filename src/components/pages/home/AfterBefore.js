@@ -21,7 +21,10 @@ export default function AfterBefore() {
           <div className="flex flex-col gap-[24px]">
             <div className="flex flex-col gap-[16px] md:text-center md:justify-center md:items-center">
               <DetailText text={t("afterBeforeSubtitle")} />
-              <h2 id="message" className="uppercase text-[1.5rem] font-bold">
+              <h2
+                id="after-before"
+                className="uppercase text-[1.5rem] font-bold"
+              >
                 {t("afterBeforeTitle")}
               </h2>
             </div>
