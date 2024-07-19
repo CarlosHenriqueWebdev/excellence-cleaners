@@ -9,7 +9,10 @@ export default function ComponentSkeleton() {
 
         <ul className="flex flex-col gap-[24px] md:grid md:grid-cols-[1fr_1fr] w-full">
           {Array.from({ length: 6 }).map((_, index) => (
-            <li className="rounded-[16px] flex flex-col w-full overflow-hidden bg-skeletonLoader pt-[150px] shadow-custom justify-end">
+            <li
+              key={index}
+              className="rounded-[16px] flex flex-col w-full overflow-hidden bg-skeletonLoader pt-[150px] shadow-custom justify-end"
+            >
               <div className="bg-color03 bg-opacity-[0.9] flex flex-col gap-[16px] font-bold uppercase p-[16px]">
                 <div className="h-[20px] w-full max-w-[150px] bg-skeletonLoader rounded"></div>
                 <div className="h-[40px] w-full max-w-[120px] bg-skeletonLoader rounded"></div>
