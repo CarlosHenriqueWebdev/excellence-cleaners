@@ -189,6 +189,7 @@ export default function Header() {
               intrinsic="true"
               className="w-[166px] h-[32px]"
               quality={100}
+              priority={true}
             />
 
             <button

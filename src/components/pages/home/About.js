@@ -33,11 +33,11 @@ export default function About() {
         <Image
           aria-hidden={true}
           src="/assets/images/img14.webp"
-          className="block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full md:h-full"
+          className="block object-cover rounded-[16px] shadow-custom  md:w-full md:h-full"
           intrinsic="true"
           alt="2 janitors cleaning a single room"
-          width={450}
-          height={300}
+          width={535}
+          height={407}
           quality={100}
         />
       </motion.div>

@@ -14,10 +14,10 @@ export default function Introduction() {
       <Image
         aria-hidden={true}
         src="/assets/images/img2.webp"
-        className="block lg:hidden object-cover rounded-[16px] shadow-custom w-[200px] md:w-full"
+        className="block lg:hidden object-cover rounded-[16px] shadow-custom md:w-full"
         intrinsic="true"
         alt="kitchen with a red kettle on the stove"
-        width={450}
+        width={200}
         height={300}
         quality={100}
       />

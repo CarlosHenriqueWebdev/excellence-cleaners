@@ -5,6 +5,12 @@ export default function Document() {
     <Html>
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preload" href="/assets/images/logo.svg" as="image" />
+        <link
+          rel="preload"
+          href="/assets/images/star-cleaners.webp"
+          as="image"
+        />
       </Head>
       <body className="text-textBlack bg-white">
         <Main />

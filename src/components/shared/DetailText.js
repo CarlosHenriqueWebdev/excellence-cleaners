@@ -8,13 +8,13 @@ export default function DetailText({ text }) {
       className="w-fit flex gap-[8px] items-center text-[12px]"
     >
       <Image
-        aria-hidden={true}
         src="/assets/images/star-cleaners.webp"
         alt="blue clean star detail"
         intrinsic="true"
         width={19}
         height={19}
         quality={100}
+        priority={true}
       />
       <span className="font-bold uppercase">{text}</span>
     </div>
