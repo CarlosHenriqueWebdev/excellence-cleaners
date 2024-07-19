@@ -3,17 +3,31 @@ import { useTranslation } from "next-i18next";
 import Sparkle from "react-sparkle";
 import Image from "next/image";
 import { useRef } from "react";
-import { useInView } from "framer-motion";
+import useScrollAnimation from "@/components/hooks/useScrollAnimation";
+import {
+  motion,
+  useAnimation,
+  useInView,
+  useViewportScroll,
+  useTransform,
+} from "framer-motion";
 
 export default function AfterBefore() {
   const { t } = useTranslation();
 
-  const containerRef = useRef(null);
-  const isInView = useInView(containerRef, { once: true });
+  const {
+    ref,
+    controls,
+    containerVariants,
+    itemVariants,
+    yPos,
+    cardVariants,
+    imageVariants,
+  } = useScrollAnimation();
 
   return (
     <div
-      className={`curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail2.png')] before:top-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full after:w-[1280px] after:h-[71px] after:bg-no-repeat after:bg-[url('/assets/images/detail1.png')] after:bottom-[0] after:content-[''] after:absolute  after:bg-[length:100%_100%] lg:after:w-full`}
+      className={`curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail2.webp')] before:top-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full after:w-[1280px] after:h-[71px] after:bg-no-repeat after:bg-[url('/assets/images/detail1.webp')] after:bottom-[0] after:content-[''] after:absolute  after:bg-[length:100%_100%] lg:after:w-full`}
     >
       <div className="bg-color03 py-[100px]">
         <div
@@ -27,10 +41,17 @@ export default function AfterBefore() {
               </h2>
             </div>
 
-            <ul className="flex flex-col md:grid md:grid-cols-[1fr_1fr] gap-[24px]">
+            <motion.ul
+              ref={ref}
+              initial="hidden"
+              animate={controls}
+              variants={containerVariants}
+              className="flex flex-col md:grid md:grid-cols-[1fr_1fr] gap-[24px]"
+            >
               {t("afterBefore", { returnObjects: true })?.map((item, index) => (
-                <li
+                <motion.li
                   key={index}
+                  variants={itemVariants}
                   className="grid grid-cols-[1fr_1fr] gap-[2px] shadow-custom rounded-[16px] overflow-hidden"
                 >
                   <div className="relative">
@@ -46,7 +67,7 @@ export default function AfterBefore() {
                     />
 
                     <div className="p-[16px] absolute left-0 bottom-0">
-                      <p className="py-[8px] px-[32px] border-[1px] border-solid border-color03 uppercase font-bold text-black text-[12px] bg-white bg-opacity-[0.90] rounded-[6px] shadow-custom">
+                      <p className="py-[4px] px-[12px] sm:py-[8px] sm:px-[32px] border-[1px] border-solid border-color03 uppercase font-bold text-black text-[12px] bg-white bg-opacity-[0.90] rounded-[6px] shadow-custom">
                         {t("afterBeforeBefore")}
                       </p>
                     </div>
@@ -65,14 +86,14 @@ export default function AfterBefore() {
                     />
 
                     <div className="p-[16px] absolute right-0 bottom-0">
-                      <p className="py-[8px] px-[32px] border-[1px] border-solid border-color03 uppercase font-bold text-black text-[12px] bg-white bg-opacity-[0.90] rounded-[6px] shadow-custom">
+                      <p className="py-[4px] px-[12px] sm:py-[8px] sm:px-[32px] border-[1px] border-solid border-color03 uppercase font-bold text-black text-[12px] bg-white bg-opacity-[0.90] rounded-[6px] shadow-custom">
                         {t("afterBeforeAfter")}
                       </p>
                     </div>
                   </div>
-                </li>
+                </motion.li>
               ))}
-            </ul>
+            </motion.ul>
           </div>
         </div>
       </div>

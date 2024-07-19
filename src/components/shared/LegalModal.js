@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "next-i18next";
+import Image from "next/image";
 
 function LegalModal({ item, onClose }) {
   const { t } = useTranslation();
@@ -73,18 +74,29 @@ function LegalModal({ item, onClose }) {
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black bg-opacity-50 flex text-[#181C18] px-[24px] lg:px-[80px] py-[24px] lg:py-[80px] w-full">
+    <div className="fixed inset-0 z-50 bg-black bg-opacity-50 flex text-[#181C18] px-[24px] lg:px-[80px] w-full">
       <div className="overflow-y-scroll bg-white p-[24px] rounded-[4px] w-full flex flex-col gap-[32px] justify-start mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px]">
-        <div className="flex justify-end w-full">
+        <div className="flex justify-end w-full py-[24px]">
           <button
             aria-hidden={true}
             onClick={onClose}
             className="text-[1.5rem]"
           >
-            x
+            <Image
+              aria-hidden={true}
+              src="/assets/images/vector23.svg"
+              alt="arrow"
+              intrinsic="true"
+              width={48}
+              height={48}
+              quality={100}
+              className="rounded-[100%]"
+            />
           </button>
         </div>
+
         {renderContent()}
+
         <button
           onClick={onClose}
           className="btn px-[32px] py-[12px] rounded-[4px] uppercase font-bold text-[1rem] text-white w-fit cursor-pointer"

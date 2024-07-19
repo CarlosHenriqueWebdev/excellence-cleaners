@@ -1,15 +1,29 @@
 import DetailText from "@/components/shared/DetailText";
 import Image from "next/image";
 import { useTranslation } from "next-i18next";
-import { useInView } from "framer-motion";
 import { useRef } from "react";
 import { Link as ScrollLink } from "react-scroll";
+import useScrollAnimation from "@/components/hooks/useScrollAnimation";
+import {
+  motion,
+  useAnimation,
+  useInView,
+  useViewportScroll,
+  useTransform,
+} from "framer-motion";
 
 export default function About() {
   const { t } = useTranslation();
 
-  const ref = useRef(null);
-  const isInView = useInView(ref, { once: true });
+  const {
+    ref,
+    controls,
+    containerVariants,
+    itemVariants,
+    yPos,
+    cardVariants,
+    imageVariants,
+  } = useScrollAnimation();
 
   const handleButtonClick = () => {
     const targetElement = document.getElementById("contact");
@@ -24,16 +38,24 @@ export default function About() {
 
   return (
     <div className="md:h-[full] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] md:grid md:grid-cols-[1fr_1fr]">
-      <Image
-        aria-hidden={true}
-        src="/assets/images/img14.jpg"
-        className="md:order-[1] block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full md:h-full"
-        intrinsic="true"
-        alt="french city houses"
-        width={450}
-        height={300}
-        quality={100}
-      />
+      <motion.div
+        ref={ref}
+        initial="hidden"
+        animate={controls}
+        variants={itemVariants}
+        className="md:order-[1]"
+      >
+        <Image
+          aria-hidden={true}
+          src="/assets/images/img14.webp"
+          className="block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full md:h-full"
+          intrinsic="true"
+          alt="french city houses"
+          width={450}
+          height={300}
+          quality={100}
+        />
+      </motion.div>
 
       <div className="flex flex-col gap-[24px] md:py-[48px]">
         <div className="flex flex-col gap-[32px] md:text-center md:justify-center md:items-center">

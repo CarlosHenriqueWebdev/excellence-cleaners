@@ -60,17 +60,17 @@
   "howItWorksTitle": "Comment ça fonctionne",
   "howItWorks": [
     {
-      "icon": "vector17.svg",
+      "icon": "vector1.svg",
       "title": "Collecte pratique",
       "description": "Planifiez une collecte à votre convenance et laissez-nous prendre soin de votre linge"
     },
     {
-      "icon": "vector18.svg",
+      "icon": "vector2.svg",
       "title": "Traitement expert",
       "description": "Select the location and time you’d like our professionals to clean"
     },
     {
-      "icon": "vector10.svg",
+      "icon": "vector3.svg",
       "title": "Livraison rapide",
       "description": "Recevez votre linge impeccablement lavé et plié à votre porte, prêt à impressionner vos invités."
     }
@@ -151,37 +151,37 @@
   "servicesTitle": "Offres de Excellence Cleaners",
   "services": [
     {
-      "image": "img4.jpg",
+      "image": "img4.webp",
       "shortTitle": "Gestion Propriété",
       "title": "Gestion Complète de la Propriété de Luxe",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque tellus eu est commodo ultricies. Integer varius risus non mauris lacinia, in dictum tortor vehicula. Etiam fringilla sapien nec neque accumsan, sit amet luctus felis tincidunt."
     },
     {
-      "image": "img5.jpg",
+      "image": "img5.webp",
       "shortTitle": "Entretien Propriété",
       "title": "Services d'Entretien Personnalisés",
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae fringilla odio, in convallis nisl. Fusce tincidunt feugiat eros, quis convallis ex ullamcorper et. Proin dapibus dui magna, vel efficitur ligula tincidunt vitae."
     },
     {
-      "image": "img6.jpg",
+      "image": "img6.webp",
       "shortTitle": "Gestion Immobilière",
       "title": "Gestion Complète de Propriété Résidentielle",
       "description": "Suspendisse potenti. Maecenas sed ipsum vitae libero maximus suscipit. Sed rutrum nulla ac neque laoreet ultricies. Integer pulvinar eros nec neque congue aliquam. Aliquam non dolor at purus hendrerit tincidunt a sit amet odio."
     },
     {
-      "image": "img7.jpg",
+      "image": "img7.webp",
       "shortTitle": "Maintenance Luxe",
       "title": "Service de Maintenance et de Gestion de Luxe",
       "description": "Vestibulum sodales, ex vel tempor feugiat, magna velit consequat metus, in luctus dui diam sed est. Quisque vitae ligula sed purus mattis convallis. Cras hendrerit efficitur ex, id vestibulum libero. Fusce aliquet est ac diam elementum, sit amet ullamcorper orci posuere."
     },
     {
-      "image": "img8.jpg",
+      "image": "img8.webp",
       "shortTitle": "Gestion Patrimoniale",
       "title": "Gestion Globale de Patrimoine de Luxe",
       "description": "Donec euismod eleifend felis, id tempor leo. Curabitur nec condimentum lorem, eu sollicitudin risus. Integer et felis ut leo venenatis sollicitudin. Nulla facilisi. Nam nec purus quis lacus vestibulum tristique non vel justo."
     },
     {
-      "image": "img9.jpg",
+      "image": "img9.webp",
       "shortTitle": "Services Luxe",
       "title": "Services de Conciergerie pour Propriétés de Prestige",
       "description": "Quisque euismod, ex sit amet eleifend laoreet, orci arcu rutrum tellus, at consectetur nisl sapien vitae arcu. Sed varius placerat purus, ac vestibulum urna. Duis fringilla turpis nec ultricies laoreet. Etiam scelerisque metus nec velit ultrices, a egestas urna efficitur."
@@ -225,14 +225,12 @@
   "afterBeforeBefore": "Avant",
   "afterBeforeAfter": "Après",
   "afterBefore": [
-    { "imageBefore": "img1.jpg", "imageAfter": "img2.jpg" },
-    { "imageBefore": "img3.jpg", "imageAfter": "img4.jpg" },
-    { "imageBefore": "img5.jpg", "imageAfter": "img6.jpg" },
-    { "imageBefore": "img7.jpg", "imageAfter": "img8.jpg" },
-    { "imageBefore": "img9.jpg", "imageAfter": "img10.jpg" },
-    { "imageBefore": "img11.jpg", "imageAfter": "img13.jpg" },
-    { "imageBefore": "img1.jpg", "imageAfter": "img11.jpg" },
-    { "imageBefore": "img4.jpg", "imageAfter": "img6.jpg" }
+    { "imageBefore": "img3.webp", "imageAfter": "img4.webp" },
+    { "imageBefore": "img5.webp", "imageAfter": "img6.webp" },
+    { "imageBefore": "img7.webp", "imageAfter": "img8.webp" },
+    { "imageBefore": "img9.webp", "imageAfter": "img10.webp" },
+    { "imageBefore": "img10.webp", "imageAfter": "img13.webp" },
+    { "imageBefore": "img4.webp", "imageAfter": "img6.webp" }
   ],
 
   "contactSubtitle": "Prenez Contact",

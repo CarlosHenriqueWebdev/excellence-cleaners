@@ -3,11 +3,28 @@ import { useTranslation } from "next-i18next";
 import { Link as ScrollLink } from "react-scroll";
 import Image from "next/image";
 import { useState, useRef } from "react";
-import { useInView } from "framer-motion";
 import ServicesModal from "@/components/pages/home/Services/ServicesModal";
+import useScrollAnimation from "@/components/hooks/useScrollAnimation";
+import {
+  motion,
+  useAnimation,
+  useInView,
+  useViewportScroll,
+  useTransform,
+} from "framer-motion";
 
 export default function Services() {
   const { t } = useTranslation();
+
+  const {
+    ref,
+    controls,
+    containerVariants,
+    itemVariants,
+    yPos,
+    cardVariants,
+    imageVariants,
+  } = useScrollAnimation();
 
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -48,12 +65,17 @@ export default function Services() {
           </h2>
         </div>
 
-        <ul
+        <motion.ul
+          ref={ref}
+          initial="hidden"
+          animate={controls}
+          variants={containerVariants}
           className={`flex flex-col gap-[24px] md:grid md:grid-cols-[1fr_1fr] w-full`}
         >
           {t("services", { returnObjects: true })?.map((item, index) => (
-            <li
+            <motion.li
               key={index}
+              variants={itemVariants}
               style={{
                 backgroundImage: `url(/assets/images/${item.image})`,
               }}
@@ -71,9 +93,9 @@ export default function Services() {
                   {t("servicesButtonOne")}{" "}
                 </button>
               </div>
-            </li>
+            </motion.li>
           ))}
-        </ul>
+        </motion.ul>
 
         <ScrollLink
           className="btn px-[32px] py-[12px] rounded-[6px] uppercase font-bold text-[14px] text-white w-fit cursor-pointer"
@@ -87,7 +109,7 @@ export default function Services() {
         </ScrollLink>
       </div>
 
-      {isModalOpen && <ServicesModal onClose={handleCloseModal} />}
+      <ServicesModal onClose={handleCloseModal} isModalOpen={isModalOpen} />
     </div>
   );
 }

@@ -3,15 +3,9 @@ import { useTranslation } from "next-i18next";
 import { Link as ScrollLink } from "react-scroll";
 import Image from "next/image";
 import { useRef } from "react";
-import { useInView } from "framer-motion";
 
 export default function HowItWorks() {
   const { t } = useTranslation();
-
-  const introRef = useRef(null);
-  const packsRef = useRef(null);
-  const isIntroInView = useInView(introRef, { once: true });
-  const isPacksInView = useInView(packsRef, { once: true });
 
   const handleButtonClick = (targetId) => {
     const targetElement = document.getElementById(targetId);
@@ -46,7 +40,7 @@ export default function HowItWorks() {
         {t("howItWorks", { returnObjects: true })?.map((item, index) => (
           <li
             key={index}
-            className="bg-color05 hover:scale-[1.02] transition-scale  rounded-[16px] border-[1px] border-solid border-color03 w-full overflow-hidden flex flex-col gap-[24px] p-[24px] md:text-center md:justify-center md:items-center shadow-custom"
+            className="bg-color05 rounded-[16px] border-[1px] border-solid border-color03 w-full overflow-hidden flex flex-col gap-[24px] p-[24px] md:text-center md:justify-center md:items-center shadow-custom"
           >
             <div className="rounded-[8px] bg-color01-15 flex justify-center items-center w-[48px] h-[48px]">
               <Image

@@ -2,15 +2,27 @@ import { useState, useRef } from "react";
 import DetailText from "@/components/shared/DetailText";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
-import { useInView } from "framer-motion";
+import useScrollAnimation from "@/components/hooks/useScrollAnimation";
+import {
+  motion,
+  useAnimation,
+  useInView,
+  useViewportScroll,
+  useTransform,
+} from "framer-motion";
 
 export default function WhyUs() {
   const { t } = useTranslation();
 
-  const containerRef = useRef(null);
-  const listRef = useRef(null);
-  const isInView = useInView(containerRef, { once: true });
-  const isListInView = useInView(listRef, { once: true });
+  const {
+    ref,
+    controls,
+    containerVariants,
+    itemVariants,
+    yPos,
+    cardVariants,
+    imageVariants,
+  } = useScrollAnimation();
 
   const reasons = t("whyUsReasons", { returnObjects: true });
   const [openIndexes, setOpenIndexes] = useState([0]);
@@ -25,25 +37,29 @@ export default function WhyUs() {
 
   return (
     <div className="px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] md:grid md:grid-cols-[3fr_1fr]">
-      <div
-        className={`md:order-[1] hidden md:flex flex-col h-[400px] md:sticky md:top-0 rounded-[16px] overflow-hidden shadow-custom`}
+      <motion.div
+        ref={ref}
+        initial="hidden"
+        animate={controls}
+        variants={itemVariants}
+        className={`md:order-[1] hidden md:flex flex-col h-[400px] md:sticky md:top-[16px] rounded-[16px] overflow-hidden shadow-custom`}
       >
         <div
-          className={`w-full h-full bg-[url('/assets/images/img3.jpg')] bg-center`}
+          className={`w-full h-full bg-[url('/assets/images/img3.webp')] bg-center`}
         ></div>
 
         <div
-          className={`w-full h-full bg-[url('/assets/images/img4.jpg')] bg-center`}
+          className={`w-full h-full bg-[url('/assets/images/img4.webp')] bg-center`}
         ></div>
         <div
-          className={`w-full h-full bg-[url('/assets/images/img5.jpg')] bg-center`}
+          className={`w-full h-full bg-[url('/assets/images/img5.webp')] bg-center`}
         ></div>
-      </div>
+      </motion.div>
 
       <div className={`md:order-[1] flex md:hidden flex-col gap-[32px]`}>
         <Image
           aria-hidden={true}
-          src="/assets/images/img3.jpg"
+          src="/assets/images/img3.webp"
           className="block object-cover rounded-[16px] shadow-custom w-[450px] md:w-full"
           intrinsic="true"
           alt="french city houses"
