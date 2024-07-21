@@ -1,12 +1,12 @@
 {
   "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
-  "currentLanguage": "Français",
-  "currentLanguageFlag": "flag2.svg",
-  "currentLocale": "fr",
+  "currentLanguage": "English",
+  "currentLanguageFlag": "flag1.svg",
+  "currentLocale": "en",
   "languages": [
-    { "language": "Portugais", "flag": "flag3.svg", "DO_NOT_CHANGE": "pt" },
-    { "language": "Espagnol", "flag": "flag4.svg", "DO_NOT_CHANGE": "es" },
-    { "language": "Anglais", "flag": "flag1.svg", "DO_NOT_CHANGE": "en" }
+    { "language": "Portuguese", "flag": "flag3.svg", "DO_NOT_CHANGE": "pt" },
+    { "language": "Spanish", "flag": "flag4.svg", "DO_NOT_CHANGE": "es" },
+    { "language": "French", "flag": "flag2.svg", "DO_NOT_CHANGE": "fr" }
   ],
 
   "contactInfo": [
