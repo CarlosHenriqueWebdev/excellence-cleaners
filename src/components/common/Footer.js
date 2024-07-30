@@ -143,7 +143,9 @@ function Footer() {
         )}
       </div>
       <div className="mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] px-[24px] lg:px-[80px] py-[48px] text-center  text-[1rem]">
-        <p>&copy; {currentYear} Excellence Conciergerie</p>
+        <p>
+          &copy; {currentYear} {t("copyrightText")}
+        </p>
       </div>
     </footer>
   );
