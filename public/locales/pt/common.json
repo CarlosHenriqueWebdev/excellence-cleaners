@@ -9,190 +9,178 @@
     { "language": "Francês", "flag": "flag2.svg", "DO_NOT_CHANGE": "fr" }
   ],
 
-  "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : how-it-works, introduction, why-us, team, about, servies, faq, after-before, contact",
+  "guideLinesLinks": "Aviso: Os únicos valores aceitos para os campos DO_NOT_CHANGE em navLinks são os IDs atuais do site, que são os seguintes: how-it-works, introduction, why-us, team, about, services, faq, after-before, contact",
   "navLinks": [
-    { "text": "Pourquoi Nous ?", "DO_NOT_CHANGE": "why-us" },
-    { "text": "À propos", "DO_NOT_CHANGE": "about" },
-    { "text": "Services", "DO_NOT_CHANGE": "services" },
-    { "text": "Contact", "DO_NOT_CHANGE": "contact" }
+    { "text": "Por que nós?", "DO_NOT_CHANGE": "why-us" },
+    { "text": "Sobre Nós", "DO_NOT_CHANGE": "about" },
+    { "text": "Serviços", "DO_NOT_CHANGE": "services" },
+    { "text": "Contato", "DO_NOT_CHANGE": "contact" }
   ],
 
-  "heroSubtitle": "Votre partenaire de propreté et de confort",
-  "heroTitle": "Bienvenue chez Excellence Cleaners",
-  "heroButton": "Découvrez nos services",
-  "heroFirstParagraph": "Chez Excellence Cleaners, nous nous spécialisons dans l'art de la propreté impeccable. En tant que leader dans le domaine des services de blanchisserie et d'entretien pour les hébergements de vacances, nous nous engageons à surpasser vos attentes en matière de soin du linge et de service client.",
-  "heroSecondParagraph": "Notre passion pour l'excellence se reflète dans chaque détail, de la literie fraîchement lavée aux textiles impeccablement entretenus. Faites confiance à notre expertise pour transformer votre espace en un sanctuaire de confort et de propreté.",
+  "heroSubtitle": "Seu Parceiro em Limpeza e Conforto",
+  "heroTitle": "Excellence Cleaners",
+  "heroButton": "Descubra Nossos Serviços",
+  "heroFirstParagraph": "Na Excellence Cleaners, especializamo-nos na arte da limpeza impecável. Como líder em serviços de lavanderia e manutenção para acomodações de férias ao longo da Côte d'Azur, estamos comprometidos em superar suas expectativas em cuidados com tecidos e atendimento ao cliente.",
+  "heroSecondParagraph": "Nossa paixão pela excelência é refletida em cada detalhe, desde a roupa de cama recém-lavada até os têxteis meticulosamente mantidos. Confie em nossa expertise para transformar seu espaço em um santuário de conforto e limpeza.",
 
-  "howItWorksSubtitle": "Simplifiez votre quotidien",
-  "howItWorksTitle": "Comment ça fonctionne",
+  "howItWorksSubtitle": "Simplifique Sua Vida Diária",
+  "howItWorksTitle": "Como Funciona",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Collecte pratique",
-      "description": "Planifiez une collecte à votre convenance et laissez-nous prendre soin de votre linge"
+      "title": "Coleta Conveniente",
+      "description": "Agende uma coleta quando for mais conveniente para você e deixe que cuidemos da sua lavanderia."
     },
     {
       "icon": "vector2.svg",
-      "title": "Traitement expert",
-      "description": "Select the location and time you’d like our professionals to clean"
+      "title": "Tratamento Especializado",
+      "description": "Selecione o local e o horário que você gostaria que nossos profissionais realizassem a limpeza."
     },
     {
       "icon": "vector3.svg",
-      "title": "Livraison rapide",
-      "description": "Recevez votre linge impeccablement lavé et plié à votre porte, prêt à impressionner vos invités."
+      "title": "Entrega Rápida",
+      "description": "Receba sua lavanderia impecavelmente lavada e dobrada na sua porta, pronta para impressionar seus convidados."
     }
   ],
 
-  "introductionSubtitle": "Découvrez nos points forts",
-  "introductionTitle": "Services Excellence Cleaners",
-  "introductionDescription": "Nous sommes fiers d'offrir une gamme complète de services de blanchisserie et d'entretien conçus pour dépasser vos attentes. Que vous gériez un hôtel de luxe ou des locations de vacances, notre équipe expérimentée garantit des résultats impeccables à chaque commande. Explorez nos principaux avantages",
+  "introductionSubtitle": "Descubra Nossos Pontos Fortes",
+  "introductionTitle": "Serviços da Excellence Cleaners",
+  "introductionDescription": "Temos orgulho de oferecer uma gama abrangente de serviços de lavanderia e manutenção projetados para superar suas expectativas. Seja você um gerente de hotel de luxo ou de aluguéis de temporada, nossa equipe experiente garante resultados impecáveis com cada pedido. Explore nossas principais vantagens",
   "introductionAdvantages": [
+    { "text": "Atenção excepcional aos detalhes em cada tarefa." },
+    { "text": "Serviço confiável e pontual sempre." },
+    { "text": "Soluções personalizadas adaptadas às suas necessidades." },
+    { "text": "Equipamentos de ponta para resultados superiores." },
+    { "text": "Profissionais altamente treinados dedicados à qualidade." },
     {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
+      "text": "Agendamento flexível para se adequar ao seu estilo de vida agitado."
     },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    },
-    {
-      "text": "Expertise inégalée dans l'industrie de l'hospitalité."
-    }
+    { "text": "Práticas ecológicas que beneficiam o meio ambiente." }
   ],
 
-  "whyUsSubtitle": "Cleaning service",
-  "whyUsTitle": "Pourquoi Choisir Excellence cleaners?",
-  "whyUsDescription": "Chez Excellence Cleaners, nous nous distinguons par notre engagement envers l'excellence et notre passion pour fournir des services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins",
+  "whyUsSubtitle": "Serviço de Limpeza",
+  "whyUsTitle": "Por que Escolher a Excellence Cleaners?",
+  "whyUsDescription": "Na Excellence Cleaners, destacamo-nos pelo nosso compromisso com a excelência e nossa paixão por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
   "whyUsReasons": [
     {
-      "title": "Professionnalisme et Expertise",
-      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+      "title": "Profissionalismo e Expertise",
+      "description": "Nossa equipe experiente garante uma gestão abrangente da propriedade, maximizando a visibilidade em plataformas prestigiadas. Profissionais qualificados elaboram descrições cativantes para destacar características únicas."
     },
     {
-      "title": "Professionnalisme et Expertise",
-      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+      "title": "Atenção aos Detalhes",
+      "description": "Dedicamos atenção meticulosa a cada detalhe, garantindo que toda lavanderia e têxteis sejam tratados com o máximo cuidado e precisão."
     },
     {
-      "title": "Professionnalisme et Expertise",
-      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+      "title": "Serviço Confiável e Pontual",
+      "description": "Temos orgulho de oferecer serviços confiáveis e pontuais, garantindo que suas necessidades de lavanderia sejam atendidas com eficiência e consistência."
     },
     {
-      "title": "Professionnalisme et Expertise",
-      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+      "title": "Soluções Personalizadas",
+      "description": "Oferecemos soluções personalizadas para atender às suas necessidades específicas, proporcionando um serviço personalizado que se adapta às suas exigências."
     },
     {
-      "title": "Professionnalisme et Expertise",
-      "description": "Notre équipe expérimentée assure une gestion complète des biens immobiliers, maximisant la visibilité sur des plateformes prestigieuses. Des professionnels chevronnés élaborent des descriptions captivantes pour mettre en valeur les caractéristiques uniques."
+      "title": "Equipamentos de Ponta",
+      "description": "O uso de equipamentos modernos e de alta qualidade garante resultados superiores e melhora a eficácia geral de nossos processos de limpeza."
     }
   ],
 
   "messageSubtitle": "Catherine Teixeira",
-  "messageTitle": "Message de la Directrice",
-  "messageDescription": "Bienvenue chez Excellence Conciergerie. En tant que Directrice Générale, je suis ravie de vous accueillir. Pour les propriétaires, nous prenons soin de votre bien avec passion et confidentialité. Pour les voyageurs, nous promettons une expérience exceptionnelle et discrète. Excellence Conciergerie incarne le raffinement, la discrétion et l'attention personnelle. Bienvenue à l'excellence.",
+  "messageTitle": "Mensagem da Diretora",
+  "messageDescription": "Bem-vindo à Excellence Cleaners. Como Diretora Geral, estou encantada em recebê-lo. Para os proprietários de imóveis, cuidamos de sua propriedade com paixão e confidencialidade. Para os viajantes, prometemos uma experiência excepcional e discreta. A Excellence Cleaners incorpora sofisticação, discrição e atenção pessoal. Bem-vindo à excelência.",
 
-  "teamSubtitle": "Notre engagement envers notre équipe et notre communauté",
-  "teamTitle": "Une équipe dédiée à votre satisfaction",
-  "teamDescription": "Chez Excellence Cleaners, nous considérons nos employés comme le cœur de notre entreprise. Nous valorisons chaque membre de notre équipe et nous nous engageons à créer un environnement de travail où ils peuvent s'épanouir et exceller. Parallèlement, nous croyons fermement en notre responsabilité envers la communauté locale qui nous soutient. Découvrez ce qui distingue notre équipe",
-  "teamSecondTitle": "Notre Engagement Humain",
-  "teamMinorTitleFirst": "Formation approfondie et expertise métier",
-  "teamMinorDescriptionFirst": "Nos employés bénéficient d'une formation rigoureuse et continue pour garantir un service de la plus haute qualité.",
-  "teamMinorTitleSecond": "Engagement communautaire et responsabilité sociale",
-  "teamMinorDescriptionSecond": "Nous contribuons activement au bien-être de notre communauté à travers des initiatives durables et des pratiques responsables.",
+  "teamSubtitle": "Nosso Compromisso com Nossa Equipe e Comunidade",
+  "teamTitle": "Uma Equipe Dedicada à Sua Satisfação",
+  "teamDescription": "Na Excellence Cleaners, vemos nossos colaboradores como o coração do nosso negócio. Valorizamos cada membro da equipe e estamos comprometidos em criar um ambiente de trabalho onde possam prosperar e se destacar. Ao mesmo tempo, acreditamos firmemente em nossa responsabilidade para com a comunidade local que nos apoia. Descubra o que torna nossa equipe especial.",
+  "teamSecondTitle": "Nosso Compromisso Humano",
+  "teamMinorTitleFirst": "Treinamento Aprofundado e Expertise no Setor",
+  "teamMinorDescriptionFirst": "Nossos colaboradores recebem treinamento rigoroso e contínuo para garantir o mais alto padrão de qualidade no serviço.",
+  "teamMinorTitleSecond": "Engajamento Comunitário e Responsabilidade Social",
+  "teamMinorDescriptionSecond": "Contribuímos ativamente para o bem-estar de nossa comunidade por meio de iniciativas sustentáveis e práticas responsáveis.",
 
-  "aboutSubtitle": "Qui sommes-nous",
-  "aboutTitle": "Excellence Cleaners - Votre partenaire de confiance",
-  "aboutDescription": "Chez Excellence Cleaners, nous nous engageons à transformer chaque séjour en une expérience inoubliable grâce à nos services de blanchisserie de qualité supérieure. Depuis notre création, nous avons su nous distinguer par notre dévouement à l'excellence, notre engagement envers nos employés et notre contribution positive à la communauté locale.",
-  "aboutButton": "Découvrez notre histoire",
+  "aboutSubtitle": "Quem Somos",
+  "aboutTitle": "Excellence Cleaners - Seu Parceiro de Confiança",
+  "aboutDescription": "Na Excellence Cleaners, estamos dedicados a transformar cada estadia em uma experiência inesquecível através dos nossos serviços de lavanderia de alta qualidade. Desde nossa fundação, destacamo-nos pelo nosso compromisso com a excelência, nossa dedicação aos nossos colaboradores e nossa contribuição positiva para a comunidade local.",
+  "aboutButton": "Descubra Nossa História",
 
-  "servicesSubtitle": "Nos Services",
-  "servicesTitle": "Offres de Excellence Cleaners",
+  "servicesSubtitle": "Nossos Serviços",
+  "servicesTitle": "Ofertas da Excellence Cleaners",
   "services": [
     {
       "image": "img4.webp",
-      "shortTitle": "Gestion Propriété",
-      "title": "Gestion Complète de la Propriété de Luxe",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque tellus eu est commodo ultricies. Integer varius risus non mauris lacinia, in dictum tortor vehicula. Etiam fringilla sapien nec neque accumsan, sit amet luctus felis tincidunt."
+      "shortTitle": "Gestão de Propriedades",
+      "title": "Gestão Completa de Propriedades de Luxo",
+      "description": "Oferecemos uma gama completa de serviços de gestão de propriedades de luxo, incluindo manutenção, segurança, gestão de reservas e serviços personalizados para proprietários e viajantes. Nossa equipe especializada garante que sua propriedade seja gerida com os mais altos padrões."
     },
     {
       "image": "img5.webp",
-      "shortTitle": "Entretien Propriété",
-      "title": "Services d'Entretien Personnalisés",
-      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae fringilla odio, in convallis nisl. Fusce tincidunt feugiat eros, quis convallis ex ullamcorper et. Proin dapibus dui magna, vel efficitur ligula tincidunt vitae."
+      "shortTitle": "Manutenção de Propriedades",
+      "title": "Serviços de Manutenção Personalizados",
+      "description": "Fornecemos soluções de manutenção personalizadas para atender às necessidades específicas de sua propriedade. Nossos serviços incluem manutenção regular, reparos emergenciais e inspeções detalhadas para garantir que sua propriedade permaneça em excelente estado."
     },
     {
       "image": "img6.webp",
-      "shortTitle": "Gestion Immobilière",
-      "title": "Gestion Complète de Propriété Résidentielle",
-      "description": "Suspendisse potenti. Maecenas sed ipsum vitae libero maximus suscipit. Sed rutrum nulla ac neque laoreet ultricies. Integer pulvinar eros nec neque congue aliquam. Aliquam non dolor at purus hendrerit tincidunt a sit amet odio."
+      "shortTitle": "Gestão Imobiliária",
+      "title": "Gestão Completa de Propriedades Residenciais",
+      "description": "Nossos serviços de gestão de propriedades residenciais incluem tudo, desde relações com inquilinos até manutenção rotineira e gestão financeira. Cuidamos de todos os aspectos da gestão de propriedades para garantir que sua propriedade residencial esteja bem mantida e lucrativa."
     },
     {
       "image": "img7.webp",
-      "shortTitle": "Maintenance Luxe",
-      "title": "Service de Maintenance et de Gestion de Luxe",
-      "description": "Vestibulum sodales, ex vel tempor feugiat, magna velit consequat metus, in luctus dui diam sed est. Quisque vitae ligula sed purus mattis convallis. Cras hendrerit efficitur ex, id vestibulum libero. Fusce aliquet est ac diam elementum, sit amet ullamcorper orci posuere."
+      "shortTitle": "Manutenção de Luxo",
+      "title": "Serviço de Manutenção e Gestão de Luxo",
+      "description": "Nossos serviços de manutenção de luxo são projetados para atender a propriedades de alto padrão. Oferecemos cuidado e gestão meticulosos, garantindo que cada detalhe de sua propriedade atenda aos mais altos padrões de luxo."
     },
     {
       "image": "img8.webp",
-      "shortTitle": "Gestion Patrimoniale",
-      "title": "Gestion Globale de Patrimoine de Luxe",
-      "description": "Donec euismod eleifend felis, id tempor leo. Curabitur nec condimentum lorem, eu sollicitudin risus. Integer et felis ut leo venenatis sollicitudin. Nulla facilisi. Nam nec purus quis lacus vestibulum tristique non vel justo."
+      "shortTitle": "Gestão de Patrimônio",
+      "title": "Gestão Global de Patrimônio de Luxo",
+      "description": "Especializamo-nos na gestão de propriedades de luxo com valor histórico, oferecendo serviços abrangentes que incluem preservação, manutenção e aprimoramento do valor histórico e estético de sua propriedade."
     },
     {
       "image": "img9.webp",
-      "shortTitle": "Services Luxe",
-      "title": "Services de Conciergerie pour Propriétés de Prestige",
-      "description": "Quisque euismod, ex sit amet eleifend laoreet, orci arcu rutrum tellus, at consectetur nisl sapien vitae arcu. Sed varius placerat purus, ac vestibulum urna. Duis fringilla turpis nec ultricies laoreet. Etiam scelerisque metus nec velit ultrices, a egestas urna efficitur."
+      "shortTitle": "Serviços de Luxo",
+      "title": "Serviços de Concierge para Propriedades de Prestígio",
+      "description": "Nossos serviços de concierge são adaptados para propriedades de alto nível, fornecendo assistência personalizada para atender às necessidades de proprietários e seus convidados. Desde pedidos sob medida até necessidades diárias, garantimos uma experiência excepcional e sem interrupções."
     }
   ],
-  "servicesButtonOne": "Découvrir nos services",
-  "servicesButtonTwo": "Nous Contacter",
-  "servicesButtonThree": "Demander un Devis",
+  "servicesButtonOne": "Descubra Nossos Serviços",
+  "servicesButtonTwo": "Entre em Contato",
+  "servicesButtonThree": "Solicitar Orçamento",
 
-  "faqSubtitle": "Questions Fréquemment Posées",
-  "faqTitle": "Nous Sommes Là Pour Vous Aider",
-  "faqDescriptionOne": "Chez Excellence Cleaners, nous nous distinguons par notre engagement envers l'excellence et notre passion pour fournir des services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins",
-  "faqDescriptionTwo": "Chez Excellence Cleaners, nous nous distinguons par notre engagement envers l'excellence et notre passion pour fournir des services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins",
+  "faqSubtitle": "Perguntas Frequentes",
+  "faqTitle": "Estamos Aqui para Ajudar",
+  "faqDescriptionOne": "Na Excellence Cleaners, estamos dedicados à excelência e apaixonados por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
+  "faqDescriptionTwo": "Na Excellence Cleaners, estamos dedicados à excelência e apaixonados por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
   "faq": [
     {
-      "title": "Quels services offre Excellence Conciergerie ?",
-      "description": "Excellence Conciergerie offre une gamme complète de services de gestion immobilière de luxe, comprenant l'entretien, la sécurité, la gestion des réservations et des services personnalisés pour les propriétaires et les voyageurs."
+      "title": "Quais serviços a Excellence Cleaners oferece?",
+      "description": "A Excellence Cleaners oferece uma gama completa de serviços de gestão de propriedades de luxo, incluindo manutenção, segurança, gestão de reservas e serviços personalizados para proprietários e viajantes."
     },
     {
-      "title": "Comment fonctionne la surveillance 24/7 par Excellence Conciergerie ?",
-      "description": "Notre surveillance 24/7 repose sur des technologies avancées et une équipe dédiée pour assurer une réponse rapide à tout incident, garantissant la sécurité complète de votre propriété."
+      "title": "Como funciona o monitoramento 24/7 da Excellence Cleaners?",
+      "description": "Nosso monitoramento 24/7 conta com tecnologia avançada e uma equipe dedicada para garantir uma resposta rápida a qualquer incidente, garantindo a segurança completa de sua propriedade."
     },
     {
-      "title": "Quels sont les avantages des partenariats exclusifs d'Excellence Conciergerie ?",
-      "description": "Excellence Conciergerie entretient des partenariats exclusifs avec des entreprises de construction, des architectes, des designers d'intérieur et d'autres professionnels. Cela garantit des interventions de haute qualité pour améliorer et maintenir la valeur esthétique de votre propriété."
+      "title": "Quais são os benefícios das parcerias exclusivas da Excellence Cleaners?",
+      "description": "A Excellence Cleaners mantém parcerias exclusivas com empresas de construção, arquitetos, designers de interiores e outros profissionais. Isso garante intervenções de alta qualidade para melhorar e manter o valor estético de sua propriedade."
     },
     {
-      "title": "Pourquoi choisir Excellence Conciergerie pour gérer ma propriété de luxe ?",
-      "description": "Excellence Conciergerie se distingue par son engagement envers l'excellence, la transparence dans chaque service fourni et sa capacité à fournir des solutions sur mesure qui répondent précisément à vos besoins. Nous nous engageons à ce que votre propriété reste immaculée et bien entretenue en tout temps."
+      "title": "Por que escolher a Excellence Cleaners para gerenciar minha propriedade de luxo?",
+      "description": "A Excellence Cleaners destaca-se pelo seu compromisso com a excelência, transparência em cada serviço prestado e capacidade de oferecer soluções personalizadas que atendem exatamente às suas necessidades. Garantimos que sua propriedade permaneça impecável e bem mantida o tempo todo."
     },
     {
-      "title": "Quelles sont les conditions d'annulation des services d'Excellence Conciergerie ?",
-      "description": "Vous pouvez annuler nos services à tout moment en nous contactant directement. Nous nous efforçons de rendre le processus d'annulation aussi simple et transparent que possible pour nos clients."
+      "title": "Quais são os termos de cancelamento dos serviços da Excellence Cleaners?",
+      "description": "Você pode cancelar nossos serviços a qualquer momento entrando em contato diretamente conosco. Nos esforçamos para tornar o processo de cancelamento o mais simples e transparente possível para nossos clientes."
     },
     {
-      "title": "Comment puis-je faire une demande spéciale à Excellence Conciergerie ?",
-      "description": "Pour toute demande spéciale, que ce soit des besoins spécifiques pour votre propriété ou des services personnalisés pour un événement, veuillez nous contacter directement. Nous sommes là pour répondre à vos besoins spécifiques et vous proposer une solution sur mesure."
+      "title": "Como posso fazer um pedido especial para a Excellence Cleaners?",
+      "description": "Para qualquer pedido especial, seja necessidades específicas para sua propriedade ou serviços personalizados para um evento, entre em contato diretamente conosco. Estamos aqui para atender às suas necessidades específicas e fornecer uma solução personalizada."
     }
   ],
 
-  "afterBeforeSubtitle": "Avant et Après",
-  "afterBeforeTitle": "Transformations Étonnantes",
-  "afterBeforeBefore": "Avant",
-  "afterBeforeAfter": "Après",
+  "afterBeforeSubtitle": "Antes e Depois",
+  "afterBeforeTitle": "Transformações Incríveis",
+  "afterBeforeBefore": "Antes",
+  "afterBeforeAfter": "Depois",
   "afterBefore": [
     { "imageBefore": "img3.webp", "imageAfter": "img4.webp" },
     { "imageBefore": "img5.webp", "imageAfter": "img6.webp" },
@@ -202,116 +190,116 @@
     { "imageBefore": "img4.webp", "imageAfter": "img6.webp" }
   ],
 
-  "contactSubtitle": "Prenez Contact",
-  "contactTitle": "Contactez-nous",
-  "contactDescription": "Êtes-vous prêt à élever votre hospitalité et à vous engager pour l'excellence ? Veuillez remplir le formulaire ci-dessous, et notre équipe vous contactera sous peu pour discuter de la manière dont nous pouvons vous aider à offrir des séjours inoubliables à vos clients.",
+  "contactSubtitle": "Entre em Contato",
+  "contactTitle": "Entre em Contato Conosco",
+  "contactDescription": "Você está pronto para elevar a sua hospitalidade e se comprometer com a excelência? Por favor, preencha o formulário abaixo e nossa equipe entrará em contato em breve para discutir como podemos ajudar a oferecer estadias inesquecíveis aos seus clientes.",
 
-  "fullNameLabel": "Nom Complet",
-  "fullNamePlaceholder": "Votre nom complet",
+  "fullNameLabel": "Nome Completo",
+  "fullNamePlaceholder": "Seu nome completo",
   "emailLabel": "Email",
-  "emailPlaceholder": "Votre Email",
-  "phoneLabel": "Phone",
-  "phonePlaceholder": "Your phone",
-  "addressLabel": "Address",
-  "addressPlaceholder": "Location address",
-  "companyNameLabel": "Company",
-  "companyNamePlaceholder": "Name of Your Company",
-  "messageLabel": "Message",
-  "messagePlaceholder": "Your phone",
+  "emailPlaceholder": "Seu Email",
+  "phoneLabel": "Telefone",
+  "phonePlaceholder": "Seu telefone",
+  "addressLabel": "Endereço",
+  "addressPlaceholder": "Endereço de localização",
+  "companyNameLabel": "Empresa",
+  "companyNamePlaceholder": "Nome da Sua Empresa",
+  "messageLabel": "Mensagem",
+  "messagePlaceholder": "Sua mensagem",
 
-  "propertyLocationLabel": "Emplacement de la Propriété",
-  "propertyLocationPlaceholder": "Emplacement",
-  "propertyRoomAmountLabel": "Nombre de Chambres",
-  "propertyRoomAmountPlaceholder": "Nombre",
-  "propertyMessageLabel": "Message / Commentaires ou Demandes Spéciales",
-  "propertyMessagePlaceholder": "Votre Message",
+  "propertyLocationLabel": "Localização da Propriedade",
+  "propertyLocationPlaceholder": "Localização",
+  "propertyRoomAmountLabel": "Número de Quartos",
+  "propertyRoomAmountPlaceholder": "Número",
+  "propertyMessageLabel": "Mensagem / Comentários ou Pedidos Especiais",
+  "propertyMessagePlaceholder": "Sua Mensagem",
 
-  "submit": "Soumettre",
-  "formSubmittedSuccessfully": "Formulaire Soumis Avec Succès !",
-  "thankYouForYourSubmission": "Merci pour votre soumission. Nous vous répondrons sous peu.",
-  "backToStart": "Retour au Début",
+  "submit": "Enviar",
+  "formSubmittedSuccessfully": "Formulário Enviado Com Sucesso!",
+  "thankYouForYourSubmission": "Obrigado pela sua submissão. Entraremos em contato em breve.",
+  "backToStart": "Voltar ao Início",
 
   "legalLinks": [
     {
-      "text": "Conditions Générales",
+      "text": "Termos e Condições",
       "DO_NOT_CHANGE": "terms",
       "array": [
         {
-          "title": "1. Introduction",
-          "description": "Bienvenue sur notre site web. Si vous continuez à naviguer et à utiliser ce site web, vous acceptez de respecter et d'être lié par les conditions générales d'utilisation suivantes, qui régissent notre relation avec vous par rapport à ce site web, ainsi que notre politique de confidentialité."
+          "title": "1. Introdução",
+          "description": "Bem-vindo ao nosso site. Ao continuar navegando e utilizando este site, você concorda em respeitar e estar vinculado aos seguintes termos e condições de uso, que regem nosso relacionamento com você em relação a este site, bem como nossa política de privacidade."
         },
         {
-          "title": "2. Licence d'utilisation du site web",
-          "description": "Sauf indication contraire, nous ou nos concédants détenons les droits de propriété intellectuelle sur le site web et le matériel présent sur le site web. Sous réserve de la licence ci-dessous, tous ces droits de propriété intellectuelle sont réservés."
+          "title": "2. Licença de Uso do Site",
+          "description": "Exceto quando indicado em contrário, nós ou nossos licenciadores possuímos os direitos de propriedade intelectual sobre o site e o material presente no site. Sujeito à licença abaixo, todos esses direitos de propriedade intelectual são reservados."
         },
         {
-          "title": "3. Utilisation acceptable",
-          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+          "title": "3. Uso Aceitável",
+          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
         },
         {
-          "title": "4. Limitations de responsabilité",
-          "description": "Nous ne serons pas responsables envers vous (que ce soit en vertu du droit des contrats, du droit délictuel ou autre) en relation avec le contenu, l'utilisation ou autrement en relation avec ce site web : pour toute perte indirecte, spéciale ou consécutrice ; ou pour toute perte d'activité, de revenus, de bénéfices ou d'économies anticipées, perte de contrats ou de relations commerciales, perte de réputation ou de bonne volonté, ou perte ou corruption d'informations ou de données."
+          "title": "4. Limitações de Responsabilidade",
+          "description": "Não seremos responsáveis perante você (seja sob a lei contratual, lei de responsabilidade civil ou de outra forma) em relação ao conteúdo, uso ou de qualquer outra forma relacionada a este site: por qualquer perda indireta, especial ou consequencial; ou por qualquer perda de negócios, receitas, lucros ou economias antecipadas, perda de contratos ou relações comerciais, perda de reputação ou boa vontade, ou perda ou corrupção de informações ou dados."
         },
         {
-          "title": "5. Utilisation acceptable",
-          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+          "title": "5. Uso Aceitável",
+          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
         },
         {
-          "title": "6. Utilisation acceptable",
-          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+          "title": "6. Uso Aceitável",
+          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
         },
         {
-          "title": "7. Utilisation acceptable",
-          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+          "title": "7. Uso Aceitável",
+          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
         },
         {
-          "title": "8. Utilisation acceptable",
-          "description": "Vous ne devez pas utiliser ce site web de manière à causer, ou pouvant causer, des dommages au site web ou une altération de la disponibilité ou de l'accessibilité du site web ; ou de quelque manière que ce soit illégale, frauduleuse ou nuisible, ou en relation avec une activité ou un but illégal, frauduleux ou nuisible."
+          "title": "8. Uso Aceitável",
+          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
         }
       ]
     },
     {
-      "text": "Politique de Confidentialité",
+      "text": "Política de Privacidade",
       "DO_NOT_CHANGE": "privacy",
       "array": [
         {
-          "title": "1. Informations que nous recueillons",
-          "description": "Nous pouvons collecter les informations suivantes : nom, coordonnées incluant l'adresse e-mail, informations démographiques telles que le code postal, préférences et intérêts, autres informations pertinentes pour les enquêtes clients et/ou offres."
+          "title": "1. Informações que Coletamos",
+          "description": "Podemos coletar as seguintes informações: nome, dados de contato, incluindo endereço de e-mail, informações demográficas como o código postal, preferências e interesses, e outras informações relevantes para pesquisas e/ou ofertas ao cliente."
         },
         {
-          "title": "2. Utilisation des informations que nous recueillons",
-          "description": "Nous avons besoin de ces informations pour comprendre vos besoins et vous fournir un meilleur service, et notamment pour les raisons suivantes : tenue de registres internes, amélioration de nos produits et services, envoi d'e-mails promotionnels sur de nouveaux produits, offres spéciales ou autres informations que nous pensons susceptibles de vous intéresser en utilisant l'adresse e-mail que vous avez fournie."
+          "title": "2. Uso das Informações que Coletamos",
+          "description": "Precisamos dessas informações para entender suas necessidades e fornecer um serviço melhor, e para as seguintes finalidades: manutenção de registros internos, melhoria de nossos produtos e serviços, envio de e-mails promocionais sobre novos produtos, ofertas especiais ou outras informações que acreditamos serem do seu interesse, usando o endereço de e-mail fornecido."
         },
         {
-          "title": "3. Sécurité",
-          "description": "Nous nous engageons à assurer la sécurité de vos informations. Afin d'empêcher tout accès ou divulgation non autorisé(e), nous avons mis en place des procédures physiques, électroniques et managériales appropriées pour sauvegarder et sécuriser les informations que nous collectons en ligne."
+          "title": "3. Segurança",
+          "description": "Estamos comprometidos em garantir a segurança das suas informações. Para evitar acesso ou divulgação não autorizados, implementamos procedimentos físicos, eletrônicos e gerenciais adequados para proteger e salvaguardar as informações que coletamos online."
         },
         {
-          "title": "4. Utilisation des cookies",
-          "description": "Un cookie est un petit fichier qui demande la permission d'être placé sur le disque dur de votre ordinateur. Une fois que vous êtes d'accord, le fichier est ajouté et le cookie aide à analyser le trafic web ou vous permet de savoir quand vous visitez un site particulier. Les cookies permettent aux applications web de vous répondre en tant qu'individu. L'application web peut adapter ses opérations à vos besoins, goûts et dégoûts en collectant et se souvenant des informations relatives à vos préférences."
+          "title": "4. Uso de Cookies",
+          "description": "Um cookie é um pequeno arquivo que solicita permissão para ser colocado no disco rígido do seu computador. Uma vez aceito, o arquivo é adicionado e o cookie ajuda a analisar o tráfego da web ou informa quando você visita um site específico. Cookies permitem que aplicações web respondam a você como indivíduo. A aplicação web pode adaptar suas operações às suas necessidades, gostos e desgostos, coletando e lembrando informações sobre suas preferências."
         }
       ]
     }
   ],
 
-  "attributionsTitle": "Attributions",
+  "attributionsTitle": "Atribuições",
 
-  "closeModalButton": "Fermer",
-  "privacyPolicyWarningText": "En soumettant ce formulaire, vous acceptez notre ",
-  "privacyPolicyWarningLink": "politique de confidentialité",
+  "closeModalButton": "Fechar",
+  "privacyPolicyWarningText": "Ao enviar este formulário, você concorda com nossa ",
+  "privacyPolicyWarningLink": "política de privacidade",
 
-  "requiredField": "Ce champ est obligatoire",
-  "invalidEmail": "L'adresse e-mail est invalide",
-  "submissionError": "Une erreur inattendue s'est produite lors de la soumission. Veuillez réessayer.",
+  "requiredField": "Este campo é obrigatório",
+  "invalidEmail": "O endereço de e-mail é inválido",
+  "submissionError": "Ocorreu um erro inesperado ao enviar o formulário. Por favor, tente novamente.",
 
-  "guideLinesAccessibilityText": "Avertissement : Le terme accessibility_text[number] fait référence aux fonctionnalités d'accessibilité du site web conçues pour les utilisateurs de lecteurs d'écran ou les personnes ayant des troubles visuels. Il est recommandé de ne pas modifier les champs suivants :",
-  "accessibility_text1": "Aller au contenu principal",
-  "accessibility_text2": "Fermer la fenêtre modale et nous contacter",
-  "accessibility_text3": "Fermer la fenêtre modale",
-  "accessibility_text6": "Menu de navigation",
+  "guideLinesAccessibilityText": "Aviso: O termo accessibility_text[number] refere-se às funcionalidades de acessibilidade do site projetadas para usuários de leitores de tela ou pessoas com deficiências visuais. Recomenda-se não modificar os seguintes campos:",
+  "accessibility_text1": "Ir para o conteúdo principal",
+  "accessibility_text2": "Fechar a janela modal e nos contatar",
+  "accessibility_text3": "Fechar a janela modal",
+  "accessibility_text6": "Menu de navegação",
 
-  "footerDescription": "Excellence Conciergerie est une agence de gestion immobilière de luxe basée sur la Côte d'Azur. Notre équipe dédiée offre des services personnalisés pour répondre aux besoins uniques de chaque propriétaire.",
-  "footerContactTitle": "Contact",
-  "footerSiteLinksTitle": "Liens Utiles",
+  "footerDescription": "A Excellence Conciergerie é uma agência de gestão imobiliária de luxo baseada na Côte d'Azur. Nossa equipe dedicada oferece serviços personalizados para atender às necessidades únicas de cada proprietário.",
+  "footerContactTitle": "Contato",
+  "footerSiteLinksTitle": "Links Úteis",
   "copyrightText": "Excellence Cleaners"
 }
