@@ -115,7 +115,7 @@
   "heroSubtitle": "Votre Partenaire en Propreté et Confort",
   "heroTitle": "Excellence Cleaners",
   "heroButton": "Découvrez Nos Services",
-  "heroFirstParagraph": "Bienvenue chez Excellence Cleaners, votre partenaire de confiance pour des services de nettoyage haut de gamme, que vous soyez propriétaire d’une résidence principale ou d’un bien en location saisonnière. Avec plus de 3 ans d’expérience, nous nous spécialisons dans le nettoyage de villas et d’appartements de prestige destinés à la location saisonnière. Nous offrons également des prestations de ménage récurrent à l’année pour les propriétaires résidents. Nos tarifs sont à partir de 26,90 €/h, et nos équipes dédiées garantissent un service sur mesure et efficace.",
+  "heroFirstParagraph": "Bienvenue chez Excellence Cleaners, votre partenaire de confiance pour des services de nettoyage haut de gamme, que vous soyez propriétaire d’une résidence principale ou d’un bien en location saisonnière. Avec plus de 3 ans d’expérience, nous nous spécialisons dans le nettoyage de villas et d’appartements de prestige destinés à la location saisonnière. Nous offrons également des prestations de ménage récurrent à l’année pour les propriétaires résidents. Nos tarifs sont à partir de 26,90€HT/h, et nos équipes dédiées garantissent un service sur mesure et efficace.",
   "heroSecondParagraph": "Chez Excellence Cleaners, nous sommes spécialisés dans l'art de la propreté impeccable. En tant que leader des services de blanchisserie et d'entretien pour les locations de vacances sur la Côte d'Azur, nous nous engageons à dépasser vos attentes en matière de soin des tissus et de service client. Notre passion pour l'excellence se reflète dans chaque détail, des draps fraîchement lavés aux textiles soigneusement entretenus. Faites confiance à notre expertise pour transformer votre espace en un sanctuaire de confort et de propreté.",
 
   "howItWorksSubtitle": "Simplifiez Votre Vie Quotidienne",
@@ -183,7 +183,7 @@
     },
     {
       "title": "Tarification transparente",
-      "description": "Nos tarifs débutent à 26,90 €/h. La durée des interventions est ajustée en fonction du nombre d'agents, avec une transparence totale sur les coûts. Profitez ainsi d'un service haut de gamme sans mauvaises surprises."
+      "description": "Nos tarifs débutent à 26,90€HT/h. La durée des interventions est ajustée en fonction du nombre d'agents, avec une transparence totale sur les coûts. Profitez ainsi d'un service haut de gamme sans mauvaises surprises."
     },
     {
       "title": "Avantages à choisir Excellence Cleaners et son équipe",
@@ -255,8 +255,8 @@
 
   "faqSubtitle": "Questions Fréquemment Posées",
   "faqTitle": "Nous Sommes Là Pour Vous Aider",
-  "faqDescriptionOne": "Chez Excellence Cleaners, nous sommes dédiés à l'excellence et passionnés par la fourniture de services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins :",
-  "faqDescriptionTwo": "Chez Excellence Cleaners, nous sommes dédiés à l'excellence et passionnés par la fourniture de services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins :",
+  "faqDescriptionOne": "Vous avez des questions concernant nos services ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
+  "faqDescriptionTwo": "Si vous ne trouvez pas la réponse que vous cherchez, n'hésitez pas à nous contacter directement. Nous sommes là pour vous aider !",
   "faq": [
     {
       "title": "Comment puis-je réserver une prestation de nettoyage ?",
@@ -280,7 +280,7 @@
     },
     {
       "title": "Quels sont vos tarifs et comment sont-ils calculés ?",
-      "description": "Nos tarifs commencent à 26,90 €/heure pour une personne. Le coût total dépend du nombre d’heures nécessaires et du nombre de personnes mobilisées pour la prestation. Si plus d’une personne intervient, la durée du nettoyage sera réduite proportionnellement. Nous fournissons toujours une estimation avant chaque prestation, afin de garantir une transparence totale."
+      "description": "Nos tarifs commencent à 26,90€HT/h pour une personne. Le coût total dépend du nombre d’heures nécessaires et du nombre de personnes mobilisées pour la prestation. Si plus d’une personne intervient, la durée du nettoyage sera réduite proportionnellement. Nous fournissons toujours une estimation avant chaque prestation, afin de garantir une transparence totale."
     }
   ],
 
