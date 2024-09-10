@@ -123,18 +123,18 @@
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Collecte Pratique",
-      "description": "Planifiez une collecte à votre convenance et laissez-nous nous occuper de votre blanchisserie."
+      "title": "Demande de Devis",
+      "description": "Soumettez une demande de devis en ligne pour obtenir une estimation précise de nos services de nettoyage. Nous vous répondrons rapidement avec une offre personnalisée."
     },
     {
       "icon": "vector2.svg",
-      "title": "Traitement Expert",
-      "description": "Sélectionnez le lieu et l'heure auxquels vous souhaitez que nos professionnels nettoient."
+      "title": "Validation de la Proposition",
+      "description": "Examinez et approuvez notre proposition de nettoyage. Une fois votre approbation reçue, nous planifierons l'intervention à votre convenance."
     },
     {
       "icon": "vector3.svg",
-      "title": "Livraison Rapide",
-      "description": "Recevez votre linge impeccablement lavé et plié à votre porte, prêt à impressionner vos invités."
+      "title": "Intervention Professionnelle",
+      "description": "Nos experts se rendent à l'adresse indiquée pour réaliser le type de nettoyage que vous avez spécifié, à la date et l'heure convenues. Vous bénéficierez d'un service de haute qualité, parfaitement adapté à vos besoins."
     }
   ],
 
