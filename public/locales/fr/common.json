@@ -197,12 +197,12 @@
 
   "teamSubtitle": "Notre Engagement envers Notre Équipe et la Communauté",
   "teamTitle": "Une Équipe Dédiée à Votre Satisfaction",
-  "teamDescription": "Chez Excellence Cleaners, nous considérons nos employés comme le cœur de notre entreprise. Nous valorisons chaque membre de l'équipe et nous nous engageons à créer un environnement de travail où ils peuvent s'épanouir et exceller. En même temps, nous croyons fermement en notre responsabilité envers la communauté locale qui nous soutient. Découvrez ce qui distingue notre équipe.",
-  "teamSecondTitle": "Notre Engagement Humain",
+  "teamDescription": "Chez Excellence Cleaners, nous croyons fermement que la qualité de nos services dépend de l’investissement que nous portons à notre équipe et à la communauté qui nous entoure. C'est pourquoi nous nous engageons à offrir un environnement de travail respectueux et à contribuer positivement au développement local. Nous savons que nos employés et notre communauté sont au cœur de notre succès, et c’est avec cet esprit que nous mettons en place des actions concrètes pour faire une différence.",
+  "teamSecondTitle": "Valorisation et développement de notre équipe",
   "teamMinorTitleFirst": "Formation Approfondie et Expertise du Secteur",
-  "teamMinorDescriptionFirst": "Nos employés bénéficient d'une formation rigoureuse et continue pour garantir le service de la plus haute qualité.",
-  "teamMinorTitleSecond": "Engagement Communautaire et Responsabilité Sociale",
-  "teamMinorDescriptionSecond": "Nous contribuons activement au bien-être de notre communauté à travers des initiatives durables et des pratiques responsables.",
+  "teamMinorDescriptionFirst": "Nous nous engageons à offrir à nos employés un environnement de travail sain, respectueux et motivant. Cela passe par des formations régulières pour développer leurs compétences, des conditions de travail équitables et des opportunités d’évolution professionnelle. Nous croyons qu’une équipe épanouie est la clé pour offrir un service d’excellence à nos clients.",
+  "teamMinorTitleSecond": "Engagement pour un Nettoyage Responsable et Durable",
+  "teamMinorDescriptionSecond": "Nous prenons à cœur la protection de l’environnement en utilisant des produits écologiques et en adoptant des pratiques de nettoyage respectueuses de la planète. Notre approche responsable garantit non seulement un environnement sain pour nos clients et notre équipe, mais aussi une empreinte écologique réduite.",
 
   "aboutSubtitle": "Qui Nous Sommes",
   "aboutTitle": "Excellence Cleaners - Votre Partenaire de Confiance",
@@ -259,28 +259,28 @@
   "faqDescriptionTwo": "Chez Excellence Cleaners, nous sommes dédiés à l'excellence et passionnés par la fourniture de services de blanchisserie exceptionnels. Voici pourquoi nous sommes le choix idéal pour vos besoins :",
   "faq": [
     {
-      "title": "Quels services propose Excellence Cleaners ?",
-      "description": "Excellence Cleaners propose une gamme complète de services de gestion de propriétés de luxe, y compris l'entretien, la sécurité, la gestion des réservations et des services personnalisés pour les propriétaires et les voyageurs."
+      "title": "Comment puis-je réserver une prestation de nettoyage ?",
+      "description": "Il vous suffit de nous contacter via téléphone, WhatsApp ou par email. Nous discuterons de vos besoins spécifiques, puis nous fixerons une date et une heure pour l’intervention. Nous sommes flexibles et nous adaptons à vos disponibilités pour vous offrir un service sur mesure."
     },
     {
-      "title": "Comment fonctionne la surveillance 24/7 par Excellence Cleaners ?",
-      "description": "Notre surveillance 24/7 repose sur une technologie avancée et une équipe dédiée pour garantir une réponse rapide à tout incident, assurant ainsi la sécurité totale de votre propriété."
+      "title": "Quels types de biens nettoyez-vous ?",
+      "description": "Nous nous spécialisons dans le nettoyage de villas et d’appartements de prestige, notamment ceux destinés à la location saisonnière. Toutefois, nous intervenons également dans les résidences principales. Que vous soyez un propriétaire résident ou que vous gériez un bien en location, nous avons une solution adaptée à vos besoins."
     },
     {
-      "title": "Quels sont les avantages des partenariats exclusifs d'Excellence Cleaners ?",
-      "description": "Excellence Cleaners entretient des partenariats exclusifs avec des entreprises de construction, des architectes, des designers d'intérieur et d'autres professionnels. Cela garantit des interventions de haute qualité pour améliorer et maintenir la valeur esthétique de votre propriété."
+      "title": "Comment est déterminé le nombre de personnes pour une prestation ?",
+      "description": "Le nombre de personnes affectées à une prestation dépend de la taille de la propriété et du type de service demandé. Nous évaluons chaque situation individuellement afin de garantir un nettoyage efficace et rapide. Si nous envoyons plus d'une personne, cela réduit le temps d'exécution tout en maintenant la qualité du service."
     },
     {
-      "title": "Pourquoi choisir Excellence Cleaners pour gérer ma propriété de luxe ?",
-      "description": "Excellence Cleaners se distingue par son engagement envers l'excellence, la transparence dans chaque service fourni, et sa capacité à offrir des solutions sur mesure qui répondent précisément à vos besoins. Nous veillons à ce que votre propriété reste impeccable et bien entretenue en tout temps."
+      "title": "Quels produits et équipements utilisez-vous ?",
+      "description": "Nous utilisons des produits de nettoyage professionnels de haute qualité, respectueux de l'environnement et sûrs pour les surfaces délicates. Notre équipe est équipée de tout le matériel nécessaire pour assurer un nettoyage complet, y compris des équipements spécialisés pour les canapés, tapis et vitres. Si vous avez des préférences pour certains produits, nous pouvons nous adapter."
     },
     {
-      "title": "Quels sont les termes d'annulation des services d'Excellence Cleaners ?",
-      "description": "Vous pouvez annuler nos services à tout moment en nous contactant directement. Nous nous efforçons de rendre le processus d'annulation aussi simple et transparent que possible pour nos clients."
+      "title": "Proposez-vous des contrats de nettoyage régulier ?",
+      "description": "Oui, nous offrons des services réguliers pour les clients qui souhaitent un entretien à long terme, que ce soit pour des résidences principales ou des biens en location saisonnière. Nous pouvons organiser des interventions hebdomadaires, mensuelles ou selon le calendrier de votre choix, toujours avec la même rigueur et la même qualité."
     },
     {
-      "title": "Comment faire une demande spéciale à Excellence Cleaners ?",
-      "description": "Pour toute demande spéciale, qu'il s'agisse de besoins spécifiques pour votre propriété ou de services personnalisés pour un événement, veuillez nous contacter directement. Nous sommes là pour répondre à vos besoins spécifiques et fournir une solution sur mesure."
+      "title": "Quels sont vos tarifs et comment sont-ils calculés ?",
+      "description": "Nos tarifs commencent à 26,90 €/heure pour une personne. Le coût total dépend du nombre d’heures nécessaires et du nombre de personnes mobilisées pour la prestation. Si plus d’une personne intervient, la durée du nettoyage sera réduite proportionnellement. Nous fournissons toujours une estimation avant chaque prestation, afin de garantir une transparence totale."
     }
   ],
 
