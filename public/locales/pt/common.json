@@ -11,7 +11,7 @@
 
   "guideLinesLinks": "Aviso: Os únicos valores aceitos para os campos DO_NOT_CHANGE em navLinks são os IDs atuais do site, que são os seguintes: how-it-works, introduction, why-us, team, about, services, faq, after-before, contact",
   "navLinks": [
-    { "text": "Por que nós", "DO_NOT_CHANGE": "why-us" },
+    { "text": "Por que nós?", "DO_NOT_CHANGE": "why-us" },
     { "text": "Sobre Nós", "DO_NOT_CHANGE": "about" },
     { "text": "Serviços", "DO_NOT_CHANGE": "services" },
     { "text": "Contato", "DO_NOT_CHANGE": "contact" }
