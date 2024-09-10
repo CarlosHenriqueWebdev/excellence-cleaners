@@ -214,39 +214,39 @@
   "services": [
     {
       "image": "img4.webp",
-      "shortTitle": "Gestion de Propriétés",
-      "title": "Gestion Complète de Propriétés de Luxe",
-      "description": "Nous offrons une gamme complète de services de gestion de propriétés de luxe, y compris l'entretien, la sécurité, la gestion des réservations et des services personnalisés pour les propriétaires et les voyageurs. Notre équipe d'experts veille à ce que votre propriété soit gérée selon les plus hauts standards."
+      "shortTitle": "Nettoyage entre locations saisonnières",
+      "title": "Nettoyage entre locations saisonnières",
+      "description": "Ce service est conçu pour les propriétaires de villas ou d'appartements en location saisonnière. Nous intervenons entre chaque location pour préparer votre bien, afin que vos locataires trouvent une propriété immaculée à leur arrivée. Chaque intervention est minutieusement réalisée pour que votre bien reste au meilleur de sa forme, et ainsi garantir des avis positifs et une satisfaction locataire optimale."
     },
     {
       "image": "img5.webp",
-      "shortTitle": "Entretien de Propriétés",
-      "title": "Services d'Entretien Personnalisés",
-      "description": "Nous fournissons des solutions d'entretien sur mesure pour répondre aux besoins spécifiques de votre propriété. Nos services incluent l'entretien régulier, les réparations d'urgence et les inspections détaillées pour garantir que votre propriété reste en excellent état."
+      "shortTitle": "Ménage à l’année pour propriétaires résidents",
+      "title": "Ménage à l’année pour propriétaires résidents",
+      "description": "Nous proposons des services de ménage récurrents pour les propriétaires qui résident dans leur logement à l'année. Nos prestations s'adaptent à votre emploi du temps, et nous veillons à maintenir une propreté irréprochable de votre domicile, semaine après semaine."
     },
     {
       "image": "img6.webp",
-      "shortTitle": "Gestion Immobilière",
-      "title": "Gestion Résidentielle Complète",
-      "description": "Nos services de gestion résidentielle incluent tout, des relations avec les locataires à l'entretien de routine et la gestion financière. Nous prenons en charge chaque aspect de la gestion immobilière pour garantir que votre propriété résidentielle est bien entretenue et rentable."
+      "shortTitle": "Ménage de mise en route (ou premier ménage)",
+      "title": "Ménage de mise en route (ou premier ménage)",
+      "description": "Ce service est parfait pour préparer un bien avant sa mise en location saisonnière. Nous effectuons un nettoyage complet et approfondi afin que votre propriété soit prête pour accueillir ses premiers locataires."
     },
     {
       "image": "img7.webp",
-      "shortTitle": "Entretien de Luxe",
-      "title": "Service d'Entretien et de Gestion de Luxe",
-      "description": "Nos services d'entretien de luxe sont conçus pour répondre aux besoins des propriétés haut de gamme. Nous fournissons des soins et une gestion méticuleux, garantissant que chaque détail de votre propriété répond aux plus hauts standards de luxe."
+      "shortTitle": "Deep cleaning (nettoyage en profondeur)",
+      "title": "Deep cleaning (nettoyage en profondeur)",
+      "description": "Pour un entretien approfondi, ce service est idéal pour nettoyer les zones les plus difficiles d'accès, les recoins, les textiles et les surfaces qui nécessitent une attention particulière. Ce nettoyage est recommandé avant le début d’une nouvelle saison de location.pq?"
     },
     {
       "image": "img8.webp",
-      "shortTitle": "Gestion du Patrimoine",
-      "title": "Gestion du Patrimoine de Luxe Global",
-      "description": "Nous nous spécialisons dans la gestion de propriétés patrimoniales de luxe, offrant des services complets qui incluent la préservation, l'entretien et l'amélioration de la valeur historique et esthétique de votre propriété."
+      "shortTitle": "Nettoyage de canapés et tapis",
+      "title": "Nettoyage de canapés et tapis",
+      "description": "Élimination des taches, allergènes et odeurs pour préserver la qualité de vos textiles et meubles."
     },
     {
       "image": "img9.webp",
-      "shortTitle": "Services de Luxe",
-      "title": "Services de Conciergerie pour Propriétés Prestige",
-      "description": "Nos services de conciergerie sont conçus pour les propriétés haut de gamme, offrant une assistance personnalisée pour répondre aux besoins des propriétaires et de leurs invités. Des demandes spécifiques aux besoins quotidiens, nous assurons une expérience exceptionnelle et fluide."
+      "shortTitle": "Nettoyage de vitres",
+      "title": "Nettoyage de vitres",
+      "description": "Nos équipes assurent un service impeccable, laissant vos fenêtres parfaitement propres et sans traces, pour un maximum de luminosité."
     }
   ],
   "servicesButtonOne": "Découvrez Nos Services",
