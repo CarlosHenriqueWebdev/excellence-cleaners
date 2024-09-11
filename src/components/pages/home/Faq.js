@@ -45,7 +45,7 @@ export default function Faq() {
               aria-expanded={openIndexes.includes(index)}
               className={`${index === faq.length - 1 ? "border-b-[0px]" : ""} group cursor-pointer font-semibold p-[24px] flex flex-col border-solid border-b-[1px] border-color03`}
             >
-              <div className="flex justify-between items-center cursor-pointer">
+              <div className="flex justify-between items-center cursor-pointer w-full">
                 <h3 className="group-hover:text-color02 text-start">
                   {item.title}
                 </h3>
