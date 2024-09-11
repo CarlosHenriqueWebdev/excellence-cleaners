@@ -83,17 +83,6 @@ export default function Services() {
             </motion.li>
           ))}
         </motion.ul>
-
-        <ScrollLink
-          className="btn px-[32px] py-[12px] rounded-[6px] uppercase font-bold text-[14px] text-white w-fit cursor-pointer"
-          to="contact"
-          tabIndex="0"
-          onClick={() => handleButtonClick("contact")}
-          offset={-200}
-          smooth={true}
-        >
-          {t("servicesButtonTwo")}{" "}
-        </ScrollLink>
       </div>
 
       <ServicesModal onClose={handleCloseModal} isModalOpen={isModalOpen} />
