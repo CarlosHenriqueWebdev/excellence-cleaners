@@ -20,26 +20,26 @@
   "heroSubtitle": "Seu Parceiro em Limpeza e Conforto",
   "heroTitle": "Excellence Cleaners",
   "heroButton": "Descubra Nossos Serviços",
-  "heroFirstParagraph": "Na Excellence Cleaners, especializamo-nos na arte da limpeza impecável. Como líder em serviços de lavanderia e manutenção para acomodações de férias ao longo da Côte d'Azur, estamos comprometidos em superar suas expectativas em cuidados com tecidos e atendimento ao cliente.",
-  "heroSecondParagraph": "Nossa paixão pela excelência é refletida em cada detalhe, desde a roupa de cama recém-lavada até os têxteis meticulosamente mantidos. Confie em nossa expertise para transformar seu espaço em um santuário de conforto e limpeza.",
+  "heroFirstParagraph": "Na Excellence Cleaners, colocamos nossa expertise a serviço da sua tranquilidade com serviços de limpeza personalizados para residências de alto padrão. Seja para locações de temporada ou para manutenção regular, nossa equipe dedicada garante que cada detalhe seja cuidado, proporcionando assim um conforto ideal em sua propriedade.",
+  "heroSecondParagraph": "Com mais de 3 anos de experiência, nossa paixão pela excelência se reflete em cada serviço, seja para preparar seu imóvel antes da chegada de novos inquilinos ou para uma manutenção minuciosa ao longo do ano. Com a Excellence Cleaners, aproveite plenamente seu espaço com total tranquilidade.",
 
   "howItWorksSubtitle": "Simplifique Sua Vida Diária",
   "howItWorksTitle": "Como Funciona",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Coleta Conveniente",
-      "description": "Agende uma coleta quando for mais conveniente para você e deixe que cuidemos da sua lavanderia."
+      "title": "Solicitação de Orçamento",
+      "description": "Envie uma solicitação de orçamento online para obter uma estimativa precisa dos nossos serviços de limpeza. Responderemos rapidamente com uma oferta personalizada."
     },
     {
       "icon": "vector2.svg",
-      "title": "Tratamento Especializado",
-      "description": "Selecione o local e o horário que você gostaria que nossos profissionais realizassem a limpeza."
+      "title": "Validação da Proposta",
+      "description": "Revise e aprove nossa proposta de limpeza. Assim que recebermos sua aprovação, agendaremos a intervenção na sua conveniência."
     },
     {
       "icon": "vector3.svg",
-      "title": "Entrega Rápida",
-      "description": "Receba sua lavanderia impecavelmente lavada e dobrada na sua porta, pronta para impressionar seus convidados."
+      "title": "Intervenção Profissional",
+      "description": "Nossos especialistas irão ao endereço indicado para realizar o tipo de limpeza que você especificou, na data e hora combinadas. Você desfrutará de um serviço de alta qualidade, perfeitamente adaptado às suas necessidades."
     }
   ],
 
@@ -47,99 +47,97 @@
   "introductionTitle": "Serviços da Excellence Cleaners",
   "introductionDescription": "Temos orgulho de oferecer uma gama abrangente de serviços de lavanderia e manutenção projetados para superar suas expectativas. Seja você um gerente de hotel de luxo ou de aluguéis de temporada, nossa equipe experiente garante resultados impecáveis com cada pedido. Explore nossas principais vantagens",
   "introductionAdvantages": [
-    { "text": "Atenção excepcional aos detalhes em cada tarefa." },
-    { "text": "Serviço confiável e pontual sempre." },
-    { "text": "Soluções personalizadas adaptadas às suas necessidades." },
-    { "text": "Equipamentos de ponta para resultados superiores." },
-    { "text": "Profissionais altamente treinados dedicados à qualidade." },
-    {
-      "text": "Agendamento flexível para se adequar ao seu estilo de vida agitado."
-    },
-    { "text": "Práticas ecológicas que beneficiam o meio ambiente." }
+    { "text": "Limpeza entre locações de temporada;" },
+    { "text": "Serviço de limpeza anual para proprietários residentes;" },
+    { "text": "Limpeza profunda;" },
+    { "text": "Limpeza de sofás, tapetes e têxteis;" },
+    { "text": "Limpeza de janelas;" },
+    { "text": "Limpeza de escritórios e clínicas;" },
+    { "text": "Serviços sob medida." }
   ],
 
   "whyUsSubtitle": "Serviço de Limpeza",
   "whyUsTitle": "Por que Escolher a Excellence Cleaners?",
-  "whyUsDescription": "Na Excellence Cleaners, destacamo-nos pelo nosso compromisso com a excelência e nossa paixão por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
+  "whyUsDescription": "Na Excellence Cleaners, com mais de 3 anos de expertise na limpeza de vilas e apartamentos de luxo para locação sazonal, destacamo-nos pelo nosso compromisso em oferecer um serviço impecável. Compreendemos a importância da primeira impressão para seus inquilinos e garantimos que sua propriedade esteja sempre perfeita entre cada estadia.",
   "whyUsReasons": [
     {
-      "title": "Profissionalismo e Expertise",
-      "description": "Nossa equipe experiente garante uma gestão abrangente da propriedade, maximizando a visibilidade em plataformas prestigiadas. Profissionais qualificados elaboram descrições cativantes para destacar características únicas."
+      "title": "Serviço de limpeza anual para proprietários residentes",
+      "description": "Além das locações sazonais, oferecemos contratos de manutenção regular para proprietários residentes. Nosso serviço de limpeza anual garante um lar limpo e acolhedor durante todo o ano, sem que você precise se preocupar."
     },
     {
-      "title": "Atenção aos Detalhes",
-      "description": "Dedicamos atenção meticulosa a cada detalhe, garantindo que toda lavanderia e têxteis sejam tratados com o máximo cuidado e precisão."
+      "title": "Flexibilidade e rapidez de intervenção",
+      "description": "Nossas equipes são flexíveis e se adaptam às suas necessidades. Mobilizamos diversos agentes para intervenções rápidas, especialmente entre duas locações sazonais, a fim de maximizar seus períodos de locação."
     },
     {
-      "title": "Serviço Confiável e Pontual",
-      "description": "Temos orgulho de oferecer serviços confiáveis e pontuais, garantindo que suas necessidades de lavanderia sejam atendidas com eficiência e consistência."
+      "title": "Qualidade e atenção aos detalhes",
+      "description": "Compreendemos as exigências de propriedades de prestígio. Nossa equipe, treinada para satisfazer proprietários e inquilinos, limpa cada canto com precisão, assegurando que sua propriedade esteja sempre impecável."
     },
     {
-      "title": "Soluções Personalizadas",
-      "description": "Oferecemos soluções personalizadas para atender às suas necessidades específicas, proporcionando um serviço personalizado que se adapta às suas exigências."
+      "title": "Tarificação transparente",
+      "description": "Nossos preços começam a partir de 26,90€HT/h. A duração das intervenções é ajustada com base no número de agentes, com total transparência sobre os custos. Assim, você desfruta de um serviço de alta qualidade sem surpresas desagradáveis."
     },
     {
-      "title": "Equipamentos de Ponta",
-      "description": "O uso de equipamentos modernos e de alta qualidade garante resultados superiores e melhora a eficácia geral de nossos processos de limpeza."
+      "title": "Vantagens ao escolher a Excellence Cleaners e sua equipe",
+      "description": "Escolher a Excellence Cleaners é optar por uma equipe dedicada, profissional e treinada nas técnicas mais avançadas de limpeza. Utilizamos equipamentos modernos e de alta qualidade, garantindo resultados superiores e otimizando a eficácia de nossos processos. Comprometemo-nos a oferecer um serviço pontual e de alta qualidade em cada intervenção. Nossos colaboradores são rigorosamente selecionados por sua expertise e confiabilidade, assegurando a segurança e a discrição em sua propriedade. Além disso, prestamos atenção especial às suas necessidades específicas e exigências para oferecer um serviço personalizado que supera suas expectativas. Com a Excellence Cleaners, você tem a certeza de trabalhar com uma equipe competente, engajada e atenta."
     }
   ],
 
   "messageSubtitle": "Catherine Teixeira",
   "messageTitle": "Mensagem da Diretora",
-  "messageDescription": "Bem-vindo à Excellence Cleaners. Como Diretora Geral, estou encantada em recebê-lo. Para os proprietários de imóveis, cuidamos de sua propriedade com paixão e confidencialidade. Para os viajantes, prometemos uma experiência excepcional e discreta. A Excellence Cleaners incorpora sofisticação, discrição e atenção pessoal. Bem-vindo à excelência.",
+  "messageDescription": "Seja bem-vindo(a) à Excellence Cleaners. Como Diretora Geral, é com grande prazer que lhe dou as boas-vindas. Para os proprietários de imóveis, cuidamos do seu patrimônio com paixão e discrição. Para os viajantes, prometemos uma experiência excepcional e confidencial. A Excellence Cleaners personifica o refinamento, a discrição e a atenção personalizada. Bem-vindo(a) à excelência.",
 
   "teamSubtitle": "Nosso Compromisso com Nossa Equipe e Comunidade",
   "teamTitle": "Uma Equipe Dedicada à Sua Satisfação",
-  "teamDescription": "Na Excellence Cleaners, vemos nossos colaboradores como o coração do nosso negócio. Valorizamos cada membro da equipe e estamos comprometidos em criar um ambiente de trabalho onde possam prosperar e se destacar. Ao mesmo tempo, acreditamos firmemente em nossa responsabilidade para com a comunidade local que nos apoia. Descubra o que torna nossa equipe especial.",
-  "teamSecondTitle": "Nosso Compromisso Humano",
-  "teamMinorTitleFirst": "Treinamento Aprofundado e Expertise no Setor",
-  "teamMinorDescriptionFirst": "Nossos colaboradores recebem treinamento rigoroso e contínuo para garantir o mais alto padrão de qualidade no serviço.",
-  "teamMinorTitleSecond": "Engajamento Comunitário e Responsabilidade Social",
-  "teamMinorDescriptionSecond": "Contribuímos ativamente para o bem-estar de nossa comunidade por meio de iniciativas sustentáveis e práticas responsáveis.",
+  "teamDescription": "Na Excellence Cleaners, acreditamos firmemente que a qualidade de nossos serviços depende do investimento que fazemos em nossa equipe e na comunidade ao nosso redor. Por isso, nos comprometemos a oferecer um ambiente de trabalho respeitoso e a contribuir positivamente para o desenvolvimento local. Sabemos que nossos colaboradores e nossa comunidade estão no centro do nosso sucesso, e é com esse espírito que implementamos ações concretas para fazer a diferença.",
+  "teamSecondTitle": "Valorização e desenvolvimento da nossa equipe",
+  "teamMinorTitleFirst": "Formação Aprofundada e Expertise no Setor",
+  "teamMinorDescriptionFirst": "Comprometemo-nos a proporcionar aos nossos funcionários um ambiente de trabalho saudável, respeitoso e motivador. Isso inclui formações regulares para aprimorar suas habilidades, condições de trabalho justas e oportunidades de crescimento profissional. Acreditamos que uma equipe realizada é a chave para oferecer um serviço de excelência aos nossos clientes.",
+  "teamMinorTitleSecond": "Compromisso com uma Limpeza Responsável e Sustentável",
+  "teamMinorDescriptionSecond": "Levamos a sério a proteção do meio ambiente, utilizando produtos ecológicos e adotando práticas de limpeza que respeitam o planeta. Nossa abordagem responsável garante não apenas um ambiente saudável para nossos clientes e equipe, mas também uma redução na pegada ecológica.",
 
   "aboutSubtitle": "Quem Somos",
   "aboutTitle": "Excellence Cleaners - Seu Parceiro de Confiança",
-  "aboutDescription": "Na Excellence Cleaners, estamos dedicados a transformar cada estadia em uma experiência inesquecível através dos nossos serviços de lavanderia de alta qualidade. Desde nossa fundação, destacamo-nos pelo nosso compromisso com a excelência, nossa dedicação aos nossos colaboradores e nossa contribuição positiva para a comunidade local.",
-  "aboutButton": "Descubra Nossa História",
+  "aboutDescription": "A Excellence Cleaners é uma empresa com mais de 3 anos de experiência no setor de limpeza. Construímos uma sólida reputação ao nos especializarmos em imóveis de prestígio destinados à locação sazonal. Seja uma villa ou um apartamento de luxo, garantimos que sua propriedade estará pronta para receber seus próximos locatários nas melhores condições. Também oferecemos serviços de limpeza para proprietários residentes, com pacotes sob medida, adaptados às suas necessidades e à frequência de suas solicitações. Cada membro da nossa equipe é treinado nas melhores técnicas de limpeza, garantindo resultados impecáveis em cada serviço.",
+  "aboutButton": "Descubra Nossa Trajetória de Excelência",
 
-  "servicesSubtitle": "Nossos Serviços",
+  "servicesSubtitle": "Os Nossos Serviços",
   "servicesTitle": "Ofertas da Excellence Cleaners",
   "services": [
     {
       "image": "img4.webp",
-      "shortTitle": "Gestão de Propriedades",
-      "title": "Gestão Completa de Propriedades de Luxo",
-      "description": "Oferecemos uma gama completa de serviços de gestão de propriedades de luxo, incluindo manutenção, segurança, gestão de reservas e serviços personalizados para proprietários e viajantes. Nossa equipe especializada garante que sua propriedade seja gerida com os mais altos padrões."
+      "shortTitle": "Limpeza entre alugueres sazonais",
+      "title": "Limpeza entre alugueres sazonais",
+      "description": "Este serviço é pensado para os proprietários de moradias ou apartamentos em aluguer sazonal. Intervimos entre cada aluguer para preparar a sua propriedade, garantindo que os seus hóspedes encontrem um espaço imaculado à chegada. Cada intervenção é realizada minuciosamente, para manter a sua propriedade no melhor estado possível e garantir críticas positivas e a máxima satisfação dos seus hóspedes."
     },
     {
       "image": "img5.webp",
-      "shortTitle": "Manutenção de Propriedades",
-      "title": "Serviços de Manutenção Personalizados",
-      "description": "Fornecemos soluções de manutenção personalizadas para atender às necessidades específicas de sua propriedade. Nossos serviços incluem manutenção regular, reparos emergenciais e inspeções detalhadas para garantir que sua propriedade permaneça em excelente estado."
+      "shortTitle": "Limpeza anual para proprietários residentes",
+      "title": "Limpeza anual para proprietários residentes",
+      "description": "Oferecemos serviços de limpeza recorrentes para proprietários que residem nas suas habitações ao longo do ano. As nossas prestações adaptam-se ao seu horário e asseguramos a manutenção de uma limpeza irrepreensível na sua casa, semana após semana."
     },
     {
       "image": "img6.webp",
-      "shortTitle": "Gestão Imobiliária",
-      "title": "Gestão Completa de Propriedades Residenciais",
-      "description": "Nossos serviços de gestão de propriedades residenciais incluem tudo, desde relações com inquilinos até manutenção rotineira e gestão financeira. Cuidamos de todos os aspectos da gestão de propriedades para garantir que sua propriedade residencial esteja bem mantida e lucrativa."
+      "shortTitle": "Limpeza de preparação",
+      "title": "Limpeza de preparação",
+      "description": "Este serviço é perfeito para preparar uma propriedade antes de iniciar o aluguer sazonal. Realizamos uma limpeza completa e profunda, garantindo que o seu imóvel está pronto para receber os primeiros hóspedes."
     },
     {
       "image": "img7.webp",
-      "shortTitle": "Manutenção de Luxo",
-      "title": "Serviço de Manutenção e Gestão de Luxo",
-      "description": "Nossos serviços de manutenção de luxo são projetados para atender a propriedades de alto padrão. Oferecemos cuidado e gestão meticulosos, garantindo que cada detalhe de sua propriedade atenda aos mais altos padrões de luxo."
+      "shortTitle": "Limpeza profunda",
+      "title": "Limpeza profunda",
+      "description": "Para uma manutenção intensiva, este serviço é ideal para limpar as zonas mais difíceis de aceder, os cantos, os tecidos e superfícies que necessitam de atenção especial. Esta limpeza é recomendada antes do início de uma nova temporada de aluguer."
     },
     {
       "image": "img8.webp",
-      "shortTitle": "Gestão de Patrimônio",
-      "title": "Gestão Global de Patrimônio de Luxo",
-      "description": "Especializamo-nos na gestão de propriedades de luxo com valor histórico, oferecendo serviços abrangentes que incluem preservação, manutenção e aprimoramento do valor histórico e estético de sua propriedade."
+      "shortTitle": "Limpeza de sofás e tapetes",
+      "title": "Limpeza de sofás e tapetes",
+      "description": "Eliminação de manchas, alérgenos e odores, preservando a qualidade dos seus tecidos e mobiliário"
     },
     {
       "image": "img9.webp",
-      "shortTitle": "Serviços de Luxo",
-      "title": "Serviços de Concierge para Propriedades de Prestígio",
-      "description": "Nossos serviços de concierge são adaptados para propriedades de alto nível, fornecendo assistência personalizada para atender às necessidades de proprietários e seus convidados. Desde pedidos sob medida até necessidades diárias, garantimos uma experiência excepcional e sem interrupções."
+      "shortTitle": "Limpeza de janelas",
+      "title": "Limpeza de janelas",
+      "description": "As nossas equipas garantem um serviço impecável, deixando as suas janelas perfeitamente limpas e sem manchas, para o máximo de luminosidade."
     }
   ],
   "servicesButtonOne": "Descubra Nossos Serviços",
@@ -148,37 +146,37 @@
 
   "faqSubtitle": "Perguntas Frequentes",
   "faqTitle": "Estamos Aqui para Ajudar",
-  "faqDescriptionOne": "Na Excellence Cleaners, estamos dedicados à excelência e apaixonados por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
-  "faqDescriptionTwo": "Na Excellence Cleaners, estamos dedicados à excelência e apaixonados por fornecer serviços de lavanderia excepcionais. Aqui está o porquê de sermos a escolha ideal para suas necessidades:",
+  "faqDescriptionOne": "Tem dúvidas sobre os nossos serviços? Reunimos aqui as respostas às perguntas mais comuns para ajudar a compreender melhor como trabalhamos e o que oferecemos.",
+  "faqDescriptionTwo": "Se não encontrar a resposta que procura, entre em contacto diretamente connosco. Estamos aqui para ajudar!",
   "faq": [
     {
-      "title": "Quais serviços a Excellence Cleaners oferece?",
-      "description": "A Excellence Cleaners oferece uma gama completa de serviços de gestão de propriedades de luxo, incluindo manutenção, segurança, gestão de reservas e serviços personalizados para proprietários e viajantes."
+      "title": "Como posso reservar um serviço de limpeza?",
+      "description": "Basta entrar em contacto connosco por telefone, WhatsApp ou e-mail. Discutiremos as suas necessidades específicas e agendaremos uma data e hora para a intervenção. Somos flexíveis e adaptamo-nos à sua disponibilidade para lhe oferecer um serviço personalizado."
     },
     {
-      "title": "Como funciona o monitoramento 24/7 da Excellence Cleaners?",
-      "description": "Nosso monitoramento 24/7 conta com tecnologia avançada e uma equipe dedicada para garantir uma resposta rápida a qualquer incidente, garantindo a segurança completa de sua propriedade."
+      "title": "Que tipos de imóveis limpam?",
+      "description": "Especializamo-nos na limpeza de casas e apartamentos de prestígio, especialmente aqueles destinados ao aluguer sazonal. No entanto, também limpamos residências principais. Se é proprietário residente ou gere um imóvel para aluguer, temos a solução adequada às suas necessidades."
     },
     {
-      "title": "Quais são os benefícios das parcerias exclusivas da Excellence Cleaners?",
-      "description": "A Excellence Cleaners mantém parcerias exclusivas com empresas de construção, arquitetos, designers de interiores e outros profissionais. Isso garante intervenções de alta qualidade para melhorar e manter o valor estético de sua propriedade."
+      "title": "Como determinam o número de pessoas para o serviço?",
+      "description": "O número de pessoas atribuídas depende do tamanho da propriedade e do tipo de serviço solicitado. Avaliamos cada situação individualmente para garantir uma limpeza eficiente e rápida. Quando enviamos mais de uma pessoa, o tempo de execução é reduzido, mantendo a qualidade do serviço."
     },
     {
-      "title": "Por que escolher a Excellence Cleaners para gerenciar minha propriedade de luxo?",
-      "description": "A Excellence Cleaners destaca-se pelo seu compromisso com a excelência, transparência em cada serviço prestado e capacidade de oferecer soluções personalizadas que atendem exatamente às suas necessidades. Garantimos que sua propriedade permaneça impecável e bem mantida o tempo todo."
+      "title": "Que produtos e equipamentos utilizam?",
+      "description": "Utilizamos produtos de limpeza profissionais de alta qualidade, respeitadores do ambiente e seguros para superfícies delicadas. A nossa equipa está equipada com todos os materiais necessários para realizar uma limpeza completa, incluindo equipamentos especializados para sofás, tapetes e vidros. Se tiver preferências por determinados produtos, podemos adaptar-nos."
     },
     {
-      "title": "Quais são os termos de cancelamento dos serviços da Excellence Cleaners?",
-      "description": "Você pode cancelar nossos serviços a qualquer momento entrando em contato diretamente conosco. Nos esforçamos para tornar o processo de cancelamento o mais simples e transparente possível para nossos clientes."
+      "title": "Oferecem contratos de limpeza regular?",
+      "description": "Sim, oferecemos serviços regulares para clientes que desejam uma manutenção a longo prazo, seja para residências principais ou propriedades de aluguer sazonal. Podemos organizar intervenções semanais, mensais ou conforme o seu calendário, sempre com a mesma rigor e qualidade."
     },
     {
-      "title": "Como posso fazer um pedido especial para a Excellence Cleaners?",
-      "description": "Para qualquer pedido especial, seja necessidades específicas para sua propriedade ou serviços personalizados para um evento, entre em contato diretamente conosco. Estamos aqui para atender às suas necessidades específicas e fornecer uma solução personalizada."
+      "title": "Quais são os vossos preços e como são calculados?",
+      "description": "Os nossos preços começam a partir de 26,90€/h (sem IVA) por pessoa. O custo total depende do número de horas necessárias e do número de pessoas mobilizadas para o serviço. Quando mais de uma pessoa intervém, o tempo de limpeza é reduzido proporcionalmente. Fornecemos sempre uma estimativa antes de cada serviço, garantindo total transparência."
     }
   ],
 
   "afterBeforeSubtitle": "Antes e Depois",
-  "afterBeforeTitle": "Transformações Incríveis",
+  "afterBeforeTitle": "Transformações Surpreendentes",
   "afterBeforeBefore": "Antes",
   "afterBeforeAfter": "Depois",
   "afterBefore": [
@@ -190,33 +188,33 @@
     { "imageBefore": "img4.webp", "imageAfter": "img6.webp" }
   ],
 
-  "contactSubtitle": "Entre em Contato",
-  "contactTitle": "Entre em Contato Conosco",
-  "contactDescription": "Você está pronto para elevar a sua hospitalidade e se comprometer com a excelência? Por favor, preencha o formulário abaixo e nossa equipe entrará em contato em breve para discutir como podemos ajudar a oferecer estadias inesquecíveis aos seus clientes.",
+  "contactSubtitle": "Contacte-nos",
+  "contactTitle": "Contacte-nos",
+  "contactDescription": "Pronto para elevar a sua hospitalidade e comprometer-se com a excelência? Preencha o formulário abaixo, e a nossa equipa entrará em contacto em breve para discutir como podemos ajudá-lo(a) a oferecer estadias inesquecíveis aos seus clientes.",
 
   "fullNameLabel": "Nome Completo",
-  "fullNamePlaceholder": "Seu nome completo",
+  "fullNamePlaceholder": "O seu nome completo",
   "emailLabel": "Email",
-  "emailPlaceholder": "Seu Email",
+  "emailPlaceholder": "O seu Email",
   "phoneLabel": "Telefone",
-  "phonePlaceholder": "Seu telefone",
-  "addressLabel": "Endereço",
-  "addressPlaceholder": "Endereço de localização",
+  "phonePlaceholder": "O seu telefone",
+  "addressLabel": "Morada",
+  "addressPlaceholder": "Localização da morada",
   "companyNameLabel": "Empresa",
-  "companyNamePlaceholder": "Nome da Sua Empresa",
+  "companyNamePlaceholder": "Nome da sua empresa",
   "messageLabel": "Mensagem",
-  "messagePlaceholder": "Sua mensagem",
+  "messagePlaceholder": "A sua mensagem",
 
   "propertyLocationLabel": "Localização da Propriedade",
   "propertyLocationPlaceholder": "Localização",
   "propertyRoomAmountLabel": "Número de Quartos",
   "propertyRoomAmountPlaceholder": "Número",
   "propertyMessageLabel": "Mensagem / Comentários ou Pedidos Especiais",
-  "propertyMessagePlaceholder": "Sua Mensagem",
+  "propertyMessagePlaceholder": "A sua Mensagem",
 
   "submit": "Enviar",
-  "formSubmittedSuccessfully": "Formulário Enviado Com Sucesso!",
-  "thankYouForYourSubmission": "Obrigado pela sua submissão. Entraremos em contato em breve.",
+  "formSubmittedSuccessfully": "Formulário enviado com sucesso!",
+  "thankYouForYourSubmission": "Obrigado pela sua submissão. Entraremos em contacto em breve.",
   "backToStart": "Voltar ao Início",
 
   "legalLinks": [
@@ -226,19 +224,19 @@
       "array": [
         {
           "title": "1. Introdução",
-          "description": "Bem-vindo ao nosso site. Ao continuar navegando e utilizando este site, você concorda em respeitar e estar vinculado aos seguintes termos e condições de uso, que regem nosso relacionamento com você em relação a este site, bem como nossa política de privacidade."
+          "description": "Bem-vindo(a) ao nosso site. Ao continuar a navegar e utilizar este site, concorda em cumprir e ser regido(a) pelos seguintes termos de uso, que regulam a nossa relação consigo em relação a este site, bem como a nossa política de privacidade."
         },
         {
           "title": "2. Licença de Uso do Site",
-          "description": "Exceto quando indicado em contrário, nós ou nossos licenciadores possuímos os direitos de propriedade intelectual sobre o site e o material presente no site. Sujeito à licença abaixo, todos esses direitos de propriedade intelectual são reservados."
+          "description": "Salvo indicação em contrário, nós ou os nossos licenciadores possuímos os direitos de propriedade intelectual sobre o website e os materiais nele contidos. Sob reserva da licença abaixo, todos esses direitos de propriedade intelectual estão reservados."
         },
         {
           "title": "3. Uso Aceitável",
-          "description": "Você não deve usar este site de maneira a causar, ou que possa causar, danos ao site ou prejudicar a disponibilidade ou acessibilidade do site; ou de qualquer maneira ilegal, fraudulenta ou prejudicial, ou em relação a qualquer atividade ou objetivo ilegal, fraudulento ou prejudicial."
+          "description": "Não deve utilizar este website de forma a causar, ou que possa causar, danos ao website ou prejudicar a disponibilidade ou acessibilidade do website; ou de forma ilegal, fraudulenta ou prejudicial, ou em relação a qualquer propósito ou atividade ilegal, fraudulenta ou prejudicial."
         },
         {
           "title": "4. Limitações de Responsabilidade",
-          "description": "Não seremos responsáveis perante você (seja sob a lei contratual, lei de responsabilidade civil ou de outra forma) em relação ao conteúdo, uso ou de qualquer outra forma relacionada a este site: por qualquer perda indireta, especial ou consequencial; ou por qualquer perda de negócios, receitas, lucros ou economias antecipadas, perda de contratos ou relações comerciais, perda de reputação ou boa vontade, ou perda ou corrupção de informações ou dados."
+          "description": "Não seremos responsáveis perante si (seja sob a lei contratual, delitual ou outra) em relação ao conteúdo, uso ou qualquer outro tipo de relação com este website: por qualquer perda indireta, especial ou consequente; ou por qualquer perda de negócios, receitas, lucros, poupanças esperadas, contratos ou relações comerciais, reputação ou goodwill, ou perda ou corrupção de informações ou dados."
         },
         {
           "title": "5. Uso Aceitável",
@@ -264,25 +262,25 @@
       "array": [
         {
           "title": "1. Informações que Coletamos",
-          "description": "Podemos coletar as seguintes informações: nome, dados de contato, incluindo endereço de e-mail, informações demográficas como o código postal, preferências e interesses, e outras informações relevantes para pesquisas e/ou ofertas ao cliente."
+          "description": "Podemos recolher as seguintes informações: nome, contactos, incluindo o endereço de e-mail, informações demográficas como código postal, preferências e interesses, e outras informações relevantes para inquéritos e/ou ofertas aos clientes."
         },
         {
           "title": "2. Uso das Informações que Coletamos",
-          "description": "Precisamos dessas informações para entender suas necessidades e fornecer um serviço melhor, e para as seguintes finalidades: manutenção de registros internos, melhoria de nossos produtos e serviços, envio de e-mails promocionais sobre novos produtos, ofertas especiais ou outras informações que acreditamos serem do seu interesse, usando o endereço de e-mail fornecido."
+          "description": "Precisamos dessas informações para entender as suas necessidades e oferecer um serviço melhor, especialmente para os seguintes fins: manter registos internos, melhorar os nossos produtos e serviços, enviar e-mails promocionais sobre novos produtos, ofertas especiais ou outras informações que acreditamos que possa achar interessantes utilizando o endereço de e-mail fornecido."
         },
         {
           "title": "3. Segurança",
-          "description": "Estamos comprometidos em garantir a segurança das suas informações. Para evitar acesso ou divulgação não autorizados, implementamos procedimentos físicos, eletrônicos e gerenciais adequados para proteger e salvaguardar as informações que coletamos online."
+          "description": "Estamos comprometidos em garantir a segurança das suas informações. Para evitar o acesso ou divulgação não autorizados, implementámos procedimentos físicos, eletrónicos e de gestão adequados para proteger e assegurar as informações que recolhemos online."
         },
         {
           "title": "4. Uso de Cookies",
-          "description": "Um cookie é um pequeno arquivo que solicita permissão para ser colocado no disco rígido do seu computador. Uma vez aceito, o arquivo é adicionado e o cookie ajuda a analisar o tráfego da web ou informa quando você visita um site específico. Cookies permitem que aplicações web respondam a você como indivíduo. A aplicação web pode adaptar suas operações às suas necessidades, gostos e desgostos, coletando e lembrando informações sobre suas preferências."
+          "description": "Um cookie é um pequeno ficheiro que solicita permissão para ser colocado no disco rígido do seu computador. Depois de aceitar, o ficheiro é adicionado, e o cookie ajuda a analisar o tráfego web ou informa quando visita um site específico. Os cookies permitem que as aplicações web respondam a si como um indivíduo. A aplicação web pode adaptar as suas operações às suas necessidades, gostos e desgostos, recolhendo e memorizando informações sobre as suas preferências."
         }
       ]
     }
   ],
 
-  "attributionsTitle": "Atribuições",
+  "attributionsTitle": "Créditos",
 
   "closeModalButton": "Fechar",
   "privacyPolicyWarningText": "Ao enviar este formulário, você concorda com nossa ",
@@ -298,7 +296,7 @@
   "accessibility_text3": "Fechar a janela modal",
   "accessibility_text6": "Menu de navegação",
 
-  "footerDescription": "A Excellence Conciergerie é uma agência de gestão imobiliária de luxo baseada na Côte d'Azur. Nossa equipe dedicada oferece serviços personalizados para atender às necessidades únicas de cada proprietário.",
+  "footerDescription": "Excellence Cleaners é uma empresa especializada em serviços de limpeza para diferentes tipos de propriedades na Côte d'Azur. Oferecemos uma gama completa de serviços de limpeza adaptados às necessidades específicas de cada propriedade e serviço. A nossa equipa de especialistas garante uma limpeza personalizada, com uma qualidade impecável e satisfação total.",
   "footerContactTitle": "Contato",
   "footerSiteLinksTitle": "Links Úteis",
   "copyrightText": "Excellence Cleaners"
