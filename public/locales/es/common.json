@@ -10,103 +10,100 @@
   ],
   "guideLinesLinks": "Advertencia: Los únicos valores aceptados para los campos DO_NOT_CHANGE en navLinks son los IDs actuales del sitio web, que son los siguientes: how-it-works, introduction, why-us, team, about, services, faq, after-before, contact",
   "navLinks": [
-    { "text": "¿Por qué Nosotros?", "DO_NOT_CHANGE": "why-us" },
+    { "text": "¿Por qué nosotros?", "DO_NOT_CHANGE": "why-us" },
     { "text": "Sobre Nosotros", "DO_NOT_CHANGE": "about" },
     { "text": "Servicios", "DO_NOT_CHANGE": "services" },
     { "text": "Contacto", "DO_NOT_CHANGE": "contact" }
   ],
 
-  "heroSubtitle": "Tu Socio en Limpieza y Comodidad",
+  "heroSubtitle": "Su Socio en Limpieza y Conforto",
   "heroTitle": "Excellence Cleaners",
-  "heroButton": "Descubre Nuestros Servicios",
-  "heroFirstParagraph": "En Excellence Cleaners, nos especializamos en el arte de la limpieza impecable. Como líderes en servicios de lavandería y mantenimiento para alojamientos vacacionales a lo largo de la Costa Azul, estamos comprometidos a superar tus expectativas en el cuidado de telas y el servicio al cliente.",
-  "heroSecondParagraph": "Nuestra pasión por la excelencia se refleja en cada detalle, desde la ropa de cama recién lavada hasta los textiles meticulosamente mantenidos. Confía en nuestra experiencia para transformar tu espacio en un santuario de confort y limpieza.",
+  "heroButton": "Descubra Nuestros Servicios",
+  "heroFirstParagraph": "En Excellence Cleaners, ponemos nuestra experiencia al servicio de su tranquilidad con servicios de limpieza personalizados para residencias de alto estándar. Ya sea para alquileres de temporada o para mantenimiento regular, nuestro equipo dedicado garantiza que cada detalle sea cuidado, proporcionando así un confort ideal en su propiedad.",
+  "heroSecondParagraph": "Con más de 3 años de experiencia, nuestra pasión por la excelencia se refleja en cada servicio, ya sea para preparar su inmueble antes de la llegada de nuevos inquilinos o para un mantenimiento minucioso a lo largo del año. Con Excellence Cleaners, disfrute plenamente de su espacio con total tranquilidad.",
 
-  "howItWorksSubtitle": "Simplifica Tu Vida Diaria",
+  "howItWorksSubtitle": "Simplifique Su Vida Diaria",
   "howItWorksTitle": "Cómo Funciona",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Recolección Conveniente",
-      "description": "Programa una recogida en tu conveniencia y déjanos encargarnos de tu lavandería."
+      "title": "Solicitud de Presupuesto",
+      "description": "Envíe una solicitud de presupuesto en línea para obtener una estimación precisa de nuestros servicios de limpieza. Responderemos rápidamente con una oferta personalizada."
     },
     {
       "icon": "vector2.svg",
-      "title": "Tratamiento Experto",
-      "description": "Selecciona el lugar y la hora en la que te gustaría que nuestros profesionales limpien."
+      "title": "Validación de la Propuesta",
+      "description": "Revise y apruebe nuestra propuesta de limpieza. Una vez que recibamos su aprobación, agendaremos la intervención en su conveniencia."
     },
     {
       "icon": "vector3.svg",
-      "title": "Entrega Rápida",
-      "description": "Recibe tu lavandería impecablemente lavada y doblada en tu puerta, lista para impresionar a tus invitados."
+      "title": "Intervención Profesional",
+      "description": "Nuestros especialistas irán a la dirección indicada para realizar el tipo de limpieza que usted especificó, en la fecha y hora acordadas. Disfrutará de un servicio de alta calidad, perfectamente adaptado a sus necesidades."
     }
   ],
 
-  "introductionSubtitle": "Descubre Nuestras Fortalezas",
+  "introductionSubtitle": "Descubra Nuestros Puntos Fuertes",
   "introductionTitle": "Servicios de Excellence Cleaners",
-  "introductionDescription": "Nos enorgullecemos de ofrecer una gama completa de servicios de lavandería y mantenimiento diseñados para superar tus expectativas. Ya sea que administres un hotel de lujo o alquileres vacacionales, nuestro equipo experimentado asegura resultados impecables con cada pedido. Explora nuestras ventajas clave",
+  "introductionDescription": "Estamos orgullosos de ofrecer una gama integral de servicios de lavandería y mantenimiento diseñados para superar sus expectativas. Ya sea usted un gerente de hotel de lujo o de alquileres de temporada, nuestro equipo experimentado garantiza resultados impecables con cada pedido. Explore nuestras principales ventajas",
   "introductionAdvantages": [
     {
-      "text": "Atención excepcional a cada detalle en cada tarea."
+      "text": "Limpieza entre alquileres de temporada;"
     },
     {
-      "text": "Servicio confiable y puntual en todo momento."
+      "text": "Servicio de limpieza anual para propietarios residentes;"
     },
     {
-      "text": "Soluciones personalizadas adaptadas a tus necesidades."
+      "text": "Limpieza profunda;"
     },
     {
-      "text": "Equipo de última generación para resultados superiores."
+      "text": "Limpieza de sofás, alfombras y textiles;"
     },
     {
-      "text": "Profesionales altamente capacitados dedicados a la calidad."
+      "text": "Limpieza de ventanas;"
     },
     {
-      "text": "Programación flexible para adaptarse a tu estilo de vida ocupado."
+      "text": "Limpieza de oficinas y clínicas;"
     },
     {
-      "text": "Prácticas ecológicas que benefician al medio ambiente."
+      "text": "Servicios a medida."
     }
   ],
 
-  "whyUsSubtitle": "Servicio de Limpieza",
-  "whyUsTitle": "¿Por Qué Elegir Excellence Cleaners?",
-  "whyUsDescription": "En Excellence Cleaners, destacamos por nuestro compromiso con la excelencia y nuestra pasión por ofrecer servicios de lavandería excepcionales. Aquí tienes por qué somos la elección ideal para tus necesidades:",
-  "whyUsReasons": [
+ "whyUsReasons": [
     {
-      "title": "Profesionalismo y Experiencia",
-      "description": "Nuestro equipo experimentado asegura una gestión integral de propiedades, maximizando la visibilidad en plataformas prestigiosas. Profesionales cualificados elaboran descripciones cautivadoras para resaltar características únicas."
+      "title": "Servicio de limpieza anual para propietarios residentes",
+      "description": "Además de los alquileres de temporada, ofrecemos contratos de mantenimiento regular para propietarios residentes. Nuestro servicio de limpieza anual garantiza un hogar limpio y acogedor durante todo el año, sin que usted tenga que preocuparse."
     },
     {
-      "title": "Atención al Detalle",
-      "description": "Prestamos atención meticulosa a cada detalle, asegurando que toda la lavandería y los textiles se manejen con el máximo cuidado y precisión."
+      "title": "Flexibilidad y rapidez de intervención",
+      "description": "Nuestros equipos son flexibles y se adaptan a sus necesidades. Movilizamos diversos agentes para intervenciones rápidas, especialmente entre dos alquileres de temporada, con el fin de maximizar sus períodos de alquiler."
     },
     {
-      "title": "Servicio Confiable y Puntual",
-      "description": "Nos enorgullecemos de ofrecer servicios confiables y puntuales, asegurando que tus necesidades de lavandería se atiendan con eficiencia y consistencia."
+      "title": "Calidad y atención a los detalles",
+      "description": "Entendemos las exigencias de propiedades de prestigio. Nuestro equipo, capacitado para satisfacer a propietarios e inquilinos, limpia cada rincón con precisión, asegurando que su propiedad esté siempre impecable."
     },
     {
-      "title": "Soluciones Personalizadas",
-      "description": "Ofrecemos soluciones a medida para satisfacer tus necesidades específicas, proporcionando un servicio personalizado que se adapta a tus requisitos."
+      "title": "Tarificación transparente",
+      "description": "Nuestros precios comienzan a partir de 26,90€HT/h. La duración de las intervenciones se ajusta en función del número de agentes, con total transparencia sobre los costos. Así, usted disfruta de un servicio de alta calidad sin sorpresas desagradables."
     },
     {
-      "title": "Equipo de Última Generación",
-      "description": "Nuestro uso de equipos modernos y de alta calidad asegura resultados superiores y mejora la efectividad general de nuestros procesos de limpieza."
+      "title": "Ventajas al elegir a Excellence Cleaners y su equipo",
+      "description": "Elegir a Excellence Cleaners es optar por un equipo dedicado, profesional y capacitado en las técnicas más avanzadas de limpieza. Utilizamos equipos modernos y de alta calidad, garantizando resultados superiores y optimizando la eficacia de nuestros procesos. Nos comprometemos a ofrecer un servicio puntual y de alta calidad en cada intervención. Nuestros colaboradores son rigurosamente seleccionados por su experiencia y confiabilidad, asegurando la seguridad y la discreción en su propiedad. Además, prestamos atención especial a sus necesidades específicas y exigencias para ofrecer un servicio personalizado que supera sus expectativas. Con Excellence Cleaners, usted tiene la certeza de trabajar con un equipo competente, comprometido y atento."
     }
   ],
 
   "messageSubtitle": "Catherine Teixeira",
   "messageTitle": "Mensaje de la Directora",
-  "messageDescription": "Bienvenido a Excellence Cleaners. Como Directora General, me complace darte la bienvenida. Para los propietarios de propiedades, cuidamos de tu propiedad con pasión y confidencialidad. Para los viajeros, prometemos una experiencia excepcional y discreta. Excellence Cleaners encarna refinamiento, discreción y atención personalizada. Bienvenido a la excelencia.",
+  "messageDescription": "Bienvenido(a) a Excellence Cleaners. Como Directora General, es un gran placer darle la bienvenida. Para los propietarios de inmuebles, cuidamos de su patrimonio con pasión y discreción. Para los viajeros, prometemos una experiencia excepcional y confidencial. Excellence Cleaners personifica el refinamiento, la discreción y la atención personalizada. Bienvenido(a) a la excelencia.",
 
-  "teamSubtitle": "Nuestro Compromiso con Nuestro Equipo y la Comunidad",
-  "teamTitle": "Un Equipo Dedicado a Tu Satisfacción",
-  "teamDescription": "En Excellence Cleaners, consideramos a nuestros empleados como el corazón de nuestro negocio. Valoramos a cada miembro del equipo y estamos comprometidos a crear un ambiente de trabajo donde puedan prosperar y destacar. Al mismo tiempo, creemos firmemente en nuestra responsabilidad hacia la comunidad local que nos apoya. Descubre qué hace único a nuestro equipo.",
-  "teamSecondTitle": "Nuestro Compromiso Humano",
-  "teamMinorTitleFirst": "Formación Exhaustiva y Experiencia en la Industria",
-  "teamMinorDescriptionFirst": "Nuestros empleados reciben una formación rigurosa y continua para garantizar un servicio de la más alta calidad.",
-  "teamMinorTitleSecond": "Participación Comunitaria y Responsabilidad Social",
-  "teamMinorDescriptionSecond": "Contribuimos activamente al bienestar de nuestra comunidad a través de iniciativas sostenibles y prácticas responsables.",
+  "teamSubtitle": "Nuestro Compromiso con Nuestro Equipo y Comunidad",
+  "teamTitle": "Un Equipo Dedicado a Su Satisfacción",
+  "teamDescription": "En Excellence Cleaners, creemos firmemente que la calidad de nuestros servicios depende de la inversión que hacemos en nuestro equipo y en la comunidad que nos rodea. Por eso, nos comprometemos a ofrecer un ambiente de trabajo respetuoso y a contribuir positivamente al desarrollo local. Sabemos que nuestros colaboradores y nuestra comunidad están en el centro de nuestro éxito, y es con ese espíritu que implementamos acciones concretas para hacer la diferencia.",
+  "teamSecondTitle": "Valoración y desarrollo de nuestro equipo",
+  "teamMinorTitleFirst": "Formación Aprofundada y Experiencia en el Sector",
+  "teamMinorDescriptionFirst": "Nos comprometemos a proporcionar a nuestros empleados un ambiente de trabajo saludable, respetuoso y motivador. Esto incluye formaciones regulares para mejorar sus habilidades, condiciones de trabajo justas y oportunidades de crecimiento profesional. Creemos que un equipo realizado es la clave para ofrecer un servicio de excelencia a nuestros clientes.",
+  "teamMinorTitleSecond": "Compromiso con una Limpieza Responsable y Sostenible",
+  "teamMinorDescriptionSecond": "Nos tomamos en serio la protección del medio ambiente, utilizando productos ecológicos y adoptando prácticas de limpieza que respetan el planeta. Nuestro enfoque responsable garantiza no solo un ambiente saludable para nuestros clientes y equipo, sino también una reducción de la huella ecológica.",
 
   "aboutSubtitle": "Quiénes Somos",
   "aboutTitle": "Excellence Cleaners - Tu Socio de Confianza",
