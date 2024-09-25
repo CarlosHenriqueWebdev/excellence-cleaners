@@ -290,24 +290,25 @@
     }
   ],
 
-  "attributionsTitle": "Atribuciones",
+  "attributionsTitle": "Créditos",
 
   "closeModalButton": "Cerrar",
-  "privacyPolicyWarningText": "Al enviar este formulario, aceptas nuestra ",
+  "privacyPolicyWarningText": "Al enviar este formulario, usted acepta nuestra ",
   "privacyPolicyWarningLink": "política de privacidad",
 
   "requiredField": "Este campo es obligatorio",
   "invalidEmail": "La dirección de correo electrónico no es válida",
-  "submissionError": "Ocurrió un error inesperado al enviar. Por favor, intenta de nuevo.",
+  "submissionError": "Se produjo un error inesperado al enviar el formulario. Por favor, inténtelo de nuevo.",
 
-  "guideLinesAccessibilityText": "Nota: El término accessibility_text[number] se refiere a características de accesibilidad del sitio web diseñadas para lectores de pantalla o personas con discapacidades visuales. Se recomienda no modificar los siguientes campos:",
+  "guideLinesAccessibilityText": "Aviso: El término accessibility_text[number] se refiere a las funcionalidades de accesibilidad del sitio diseñadas para usuarios de lectores de pantalla o personas con discapacidades visuales. Se recomienda no modificar los siguientes campos:",
   "accessibility_text1": "Ir al contenido principal",
-  "accessibility_text2": "Cerrar la ventana modal y contáctanos",
+  "accessibility_text2": "Cerrar la ventana modal y contactarnos",
   "accessibility_text3": "Cerrar la ventana modal",
   "accessibility_text6": "Menú de navegación",
 
-  "footerDescription": "Excellence Cleaners es una agencia de gestión de propiedades de lujo con sede en la Riviera Francesa. Nuestro equipo dedicado ofrece servicios personalizados para satisfacer las necesidades únicas de cada propietario de propiedad.",
+  "footerDescription": "Excellence Cleaners es una empresa especializada en servicios de limpieza para diferentes tipos de propiedades en la Côte d'Azur. Ofrecemos una gama completa de servicios de limpieza adaptados a las necesidades específicas de cada propiedad y servicio. Nuestro equipo de especialistas garantiza una limpieza personalizada, con una calidad impecable y total satisfacción.",
   "footerContactTitle": "Contacto",
   "footerSiteLinksTitle": "Enlaces Útiles",
   "copyrightText": "Excellence Cleaners"
 }
+
