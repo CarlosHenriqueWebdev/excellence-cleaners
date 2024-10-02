@@ -17,179 +17,165 @@
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
-  "heroSubtitle": "Your Partner in Cleanliness and Comfort",
+"heroSubtitle": "Your Partner in Cleaning and Comfort",
   "heroTitle": "Excellence Cleaners",
   "heroButton": "Discover Our Services",
-  "heroFirstParagraph": "At Excellence Cleaners, we specialize in the art of impeccable cleanliness. As a leader in laundry and maintenance services for vacation accommodations along the Côte d'Azur, we are committed to exceeding your expectations in fabric care and customer service.",
-  "heroSecondParagraph": "Our passion for excellence is reflected in every detail, from freshly laundered bedding to meticulously maintained textiles. Trust our expertise to transform your space into a sanctuary of comfort and cleanliness.",
+  "heroFirstParagraph": "At Excellence Cleaners, we leverage our expertise to ensure your peace of mind with personalized cleaning services for high-end residences. Whether for seasonal rentals or regular maintenance, our dedicated team ensures that every detail is attended to, providing optimal comfort in your property.",
+  "heroSecondParagraph": "With over 3 years of experience, our passion for excellence is reflected in every service, whether preparing your property before the arrival of new tenants or conducting thorough maintenance throughout the year. With Excellence Cleaners, fully enjoy your space with complete peace of mind.",
 
   "howItWorksSubtitle": "Simplify Your Daily Life",
   "howItWorksTitle": "How It Works",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Convenient Collection",
-      "description": "Schedule a pickup at your convenience and let us take care of your laundry."
+      "title": "Request a Quote",
+      "description": "Submit an online quote request to receive an accurate estimate of our cleaning services. We will respond promptly with a personalized offer."
     },
     {
       "icon": "vector2.svg",
-      "title": "Expert Treatment",
-      "description": "Select the location and time you’d like our professionals to clean."
+      "title": "Proposal Validation",
+      "description": "Review and approve our cleaning proposal. Once we receive your approval, we will schedule the intervention at your convenience."
     },
     {
       "icon": "vector3.svg",
-      "title": "Quick Delivery",
-      "description": "Receive your laundry impeccably washed and folded at your doorstep, ready to impress your guests."
+      "title": "Professional Intervention",
+      "description": "Our specialists will arrive at the specified address to perform the type of cleaning you specified, on the agreed date and time. You will enjoy a high-quality service, perfectly tailored to your needs."
     }
   ],
 
-  "introductionSubtitle": "Discover Our Strengths",
+   "introductionSubtitle": "Discover Our Strengths",
   "introductionTitle": "Excellence Cleaners Services",
-  "introductionDescription": "We take pride in offering a comprehensive range of laundry and maintenance services designed to exceed your expectations. Whether you manage a luxury hotel or vacation rentals, our experienced team ensures flawless results with every order. Explore our key advantages",
+  "introductionDescription": "We take pride in offering a comprehensive range of laundry and maintenance services designed to exceed your expectations. Whether you are a luxury hotel manager or a seasonal rental operator, our experienced team ensures impeccable results with every request. Explore our key advantages.",
   "introductionAdvantages": [
-    {
-      "text": "Exceptional attention to detail in every task."
-    },
-    {
-      "text": "Reliable and punctual service every time."
-    },
-    {
-      "text": "Customized solutions tailored to your needs."
-    },
-    {
-      "text": "State-of-the-art equipment for superior results."
-    },
-    {
-      "text": "Highly trained professionals dedicated to quality."
-    },
-    {
-      "text": "Flexible scheduling to fit your busy lifestyle."
-    },
-    {
-      "text": "Eco-friendly practices that benefit the environment."
-    }
+    { "text": "Cleaning between seasonal rentals;" },
+    { "text": "Annual cleaning service for resident owners;" },
+    { "text": "Deep cleaning;" },
+    { "text": "Cleaning of sofas, carpets, and textiles;" },
+    { "text": "Window cleaning;" },
+    { "text": "Office and clinic cleaning;" },
+    { "text": "Tailored services." }
   ],
 
-  "whyUsSubtitle": "Cleaning Service",
+   "whyUsSubtitle": "Cleaning Service",
   "whyUsTitle": "Why Choose Excellence Cleaners?",
-  "whyUsDescription": "At Excellence Cleaners, we stand out for our commitment to excellence and our passion for delivering exceptional laundry services. Here’s why we are the ideal choice for your needs:",
+  "whyUsDescription": "At Excellence Cleaners, with over 3 years of expertise in cleaning luxury villas and apartments for seasonal rentals, we stand out for our commitment to delivering impeccable service. We understand the importance of first impressions for your tenants and ensure that your property is always perfect between stays.",
   "whyUsReasons": [
     {
-      "title": "Professionalism and Expertise",
-      "description": "Our experienced team ensures comprehensive property management, maximizing visibility on prestigious platforms. Skilled professionals craft captivating descriptions to highlight unique features."
+      "title": "Annual cleaning service for resident owners",
+      "description": "In addition to seasonal rentals, we offer regular maintenance contracts for resident owners. Our annual cleaning service ensures a clean and welcoming home throughout the year, allowing you to worry less."
     },
     {
-      "title": "Attention to Detail",
-      "description": "We pay meticulous attention to every detail, ensuring that all laundry and textiles are handled with the utmost care and precision."
+      "title": "Flexibility and rapid intervention",
+      "description": "Our teams are flexible and adapt to your needs. We mobilize multiple agents for quick interventions, especially between two seasonal rentals, to maximize your rental periods."
     },
     {
-      "title": "Reliable and Timely Service",
-      "description": "We pride ourselves on delivering reliable and timely services, ensuring that your laundry needs are met with efficiency and consistency."
+      "title": "Quality and attention to detail",
+      "description": "We understand the demands of prestigious properties. Our team, trained to satisfy both owners and tenants, cleans every corner with precision, ensuring that your property is always immaculate."
     },
     {
-      "title": "Customized Solutions",
-      "description": "We offer tailored solutions to meet your specific needs, providing personalized service that adapts to your requirements."
+      "title": "Transparent pricing",
+      "description": "Our prices start from €26.90HT/hour. The duration of interventions is adjusted based on the number of agents, with complete transparency about costs. This way, you enjoy high-quality service without unpleasant surprises."
     },
     {
-      "title": "State-of-the-Art Equipment",
-      "description": "Our use of modern, high-quality equipment ensures superior results and enhances the overall effectiveness of our cleaning processes."
+      "title": "Advantages of choosing Excellence Cleaners and our team",
+      "description": "Choosing Excellence Cleaners means opting for a dedicated, professional team trained in the most advanced cleaning techniques. We use modern, high-quality equipment, ensuring superior results and optimizing the effectiveness of our processes. We are committed to delivering timely, high-quality service in every intervention. Our employees are rigorously selected for their expertise and reliability, ensuring safety and discretion in your property. Additionally, we pay special attention to your specific needs and requirements to provide a personalized service that exceeds your expectations. With Excellence Cleaners, you can be confident that you are working with a competent, engaged, and attentive team."
     }
   ],
 
   "messageSubtitle": "Catherine Teixeira",
   "messageTitle": "Message from the Director",
-  "messageDescription": "Welcome to Excellence Cleaners. As the Managing Director, I am delighted to welcome you. For property owners, we take care of your property with passion and confidentiality. For travelers, we promise an exceptional and discreet experience. Excellence Cleaners embodies refinement, discretion, and personal attention. Welcome to excellence.",
+  "messageDescription": "Welcome to Excellence Cleaners. As the General Director, it is my great pleasure to welcome you. For property owners, we take care of your assets with passion and discretion. For travelers, we promise an exceptional and confidential experience. Excellence Cleaners embodies refinement, discretion, and personalized attention. Welcome to excellence.",
 
   "teamSubtitle": "Our Commitment to Our Team and Community",
   "teamTitle": "A Team Dedicated to Your Satisfaction",
-  "teamDescription": "At Excellence Cleaners, we view our employees as the heart of our business. We value each team member and are committed to creating a work environment where they can thrive and excel. Simultaneously, we firmly believe in our responsibility to the local community that supports us. Discover what sets our team apart.",
-  "teamSecondTitle": "Our Human Commitment",
-  "teamMinorTitleFirst": "In-Depth Training and Industry Expertise",
-  "teamMinorDescriptionFirst": "Our employees receive rigorous and ongoing training to ensure the highest quality service.",
-  "teamMinorTitleSecond": "Community Engagement and Social Responsibility",
-  "teamMinorDescriptionSecond": "We actively contribute to the well-being of our community through sustainable initiatives and responsible practices.",
+  "teamDescription": "At Excellence Cleaners, we firmly believe that the quality of our services depends on the investment we make in our team and the community around us. Therefore, we are committed to providing a respectful work environment and positively contributing to local development. We know that our employees and our community are at the heart of our success, and it is with this spirit that we implement concrete actions to make a difference.",
+  "teamSecondTitle": "Valuing and Developing Our Team",
+  "teamMinorTitleFirst": "In-Depth Training and Sector Expertise",
+  "teamMinorDescriptionFirst": "We are committed to providing our employees with a healthy, respectful, and motivating work environment. This includes regular training to enhance their skills, fair working conditions, and opportunities for professional growth. We believe that a fulfilled team is key to delivering excellence in service to our clients.",
+  "teamMinorTitleSecond": "Commitment to Responsible and Sustainable Cleaning",
+  "teamMinorDescriptionSecond": "We take environmental protection seriously by using eco-friendly products and adopting cleaning practices that respect the planet. Our responsible approach ensures not only a healthy environment for our clients and team but also a reduction in our ecological footprint.",
 
-  "aboutSubtitle": "Who We Are",
+ "aboutSubtitle": "Who We Are",
   "aboutTitle": "Excellence Cleaners - Your Trusted Partner",
-  "aboutDescription": "At Excellence Cleaners, we are dedicated to transforming every stay into an unforgettable experience through our top-quality laundry services. Since our inception, we have distinguished ourselves through our commitment to excellence, our dedication to our employees, and our positive contribution to the local community.",
-  "aboutButton": "Discover Our Story",
+  "aboutDescription": "Excellence Cleaners is a company with over 3 years of experience in the cleaning industry. We have built a solid reputation by specializing in prestigious properties intended for seasonal rentals. Whether it is a villa or a luxury apartment, we ensure that your property is ready to welcome its next tenants in the best conditions. We also offer cleaning services for resident owners, with tailored packages adapted to their needs and the frequency of their requests. Each member of our team is trained in the best cleaning techniques, ensuring impeccable results in every service.",
+  "aboutButton": "Discover Our Journey of Excellence",
 
   "servicesSubtitle": "Our Services",
-  "servicesTitle": "Excellence Cleaners Offerings",
+  "servicesTitle": "Offers from Excellence Cleaners",
   "services": [
     {
       "image": "img4.webp",
-      "shortTitle": "Property Management",
-      "title": "Comprehensive Luxury Property Management",
-      "description": "We offer a full range of luxury property management services, including maintenance, security, reservation management, and personalized services for property owners and travelers. Our expert team ensures that your property is managed to the highest standards."
+      "shortTitle": "Cleaning Between Seasonal Rentals",
+      "title": "Cleaning Between Seasonal Rentals",
+      "description": "This service is designed for owners of villas or apartments in seasonal rental. We intervene between each rental to prepare your property, ensuring that your guests find an immaculate space upon arrival. Each intervention is carried out meticulously to maintain your property in the best possible condition, guaranteeing positive reviews and maximum satisfaction from your guests."
     },
     {
       "image": "img5.webp",
-      "shortTitle": "Property Maintenance",
-      "title": "Customized Maintenance Services",
-      "description": "We provide tailored maintenance solutions to meet the specific needs of your property. Our services include regular upkeep, emergency repairs, and detailed inspections to ensure your property remains in excellent condition."
+      "shortTitle": "Annual Cleaning for Resident Owners",
+      "title": "Annual Cleaning for Resident Owners",
+      "description": "We offer recurring cleaning services for owners who reside in their homes throughout the year. Our services are adapted to your schedule, ensuring the maintenance of impeccable cleanliness in your home, week after week."
     },
     {
       "image": "img6.webp",
-      "shortTitle": "Real Estate Management",
-      "title": "Comprehensive Residential Property Management",
-      "description": "Our residential property management services include everything from tenant relations to routine maintenance and financial management. We handle every aspect of property management to ensure your residential property is well-maintained and profitable."
+      "shortTitle": "Preparation Cleaning",
+      "title": "Preparation Cleaning",
+      "description": "This service is perfect for preparing a property before starting seasonal rentals. We perform a complete and thorough cleaning, ensuring that your property is ready to welcome the first guests."
     },
     {
       "image": "img7.webp",
-      "shortTitle": "Luxury Maintenance",
-      "title": "Luxury Maintenance and Management Service",
-      "description": "Our luxury maintenance services are designed to cater to high-end properties. We provide meticulous care and management, ensuring that every detail of your property meets the highest standards of luxury."
+      "shortTitle": "Deep Cleaning",
+      "title": "Deep Cleaning",
+      "description": "For intensive maintenance, this service is ideal for cleaning hard-to-reach areas, corners, fabrics, and surfaces that require special attention. This cleaning is recommended before the start of a new rental season."
     },
     {
       "image": "img8.webp",
-      "shortTitle": "Heritage Management",
-      "title": "Global Luxury Heritage Management",
-      "description": "We specialize in managing luxury heritage properties, offering comprehensive services that include preservation, maintenance, and enhancement of your property's historical value and aesthetics."
+      "shortTitle": "Sofa and Carpet Cleaning",
+      "title": "Sofa and Carpet Cleaning",
+      "description": "Removal of stains, allergens, and odors while preserving the quality of your fabrics and furniture."
     },
     {
       "image": "img9.webp",
-      "shortTitle": "Luxury Services",
-      "title": "Concierge Services for Prestige Properties",
-      "description": "Our concierge services are tailored for high-end properties, providing personalized assistance to meet the needs of both property owners and their guests. From bespoke requests to everyday needs, we ensure a seamless and exceptional experience."
+      "shortTitle": "Window Cleaning",
+      "title": "Window Cleaning",
+      "description": "Our teams ensure impeccable service, leaving your windows perfectly clean and streak-free for maximum brightness."
     }
   ],
   "servicesButtonOne": "Discover Our Services",
-  "servicesButtonTwo": "Contact Us",
+  "servicesButtonTwo": "Get in Touch",
   "servicesButtonThree": "Request a Quote",
 
-  "faqSubtitle": "Frequently Asked Questions",
-  "faqTitle": "We’re Here to Help",
-  "faqDescriptionOne": "At Excellence Cleaners, we are dedicated to excellence and passionate about delivering exceptional laundry services. Here’s why we are the ideal choice for your needs:",
-  "faqDescriptionTwo": "At Excellence Cleaners, we are dedicated to excellence and passionate about delivering exceptional laundry services. Here’s why we are the ideal choice for your needs:",
+    "faqSubtitle": "Frequently Asked Questions",
+  "faqTitle": "We Are Here to Help",
+  "faqDescriptionOne": "Do you have questions about our services? We have compiled answers to the most common questions to help you better understand how we work and what we offer.",
+  "faqDescriptionTwo": "If you can’t find the answer you’re looking for, feel free to contact us directly. We are here to help!",
   "faq": [
     {
-      "title": "What services does Excellence Cleaners offer?",
-      "description": "Excellence Cleaners offers a comprehensive range of luxury property management services, including maintenance, security, reservation management, and personalized services for both property owners and travelers."
+      "title": "How can I book a cleaning service?",
+      "description": "Simply contact us via phone, WhatsApp, or email. We will discuss your specific needs and schedule a date and time for the intervention. We are flexible and adapt to your availability to provide you with personalized service."
     },
     {
-      "title": "How does the 24/7 monitoring by Excellence Cleaners work?",
-      "description": "Our 24/7 monitoring relies on advanced technology and a dedicated team to ensure a quick response to any incidents, guaranteeing the complete security of your property."
+      "title": "What types of properties do you clean?",
+      "description": "We specialize in cleaning prestigious homes and apartments, particularly those intended for seasonal rental. However, we also clean primary residences. Whether you are a resident owner or managing a rental property, we have the right solution for your needs."
     },
     {
-      "title": "What are the benefits of Excellence Cleaners' exclusive partnerships?",
-      "description": "Excellence Cleaners maintains exclusive partnerships with construction companies, architects, interior designers, and other professionals. This ensures high-quality interventions to enhance and maintain the aesthetic value of your property."
+      "title": "How do you determine the number of people for the service?",
+      "description": "The number of assigned personnel depends on the size of the property and the type of service requested. We assess each situation individually to ensure efficient and quick cleaning. When sending more than one person, the execution time is reduced while maintaining the quality of service."
     },
     {
-      "title": "Why choose Excellence Cleaners to manage my luxury property?",
-      "description": "Excellence Cleaners stands out for its commitment to excellence, transparency in every service provided, and its ability to offer tailored solutions that precisely meet your needs. We ensure your property remains immaculate and well-maintained at all times."
+      "title": "What products and equipment do you use?",
+      "description": "We use high-quality professional cleaning products that are environmentally friendly and safe for delicate surfaces. Our team is equipped with all the necessary materials to perform a complete cleaning, including specialized equipment for sofas, carpets, and glass. If you have preferences for specific products, we can adapt accordingly."
     },
     {
-      "title": "What are the cancellation terms for Excellence Cleaners' services?",
-      "description": "You can cancel our services at any time by contacting us directly. We strive to make the cancellation process as simple and transparent as possible for our clients."
+      "title": "Do you offer regular cleaning contracts?",
+      "description": "Yes, we offer regular services for clients who want long-term maintenance, whether for primary residences or seasonal rental properties. We can arrange weekly, monthly, or as-needed interventions, always with the same rigor and quality."
     },
     {
-      "title": "How can I make a special request to Excellence Cleaners?",
-      "description": "For any special requests, whether specific needs for your property or personalized services for an event, please contact us directly. We are here to address your specific needs and provide a customized solution."
+      "title": "What are your prices and how are they calculated?",
+      "description": "Our prices start from €26.90/hour (excluding VAT) per person. The total cost depends on the number of hours required and the number of people mobilized for the service. When more than one person intervenes, the cleaning time is reduced proportionally. We always provide an estimate before each service, ensuring complete transparency."
     }
   ],
 
-  "afterBeforeSubtitle": "Before and After",
+ "afterBeforeSubtitle": "Before and After",
   "afterBeforeTitle": "Amazing Transformations",
   "afterBeforeBefore": "Before",
   "afterBeforeAfter": "After",
@@ -202,20 +188,20 @@
     { "imageBefore": "img4.webp", "imageAfter": "img6.webp" }
   ],
 
-  "contactSubtitle": "Get in Touch",
+  "contactSubtitle": "Contact Us",
   "contactTitle": "Contact Us",
-  "contactDescription": "Ready to elevate your hospitality and commit to excellence? Please fill out the form below, and our team will get back to you shortly to discuss how we can help you offer unforgettable stays to your guests.",
+  "contactDescription": "Ready to elevate your hospitality and commit to excellence? Please fill out the form below, and our team will be in touch shortly to discuss how we can help you provide unforgettable stays for your clients.",
 
   "fullNameLabel": "Full Name",
   "fullNamePlaceholder": "Your full name",
   "emailLabel": "Email",
-  "emailPlaceholder": "Your Email",
+  "emailPlaceholder": "Your email",
   "phoneLabel": "Phone",
-  "phonePlaceholder": "Your phone",
+  "phonePlaceholder": "Your phone number",
   "addressLabel": "Address",
-  "addressPlaceholder": "Location address",
+  "addressPlaceholder": "Your address location",
   "companyNameLabel": "Company",
-  "companyNamePlaceholder": "Name of Your Company",
+  "companyNamePlaceholder": "Your company name",
   "messageLabel": "Message",
   "messagePlaceholder": "Your message",
 
@@ -224,49 +210,49 @@
   "propertyRoomAmountLabel": "Number of Rooms",
   "propertyRoomAmountPlaceholder": "Number",
   "propertyMessageLabel": "Message / Comments or Special Requests",
-  "propertyMessagePlaceholder": "Your Message",
+  "propertyMessagePlaceholder": "Your message",
 
   "submit": "Submit",
-  "formSubmittedSuccessfully": "Form Submitted Successfully!",
-  "thankYouForYourSubmission": "Thank you for your submission. We will get back to you shortly.",
+  "formSubmittedSuccessfully": "Form submitted successfully!",
+  "thankYouForYourSubmission": "Thank you for your submission. We will get in touch soon.",
   "backToStart": "Back to Start",
 
-  "legalLinks": [
+   "legalLinks": [
     {
       "text": "Terms and Conditions",
       "DO_NOT_CHANGE": "terms",
       "array": [
         {
           "title": "1. Introduction",
-          "description": "Welcome to our website. By continuing to browse and use this website, you agree to comply with and be bound by the following terms and conditions of use, which govern our relationship with you in relation to this website, as well as our privacy policy."
+          "description": "Welcome to our website. By continuing to browse and use this site, you agree to comply with and be governed by the following terms of use, which regulate our relationship with you in relation to this site, as well as our privacy policy."
         },
         {
-          "title": "2. Website Usage License",
-          "description": "Unless otherwise stated, we or our licensors own the intellectual property rights in the website and the material on the website. Subject to the license below, all these intellectual property rights are reserved."
+          "title": "2. License to Use the Site",
+          "description": "Unless otherwise stated, we or our licensors own the intellectual property rights in the website and the materials contained therein. Subject to the license below, all those intellectual property rights are reserved."
         },
         {
           "title": "3. Acceptable Use",
-          "description": "You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way that is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity."
+          "description": "You must not use this website in a way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any illegal, fraudulent, or harmful manner, or in connection with any illegal, fraudulent, or harmful purpose or activity."
         },
         {
-          "title": "4. Limitations of Liability",
-          "description": "We will not be liable to you (whether under the law of contact, tort, or otherwise) in relation to the content, use of, or otherwise in connection with this website: for any indirect, special, or consequential loss; or for any loss of business, revenue, profits, anticipated savings, contracts, or commercial relationships, loss of reputation or goodwill, or loss or corruption of information or data."
+          "title": "4. Limitation of Liability",
+          "description": "We will not be liable to you (whether under the law of contract, tort, or otherwise) in relation to the content, use, or any other relationship with this website: for any indirect, special, or consequential loss; or for any loss of business, revenues, profits, expected savings, contracts, or commercial relationships, reputation or goodwill, or loss or corruption of information or data."
         },
         {
           "title": "5. Acceptable Use",
-          "description": "You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way that is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity."
+          "description": "You must not use this site in a way that causes, or may cause, damage to the site or impairment of the availability or accessibility of the site; or in any illegal, fraudulent, or harmful manner, or in connection with any illegal, fraudulent, or harmful activity or purpose."
         },
         {
           "title": "6. Acceptable Use",
-          "description": "You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way that is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity."
+          "description": "You must not use this site in a way that causes, or may cause, damage to the site or impairment of the availability or accessibility of the site; or in any illegal, fraudulent, or harmful manner, or in connection with any illegal, fraudulent, or harmful activity or purpose."
         },
         {
           "title": "7. Acceptable Use",
-          "description": "You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way that is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity."
+          "description": "You must not use this site in a way that causes, or may cause, damage to the site or impairment of the availability or accessibility of the site; or in any illegal, fraudulent, or harmful manner, or in connection with any illegal, fraudulent, or harmful activity or purpose."
         },
         {
           "title": "8. Acceptable Use",
-          "description": "You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way that is unlawful, illegal, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity."
+          "description": "You must not use this site in a way that causes, or may cause, damage to the site or impairment of the availability or accessibility of the site; or in any illegal, fraudulent, or harmful manner, or in connection with any illegal, fraudulent, or harmful activity or purpose."
         }
       ]
     },
@@ -276,25 +262,25 @@
       "array": [
         {
           "title": "1. Information We Collect",
-          "description": "We may collect the following information: name, contact details including email address, demographic information such as postal code, preferences and interests, and other relevant information for customer surveys and/or offers."
+          "description": "We may collect the following information: name, contact details, including email address, demographic information such as postal code, preferences and interests, and other information relevant to surveys and/or customer offers."
         },
         {
-          "title": "2. Use of Collected Information",
-          "description": "We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: internal record keeping, improvement of our products and services, sending promotional emails about new products, special offers, or other information we think you may find interesting using the email address you have provided."
+          "title": "2. Use of the Information We Collect",
+          "description": "We need this information to understand your needs and provide a better service, especially for the following purposes: maintaining internal records, improving our products and services, sending promotional emails about new products, special offers, or other information that we believe you may find interesting using the email address provided."
         },
         {
           "title": "3. Security",
-          "description": "We are committed to ensuring the security of your information. In order to prevent unauthorized access or disclosure, we have implemented suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online."
+          "description": "We are committed to ensuring the security of your information. To prevent unauthorized access or disclosure, we have implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online."
         },
         {
           "title": "4. Use of Cookies",
-          "description": "A cookie is a small file that asks permission to be placed on your computer's hard drive. Once you agree, the file is added, and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences."
+          "description": "A cookie is a small file that requests permission to be placed on your computer's hard drive. Once accepted, the file is added, and the cookie helps analyze web traffic or informs when you visit a specific site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes, by collecting and remembering information about your preferences."
         }
       ]
     }
   ],
 
-  "attributionsTitle": "Attributions",
+  "attributionsTitle": "Credits",
 
   "closeModalButton": "Close",
   "privacyPolicyWarningText": "By submitting this form, you agree to our ",
@@ -302,15 +288,15 @@
 
   "requiredField": "This field is required",
   "invalidEmail": "The email address is invalid",
-  "submissionError": "An unexpected error occurred while submitting. Please try again.",
+  "submissionError": "An unexpected error occurred while submitting the form. Please try again.",
 
-  "guideLinesAccessibilityText": "Note: The term accessibility_text[number] refers to accessibility features of the website designed for screen readers or individuals with visual impairments. It is recommended not to modify the following fields:",
+  "guideLinesAccessibilityText": "Notice: The term accessibility_text[number] refers to the accessibility features of the site designed for screen reader users or people with visual impairments. It is recommended not to modify the following fields:",
   "accessibility_text1": "Go to main content",
   "accessibility_text2": "Close the modal window and contact us",
   "accessibility_text3": "Close the modal window",
   "accessibility_text6": "Navigation menu",
 
-  "footerDescription": "Excellence Cleaners is a luxury property management agency based on the French Riviera. Our dedicated team offers personalized services to meet the unique needs of each property owner.",
+  "footerDescription": "Excellence Cleaners is a company specialized in cleaning services for different types of properties on the Côte d'Azur. We offer a complete range of cleaning services tailored to the specific needs of each property and service. Our team of specialists ensures personalized cleaning, with impeccable quality and total satisfaction.",
   "footerContactTitle": "Contact",
   "footerSiteLinksTitle": "Useful Links",
   "copyrightText": "Excellence Cleaners"
