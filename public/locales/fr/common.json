@@ -11,19 +11,19 @@
 
   "contactInfo": [
     {
-      "text": "contact@excellence-conciergerie.com",
+      "text": "contact@excellence-cleaners.com",
       "icon": "vector2.svg",
-      "link": "mailto:contact@excellence-conciergerie.com"
+      "link": "mailto:contact@excellence-cleaners.com"
     },
     {
-      "text": "+33 6 24 41 94 81",
+      "text": "+33 6 12 71 29 27",
       "icon": "vector1.svg",
-      "link": "https://wa.me/33624419481"
+      "link": "https://wa.me/33612712927"
     },
     {
-      "text": "+33 6 65 00 28 29",
+      "text": "+33 6 12 71 29 27",
       "icon": "vector3.svg",
-      "link": "tel:+33665002829"
+      "link": "tel:+33612712927"
     }
   ],
 
