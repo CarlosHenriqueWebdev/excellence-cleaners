@@ -289,12 +289,12 @@
   "afterBeforeBefore": "Avant",
   "afterBeforeAfter": "Après",
   "afterBefore": [
-    { "imageBefore": "img3.webp", "imageAfter": "img4.webp" },
-    { "imageBefore": "img5.webp", "imageAfter": "img6.webp" },
-    { "imageBefore": "img7.webp", "imageAfter": "img8.webp" },
-    { "imageBefore": "img9.webp", "imageAfter": "img10.webp" },
-    { "imageBefore": "img10.webp", "imageAfter": "img13.webp" },
-    { "imageBefore": "img4.webp", "imageAfter": "img6.webp" }
+    { "imageBefore": "i1 antes.jpg", "imageAfter": "i1 depois.jpg" },
+    { "imageBefore": "i2 antes.jpg", "imageAfter": "i2 depois.jpg" },
+    { "imageBefore": "i3 antes.jpg", "imageAfter": "i3 depois.jpg" },
+    { "imageBefore": "i4 antes.jpg", "imageAfter": "i4 depois.jpg" },
+    { "imageBefore": "i5 antes.jpg", "imageAfter": "i5 depois.jpg" },
+    { "imageBefore": "i6 antes.jpg", "imageAfter": "i6 depois.jpg" }
   ],
 
   "contactSubtitle": "Contactez-Nous",
