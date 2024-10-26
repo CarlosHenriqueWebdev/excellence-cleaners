@@ -179,14 +179,6 @@
   "afterBeforeTitle": "Amazing Transformations",
   "afterBeforeBefore": "Before",
   "afterBeforeAfter": "After",
-  "afterBefore": [
-    { "imageBefore": "i1 antes.jpg", "imageAfter": "i1 depois.jpg" },
-    { "imageBefore": "i2 antes.jpg", "imageAfter": "i2 depois.jpg" },
-    { "imageBefore": "i3 antes.jpg", "imageAfter": "i3 depois.jpg" },
-    { "imageBefore": "i4 antes.jpg", "imageAfter": "i4 depois.jpg" },
-    { "imageBefore": "i5 antes.jpg", "imageAfter": "i5 depois.jpg" },
-    { "imageBefore": "i6 antes.jpg", "imageAfter": "i6 depois.jpg" }
-  ],
 
   "contactSubtitle": "Contact Us",
   "contactTitle": "Contact Us",
