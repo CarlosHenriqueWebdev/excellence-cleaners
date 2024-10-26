@@ -70,9 +70,13 @@ export default function Hero() {
             </motion.button>
           </div>
 
+
           <motion.div
-            style={{ backgroundPositionY: `var(--bg-pos)` }}
-            className="w-full h-full bg-[url('/assets/images/img1.webp')] bg-center"
+            style={{
+              backgroundImage: `linear-gradient(rgba(255, 255, 255, 0.0), rgba(255, 255, 255, 0.0)), url('/assets/images/img1.webp')`,
+              backgroundPositionY: `var(--bg-pos)`
+            }}
+            className="w-full h-full bg-center"
           ></motion.div>
         </motion.div>
       </div>
