@@ -309,6 +309,12 @@
   "footerDescription": "Excellence Cleaners es una empresa especializada en servicios de limpieza para diferentes tipos de propiedades en la Côte d'Azur. Ofrecemos una gama completa de servicios de limpieza adaptados a las necesidades específicas de cada propiedad y servicio. Nuestro equipo de especialistas garantiza una limpieza personalizada, con una calidad impecable y total satisfacción.",
   "footerContactTitle": "Contacto",
   "footerSiteLinksTitle": "Enlaces Útiles",
-  "copyrightText": "Excellence Cleaners"
+  "copyrightText": "Excellence Cleaners",
+
+  "thankYouSubtitle": "¡Gracias!",
+  "thankYouTitle": "¡Tu envío ha sido recibido!",
+  "thankYouDescription": "Agradecemos que te hayas puesto en contacto. Nuestro equipo revisará tu mensaje y responderá lo antes posible.",
+  "additionalInfo": "Mientras tanto, siéntete libre de explorar más nuestro sitio web.",
+  "goBackHome": "Volver a la Página Principal"
 }
 

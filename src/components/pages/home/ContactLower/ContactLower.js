@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from "react"; // Import useState
 import { useTranslation } from "next-i18next";
 import emailjs from "emailjs-com";
 import { Formik, Form, Field, ErrorMessage } from "formik";
@@ -8,17 +8,17 @@ import {
   initialValues,
 } from "@/components/pages/home/ContactLower/components/formFieldsConfig";
 import { getValidationSchema } from "@/components/pages/home/ContactLower/components/validationSchemas";
+import { useRouter } from "next/router"; // Import useRouter to get the locale
 
 export default function ContactLower() {
   const { t } = useTranslation();
-  const [step, setStep] = useState(1);
-  const [submissionError, setSubmissionError] = useState("");
+  const [submissionError, setSubmissionError] = useState(""); // useState to handle errors
   const legalLinks = t("legalLinks", { returnObjects: true });
+  const router = useRouter(); // Initialize the router
+  const { locale } = router; // Get the current locale
 
   const handleSubmit = (values, { setSubmitting }) => {
-    const formData = {
-      ...values,
-    };
+    const formData = { ...values };
 
     emailjs
       .send(
@@ -30,8 +30,10 @@ export default function ContactLower() {
       .then(
         (response) => {
           console.log("SUCCESS!", response.status, response.text);
-          setStep(2);
           setSubmitting(false);
+
+          // Redirect to thank you page with the current locale
+          router.push(`/${locale}/thankyou`); // Redirect including the locale
         },
         (error) => {
           console.log("FAILED...", error);
@@ -46,7 +48,7 @@ export default function ContactLower() {
       });
   };
 
-  const renderFormFields = (fields, formType) => {
+  const renderFormFields = (fields) => {
     return fields?.map((field, index) => (
       <div key={index} className="flex flex-col gap-[12px]">
         <label className="text-[1rem]" htmlFor={field.name}>
@@ -101,52 +103,30 @@ export default function ContactLower() {
         initialValues={initialValues}
         validationSchema={getValidationSchema(t)}
         onSubmit={(values, actions) => {
-          if (step === 1) {
-            setStep(2);
-            handleSubmit(values, actions);
-            actions.setSubmitting(false);
-          }
+          handleSubmit(values, actions);
+          actions.setSubmitting(false);
         }}
         validateOnChange={false}
         validateOnBlur={false}
       >
         {({ isSubmitting }) => (
           <Form className="w-full p-[24px] border-solid border-color03 border-[1px] flex flex-col gap-[32px] shadow-custom rounded-[16px]">
-            {step === 1 && (
-              <div className="flex flex-col gap-[12px]">
-                {renderFormFields(formFields)}
-                <button
-                  type="submit"
-                  className="btn px-[32px] py-[12px] rounded-[4px] uppercase font-bold text-[14px] text-white w-full md:w-fit"
-                  disabled={isSubmitting}
-                >
-                  {t("submit")}{" "}
-                </button>
+            <div className="flex flex-col gap-[12px]">
+              {renderFormFields(formFields)}
+              <button
+                type="submit"
+                className="btn px-[32px] py-[12px] rounded-[4px] uppercase font-bold text-[14px] text-white w-full md:w-fit"
+                disabled={isSubmitting}
+              >
+                {t("submit")}
+              </button>
 
-                <PrivacyModalManager legalLinks={legalLinks} />
+              <PrivacyModalManager legalLinks={legalLinks} />
 
-                {submissionError && (
-                  <p className="text-[#FF4C4C]">{submissionError}</p>
-                )}
-              </div>
-            )}
-            {step === 2 && (
-              <div className="py-[80px] flex flex-col gap-[16px] items-center">
-                <h2 className="text-[1.5rem]">
-                  {t("formSubmittedSuccessfully")}
-                </h2>
-                <p className="text-color02 text-[1rem]">
-                  {t("thankYouForYourSubmission")}
-                </p>
-                <button
-                  type="button"
-                  className="btn px-[32px] py-[12px] rounded-[4px] uppercase font-bold text-[1rem] text-white w-full md:w-fit"
-                  onClick={() => setStep(1)}
-                >
-                  {t("backToStart")}
-                </button>
-              </div>
-            )}
+              {submissionError && (
+                <p className="text-[#FF4C4C]">{submissionError}</p>
+              )}
+            </div>
           </Form>
         )}
       </Formik>

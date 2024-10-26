@@ -408,5 +408,11 @@
   "footerDescription": "Excellence Cleaners est une entreprise spécialisée dans le nettoyage de différents types de propriétés sur la Côte d'Azur. Nous offrons une gamme complète de services de nettoyage adaptés aux besoins spécifiques de chaque propriété et type de service. Notre équipe experte garantit un nettoyage sur mesure, avec une qualité irréprochable et une satisfaction totale.",
   "footerContactTitle": "Contact",
   "footerSiteLinksTitle": "Liens Utiles",
-  "copyrightText": "Excellence Cleaners"
+  "copyrightText": "Excellence Cleaners",
+
+  "thankYouSubtitle": "Merci!",
+  "thankYouTitle": "Votre soumission a été reçue!",
+  "thankYouDescription": "Nous vous remercions de nous avoir contactés. Notre équipe examinera votre message et répondra dès que possible.",
+  "additionalInfo": "En attendant, n'hésitez pas à explorer davantage notre site web.",
+  "goBackHome": "Retourner à la Page d'Accueil"
 }
